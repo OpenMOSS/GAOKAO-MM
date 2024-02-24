@@ -1,0 +1,1187 @@
+{
+    "keywords": "2010-2023_Math_MCQs",
+    "example": [
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "4. (5 分) 如图, 质点 $P$ 在半径为 2 的圆周上逆时针运动, 其初始位置为 $P_0$ ( $\\sqrt{2},-\\sqrt{2})$, 角速度为 1 , 那么点 $\\mathrm{P}$ 到 $\\mathrm{x}$ 轴距离 $\\mathrm{d}$ 关于时间 $\\mathrm{t}$ 的函数图象大致为 $(\\quad)$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_0_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_0_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_0_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_0_3.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_0_4.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 通过分析可知当 $\\mathrm{t}=0$ 时, 点 $\\mathrm{P}$ 到 $\\mathrm{x}$ 轴距离 $\\mathrm{d}$ 为 $\\sqrt{2}$, 于是可以排除答案 $A, D$,再根据当 $t=\\frac{\\pi}{4}$ 时, 可知点 $P$ 在 $x$ 轴上此时点 $P$ 到 $x$ 轴距离 $d$ 为 0 , 排除答案 $B$,故选: C.",
+            "index": 0,
+            "score": 5
+        },
+        {
+            "year": "2010",
+            "category": "（新课标）",
+            "question": "7. (5 分) 如果执行如图的框图, 输入 $\\mathrm{N}=5$, 则输出的数等于 ( )A. $\\frac{5}{4}$B. $\\frac{4}{5}$C. $\\frac{6}{5}$D. $\\frac{5}{6}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_1_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: 分析程序中各变量、各语句的作用,再根据流程图所示的顺序，可知:该程序的作用是累加并输出 $S=\\frac{1}{1 \\times 2}+\\frac{1}{2 \\times 3}+\\frac{1}{3 \\times 4}+\\frac{1}{4 \\times 5}+\\frac{1}{5 \\times 6}$ 的值. $\\because S=\\frac{1}{1 \\times 2}+\\frac{1}{2 \\times 3}+\\frac{1}{3 \\times 4}+\\frac{1}{4 \\times 5}+\\frac{1}{5 \\times 6}=1-\\frac{1}{6}=\\frac{5}{6}$故选: D.",
+            "index": 1,
+            "score": 5
+        },
+        {
+            "year": "2011",
+            "category": "（新课标）",
+            "question": "3. (5 分) 执行如图的程序框图, 如果输入的 $N$ 是 6 , 那么输出的 $p$ 是 ( )A. 120\nB. 720\nC. 1440\nD. 5040",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_2_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 执行程序框图, 有$$N=6, k=1, p=1$$$P=1, k<N$ 成立, 有 $k=2$$P=2, k<N$ 成立, 有 $k=3$$P=6, k<N$ 成立, 有 $k=4$$P=24, k<N$ 成立, 有 $k=5$$P=120, k<N$ 成立, 有 $k=6$$P=720, k<N$ 不成立, 输出 $p$ 的值为 720 .故选: B.",
+            "index": 2,
+            "score": 5
+        },
+        {
+            "year": "2011",
+            "category": "(新课标)",
+            "question": "6. (5 分) 在一个几何体的三视图中, 正视图和俯视图如图所示, 则相应的侧视图可以为（）",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_3_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_3_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_3_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_3_3.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_3_4.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解：由俯视图和正视图可以得到几何体是一个简单的组合体,是由一个三棱雉和被轴截面截开的半个圆雉组成,$\\therefore$ 侧视图是一个中间有分界线的三角形,故选: D.",
+            "index": 3,
+            "score": 5
+        },
+        {
+            "year": "2012",
+            "category": "(新课标)",
+            "question": "6. (5 分) 如果执行右边的程序框图, 输入正整数 $N(N \\geqslant 2)$ 和实数 $a_1, a_2, \\ldots$ , $a_n$, 输出 $A, B$, 则 $(\\quad)$A. $A+B$ 为 $a_1, a_2, \\ldots, a_n$ 的和B. $\\frac{A+B}{2}$ 为 $a_1, a_2, \\ldots, a_n$ 的算术平均数C. $A$ 和 $B$ 分别是 $a_1, a_2, \\ldots, a_n$ 中最大的数和最小的数D. $A$ 和 $B$ 分别是 $a_1, a_2, \\ldots, a_n$ 中最小的数和最大的数",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_4_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 分析程序中各变量、各语句的作用,再根据流程图所示的顺序,可知, 该程序的作用是: 求出 $a_1, a_2, \\ldots, a_n$ 中最大的数和最小的数其中 $A$ 为 $a_1, a_2, \\ldots, a_n$ 中最大的数, $B$ 为 $a_1, a_2, \\ldots, a_n$ 中最小的数故选: C.",
+            "index": 4,
+            "score": 5
+        },
+        {
+            "year": "2012",
+            "category": "(新课标)",
+            "question": "7. (5 分) 如图, 网格纸上小正方形的边长为 1 , 粗线画出的是某几何体的三视图, 则此几何体的体积为 ( )A. 6B. 9C. 12D. 18",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_5_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 该几何体是三棱雉, 底面是俯视图, 三棱雉的高为 3 ;底面三角形斜边长为 6 , 高为 3 的等腰直角三角形,此几何体的体积为 $V=\\frac{1}{3} \\times \\frac{1}{2} \\times 6 \\times 3 \\times 3=9$.故选: B.",
+            "index": 5,
+            "score": 5
+        },
+        {
+            "year": "2012",
+            "category": "(新课标)",
+            "question": "10. (5 分) 已知函数 $f(x)=\\frac{1}{\\ln (x+1)-x}$, 则 $y=f(x)$ 的图象大致为 ( )",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_6_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_6_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_6_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_6_3.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解：设 $g(x)=\\ln (1+x)-x$则 $g^{\\prime}(x)=-\\frac{x}{1+x}$$\\therefore \\mathrm{g}(\\mathrm{x})$ 在 $(-1,0)$ 上为增函数, 在 $(0,+\\infty)$ 上为减函数$$\\begin{aligned}& \\therefore g(x)<g(0)=0 \\\\& \\therefore f(x)=\\frac{1}{g(x)}<0\\end{aligned}$$得: $\\mathrm{x}>0$ 或 $-1<\\mathrm{x}<0$ 均有 $\\mathrm{f}(\\mathrm{x})<0$ 排除 $\\mathrm{A}, \\mathrm{C}$,又 $f(x)=\\frac{1}{\\ln (x+1)-x}$ 中, $\\left\\{\\begin{array}{l}x+1>0 \\\\ \\ln (x+1)-x \\neq 0\\end{array}\\right.$, 能排除 $D$.故选: B.",
+            "index": 6,
+            "score": 5
+        },
+        {
+            "year": "2013",
+            "category": "（新课标Ⅰ）",
+            "question": "5. (5 分) 执行程序框图, 如果输入的 $\\mathrm{t} \\in[-1,3]$, 则输出的 $\\mathrm{s}$ 属于 ( )A. $[-3,4]$B. $[-5,2]$C. $[-4,3]$D. $[-2,5]$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_7_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解：由判断框中的条件为 $\\mathrm{t}<1$, 可得:函数分为两段, 即 $\\mathrm{t}<1$ 与 $\\mathrm{t} \\geqslant 1$,又由满足条件时函数的解析式为: $s=3 t$;不满足条件时, 即 $\\mathrm{t} \\geqslant 1$ 时, 函数的解析式为: $s=4 t-t^2$故分段函数的解析式为: $s=\\left\\{\\begin{array}{l}3 t, t<1 \\\\ 4 t-t^2, t \\geqslant 1\\end{array}\\right.$,如果输入的 $\\mathrm{t} \\in[-1,3]$, 画出此分段函数在 $\\mathrm{t} \\in[-1,3]$ 时的图象,则输出的 $\\mathrm{s}$ 属于 $[-3,4]$.故选: A.",
+            "index": 7,
+            "score": 5
+        },
+        {
+            "year": "2013",
+            "category": "（新课标Ⅰ）",
+            "question": "6. (5 分) 如图, 有一个水平放置的透明无盖的正方体容器, 容器高 $8 \\mathrm{~cm}$, 将一个球放在容器口, 再向容器注水, 当球面恰好接触水面时测得水深为 $6 \\mathrm{~cm}$,如不计容器的厚度, 则球的体积为 ( )A. $\\frac{500 \\pi}{3} \\mathrm{~cm}^3$B. $\\frac{866 \\pi}{3} \\mathrm{~cm}^3$C. $\\frac{1372 \\pi}{3} \\mathrm{~cm}^3$D. $\\frac{2048 \\pi}{3} \\mathrm{~cm}^3$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_8_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: 设正方体上底面所在平面截球得小圆 M,则圆心 $M$ 为正方体上底面正方形的中心. 如图.设球的半径为 $R$, 根据题意得球心到上底面的距离等于 $(R-2) \\mathrm{cm}$,而圆 $M$ 的半径为 4 , 由球的截面圆性质, 得 $R^2=(R-2)^2+4^2$,解出 $R=5$,$\\therefore$ 根据球的体积公式, 该球的体积 $\\mathrm{V}=\\frac{4 \\pi}{3} \\mathrm{R}^3=\\frac{4 \\pi}{3} \\times 5^3=\\frac{500 \\pi}{3} \\mathrm{~cm}^3$.故选: A.",
+            "index": 8,
+            "score": 5
+        },
+        {
+            "year": "2013",
+            "category": "（新课标Ⅰ）",
+            "question": "8. (5 分) 某几何体的三视图如图所示, 则该几何体的体积为 ( )A. $16+8 \\pi$B. $8+8 \\pi$C. $16+16 \\pi$D. $8+16 \\pi$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_9_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: 三视图复原的几何体是一个长方体与半个圆柱的组合体, 如图, 其中长方体长、宽、高分别是 $4,2,2$, 半个圆柱的底面半径为 2 , 母线长为 4$\\therefore$ 长方体的体积 $=4 \\times 2 \\times 2=16$,半个圆柱的体积 $=\\frac{1}{2} \\times 2^2 \\times \\pi \\times 4=8 \\pi$所以这个几何体的体积是 $16+8 \\pi$;故选: A.",
+            "index": 9,
+            "score": 5
+        },
+        {
+            "year": "2013",
+            "category": "（新课标Ⅱ）",
+            "question": "6. (5 分) 执行右面的程序框图, 如果输入的 $N=10$, 那么输出的 $S=(\\quad)$A. $1+\\frac{1}{2}+\\frac{1}{3}+\\cdots+\\frac{1}{10}$B. $1+\\frac{1}{2 !}+\\frac{1}{3 !}+\\cdots+\\frac{1}{10 !}$C. $1+\\frac{1}{2}+\\frac{1}{3}+\\cdots+\\frac{1}{11}$D. $1+\\frac{1}{2 !}+\\frac{1}{3 !}+\\cdots+\\frac{1}{11 !}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_10_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 框图首先给累加变量 $\\mathrm{S}$ 和循环变量 $\\mathrm{i}$ 赋值,$$S=0+1=1, k=1+1=2 \\text {; }$$判断 $k>10$ 不成立, 执行 $S=1+\\frac{1}{2}, k=2+1=3$;判断 $k>10$ 不成立, 执行 $S=1+\\frac{1}{2}+\\frac{1}{2 \\times 3}, k=3+1=4$;判断 $k>10$ 不成立, 执行 $S=1+\\frac{1}{2}+\\frac{1}{2 \\times 3}+\\frac{1}{2 \\times 3 \\times 4}, k=4+1=5$;",
+            "index": 10,
+            "score": 5
+        },
+        {
+            "year": "2013",
+            "category": "（新课标Ⅱ）",
+            "question": "7. (5 分) 一个四面体的顶点在空间直角坐标系 $0-x y z$ 中的坐标分别是 (1, 0 , 1) , $(1,1,0),(0,1,1),(0,0,0)$, 画该四面体三视图中的正视图时, 以 $z O x$ 平面为投影面, 则得到正视图可以为 $(\\quad)$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_11_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_11_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_11_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_11_3.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解：因为一个四面体的顶点在空间直角坐标系 $0-x y z$ 中的坐标分别是 $(1,0,1),(1,1,0),(0,1,1),(0,0,0)$, 几何体的直观图如图, 是正方体的顶点为顶点的一个正四面体, 所以以 $\\mathrm{zOx}$ 平面为投影面,则得到正视图为:故选: A.",
+            "index": 11,
+            "score": 5
+        },
+        {
+            "year": "2014",
+            "category": "（新课标Ⅰ）",
+            "question": "6. (5 分) 如图, 圆 $\\mathrm{O}$ 的半径为 $1, \\mathrm{~A}$ 是圆上的定点, $\\mathrm{P}$ 是圆上的动点, 角 $\\mathrm{x}$ 的始边为射线 $O A$, 终边为射线 $O P$, 过点 $P$ 作直线 $O A$ 的垂线, 垂足为 $M$, 将点 $M$ 到直线 $O P$ 的距离表示为 $x$ 的函数 $f(x)$, 则 $y=f(x)$ 在 $[0, \\pi]$ 的图象大致为 $(\\quad)$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_12_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_12_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_12_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_12_3.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_12_4.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 在直角三角形 $O M P$ 中, $O P=1, \\angle P O M=x$, 则 $O M=|\\cos x|$, $\\therefore$ 点 $\\mathrm{M}$ 到直线 $\\mathrm{OP}$ 的距离表示为 $\\mathrm{x}$ 的函数 $\\mathrm{f}(\\mathrm{x})=\\mathrm{OM}|\\sin \\mathrm{x}|$ $=|\\cos x| \\cdot|\\sin x|=\\frac{1}{2}|\\sin 2 x|$,其周期为 $T=\\frac{\\pi}{2}$, 最大值为 $\\frac{1}{2}$, 最小值为 0 ,故选: C.",
+            "index": 12,
+            "score": 5
+        },
+        {
+            "year": "2014",
+            "category": "（新课标Ⅰ）",
+            "question": "7. (5 分) 执行如图的程序框图, 若输入的 $a, b, k$ 分别为 $1,2,3$, 则输出的 $M=(\\quad)$A. $\\frac{20}{3}$B. $\\frac{7}{2}$C. $\\frac{16}{5}$D. $\\frac{15}{8}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_13_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解：由程序框图知：第一次循环 $M=1+\\frac{1}{2}=\\frac{3}{2}, a=2, b=\\frac{3}{2}, n=2$;第二次循环 $M=2+\\frac{2}{3}=\\frac{8}{3}, a=\\frac{3}{2}, b=\\frac{8}{3}, n=3$;第三次循环 $M=\\frac{3}{2}+\\frac{3}{8}=\\frac{15}{8}, \\mathrm{a}=\\frac{8}{3}, \\mathrm{~b}=\\frac{15}{8}, \\mathrm{n}=4$.不满足条件 $\\mathrm{n} \\leqslant 3$, 跳出循环体, 输出 $M=\\frac{15}{8}$.故选: D.",
+            "index": 13,
+            "score": 5
+        },
+        {
+            "year": "2014",
+            "category": "（新课标Ⅰ）",
+            "question": "12. (5 分) 如图, 网格纸上小正方形的边长为 1 , 粗实线画出的是某多面体的三视图, 则该多面体的各条棱中, 最长的棱的长度为 ( )A. $6 \\sqrt{2}$B. 6C. $4 \\sqrt{2}$D. 4",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_14_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 几何体的直观图如图: $A B=4, B D=4, C$ 到 $B D$ 的中点的距离为: 4 ,$$\\therefore \\mathrm{BC}=\\mathrm{CD}=\\sqrt{2^2+4^2}=2 \\sqrt{5} . \\quad \\mathrm{AC}=\\sqrt{4^2+(2 \\sqrt{5})^2}=6, \\quad \\mathrm{AD}=4 \\sqrt{2},$$显然 $\\mathrm{AC}$ 最长. 长为 6 .故选: B.",
+            "index": 14,
+            "score": 5
+        },
+        {
+            "year": "2014",
+            "category": "（新课标Ⅱ）",
+            "question": "6. (5 分) 如图, 网格纸上正方形小格的边长为 1 (表示 $1 \\mathrm{~cm}$ ), 图中粗线画出的是某零件的三视图, 该零件由一个底面半径为 $3 \\mathrm{~cm}$, 高为 $6 \\mathrm{~cm}$ 的圆柱体毛坏切削得到, 则切削掉部分的体积与原来毛坏体积的比值为 $(\\mathrm{I})$A. $\\frac{17}{27}$B. $\\frac{5}{9}$C. $\\frac{10}{27}$D. $\\frac{1}{3}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_15_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 几何体是由两个圆柱组成, 一个是底面半径为 3 高为 2 , 一个是底面半径为 2 , 高为 4 ,组合体体积是: $3^2 \\pi \\cdot 2+2^2 \\pi \\cdot 4=34 \\pi$.底面半径为 $3 \\mathrm{~cm}$, 高为 $6 \\mathrm{~cm}$ 的圆柱体毛坯的体积为: $3^2 \\pi \\times 6=54 \\pi$切削掉部分的体积与原来毛坯体积的比值为: $\\frac{54 \\pi-34 \\pi}{54 \\pi}=\\frac{10}{27}$.故选: C.",
+            "index": 15,
+            "score": 5
+        },
+        {
+            "year": "2014",
+            "category": "（新课标Ⅱ）",
+            "question": "7. (5 分) 执行如图所示的程序框图, 若输入的 $x, t$ 均为 2 , 则输出的 $S=(\\quad)$A. 4B. 5C. 6D. 7",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_16_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: 若 $x=t=2$,则第一次循环, $1 \\leqslant 2$ 成立, 则 $M=\\frac{1}{1} \\times 2=2, S=2+3=5, k=2$,第二次循环, $2 \\leqslant 2$ 成立, 则 $M=\\frac{2}{2} \\times 2=2, S=2+5=7, k=3$,此时 $3 \\leqslant 2$ 不成立, 输出 $S=7$,故选: D.",
+            "index": 16,
+            "score": 5
+        },
+        {
+            "year": "2015",
+            "category": "（新课标Ⅰ）",
+            "question": "6. (5 分) 《九章算术》是我国古代内容极为丰富的数学名著, 书中有如下问题：\"今有委米依垣内角, 下周八尺, 高五尺. 问：积及为米几何？ “其意思为: \"在屋内墙角处堆放米 (如图, 米堆为一个圆雉的四分之一), 米堆底部的弧长为 8 尺, 米堆的高为 5 尺, 问米堆的体积和堆放的米各为多少? “已知 1 斛米的体积约为 1.62 立方尺, 圆周率约为 3 , 估算出堆放的米约有 $($ )A. 14 斛B. 22 斛C. 36 斛D. 66 斛",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_17_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解：设圆雉的底面半径为 $r$, 则 $\\frac{\\pi}{2} r=8$,解得 $r=\\frac{16}{\\pi}$,故米堆的体积为 $\\frac{1}{4} \\times \\frac{1}{3} \\times \\pi \\times\\left(\\frac{16}{\\pi}\\right)^2 \\times 5 \\approx \\frac{320}{9}$, $\\because 1$ 斛米的体积约为 1.62 立方,$$\\therefore \\frac{320}{9} \\div 1.62 \\approx 22 \\text {, }$$故选：B.",
+            "index": 17,
+            "score": 5
+        },
+        {
+            "year": "2015",
+            "category": "（新课标Ⅰ）",
+            "question": "8. (5 分) 函数 $f(x)=\\cos (\\omega x+\\phi)$ 的部分图象如图所示, 则 $f(x)$ 的单调递减区间为() A. $\\left(k \\pi-\\frac{1}{4}, k \\pi+\\frac{3}{4}\\right), k \\in z$B. $\\left(2 k \\pi-\\frac{1}{4}, 2 k \\pi+\\frac{3}{4}\\right), k \\in z$C. $\\quad\\left(k-\\frac{1}{4}, k+\\frac{3}{4}\\right), k \\in z$D. $\\left(2 k-\\frac{1}{4}, 2 k+\\frac{3}{4}\\right), k \\in z$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_18_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: 由函数 $f(x)=\\cos (\\omega x+\\varphi)$ 的部分图象, 可得函数的周期为 $\\frac{2 \\pi}{\\omega}=2$$$\\left(\\frac{5}{4}-\\frac{1}{4}\\right)=2, \\therefore \\omega=\\pi, f(x)=\\cos (\\pi x+\\varphi) .$$再根据函数的图象以及五点法作图, 可得 $\\frac{\\pi}{4}+\\varphi=\\frac{\\pi}{2}, k \\in z$, 即 $\\varphi=\\frac{\\pi}{4}, f(x)=\\cos$ $\\left(\\pi x+\\frac{\\pi}{4}\\right)$.由 $2 k \\pi \\leqslant \\pi x+\\frac{\\pi}{4} \\leqslant 2 k \\pi+\\pi$, 求得 $2 k-\\frac{1}{4} \\leqslant x \\leqslant 2 k+\\frac{3}{4}$, 故 $f(x)$ 的单调递减区间为",
+            "index": 18,
+            "score": 5
+        },
+        {
+            "year": "2015",
+            "category": "（新课标Ⅰ）",
+            "question": "9. (5 分) 执行如图所示的程序框图, 如果输入的 $t=0.01$, 则输出的 $n=(\\quad)$A. 5B. 6C. 7D. 8",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_19_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 第一次执行循环体后, $S=\\frac{1}{2}, m=\\frac{1}{4}, n=1$, 不满足退出循环的条件;再次执行循环体后, $S=\\frac{1}{4}, m=\\frac{1}{8}, n=2$, 不满足退出循环的条件;再次执行循环体后, $s=\\frac{1}{8}, m=\\frac{1}{16}, n=3$, 不满足退出循环的条件;再次执行循环体后, $s=\\frac{1}{16}, \\mathrm{~m}=\\frac{1}{32}, \\mathrm{n}=4$, 不满足退出循环的条件;再次执行循环体后, $S=\\frac{1}{32}, m=\\frac{1}{64}, n=5$, 不满足退出循环的条件;再次执行循环体后, $S=\\frac{1}{64}, m=\\frac{1}{128}, n=6$, 不满足退出循环的条件;再次执行循环体后, $\\mathrm{S}=\\frac{1}{128}, \\mathrm{~m}=\\frac{1}{256}, \\mathrm{n}=7$, 满足退出循环的条件;故输出的 $\\mathrm{n}$ 值为 7 ,故选: C.",
+            "index": 19,
+            "score": 5
+        },
+        {
+            "year": "2015",
+            "category": "（新课标Ⅰ）",
+            "question": "11. (5 分) 圆柱被一个平面截去一部分后与半球（半径为 $r$ ) 组成一个几何体,该几何体三视图中的正视图和俯视图如图所示. 若该几何体的表面积为$16+20 \\pi$, 则 $r=(\\quad)$A. 1B. 2C. 4D. 8",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_20_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_20_1.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 由几何体三视图中的正视图和俯视图可知,截圆柱的平面过圆柱的轴线,该几何体是一个半球拼接半个圆柱,$\\therefore$ 其表面积为: $\\frac{1}{2} \\times 4 \\pi r^2+\\frac{1}{2} \\times \\pi r^2+\\frac{1}{2} \\times 2 r \\times 2 \\pi r+2 r \\times 2 r+\\frac{1}{2} \\times \\pi r^2=5 \\pi r^2+4 r^2$,又 $\\because$ 该几何体的表面积为 $16+20 \\pi$,$\\therefore 5 \\pi r^2+4 r^2=16+20 \\pi$, 解得 $r=2$,",
+            "index": 20,
+            "score": 5
+        },
+        {
+            "year": "2015",
+            "category": "（新课标Ⅱ）",
+            "question": "3. (5 分) 根据如图给出的 2004 年至 2013 年我国二氧化硫年排放量（单位:万吨）柱形图, 以下结论中不正确的是（）A. 逐年比较, 2008 年减少二氧化硫排放量的效果最显著B. 2007 年我国治理二氧化硫排放显现成效C. 2006 年以来我国二氧化硫年排放量呈减少趋势D. 2006 年以来我国二氧化硫年排放量与年份正相关",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_21_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A 从图中明显看出 2008 年二氧化硫排放量比 2007 年的二氧化硫排放量明显减少, 且减少的最多, 故 A 正确;B2004- 2006 年二氧化硫排放量越来越多，从 2007 年开始二氧化硫排放量变少",
+            "index": 21,
+            "score": 5
+        },
+        {
+            "year": "2015",
+            "category": "（新课标Ⅱ）",
+            "question": "6. (5 分) 一个正方体被一个平面截去一部分后, 剩余部分的三视图如图, 则截去部分体积与剩余部分体积的比值为 ( )A. $\\frac{1}{8}$B. $\\frac{1}{7}$C. $\\frac{1}{6}$D. $\\frac{1}{5}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_22_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解：设正方体的棱长为 1，由三视图判断，正方体被切掉的部分为三棱雉,$\\therefore$ 正方体切掉部分的体积为 $\\frac{1}{3} \\times \\frac{1}{2} \\times 1 \\times 1 \\times 1=\\frac{1}{6}$,$\\therefore$ 剩余部分体积为 $1-\\frac{1}{6}=\\frac{5}{6}$,$\\therefore$ 截去部分体积与剩余部分体积的比值为 $\\frac{1}{5}$.故选:D",
+            "index": 22,
+            "score": 5
+        },
+        {
+            "year": "2015",
+            "category": "（新课标Ⅱ）",
+            "question": "8. (5 分) 程序框图的算法思路源于我国古代数学名著《九章算术》中的“更相减损术”, 执行该程序框图, 若输入的 $a, b$ 分别为 14,18 , 则输出的 $a=(\\quad)$A. 0B. 2C. 4D. 14",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_23_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解：由 a=14，b=18，a＜b， 则 b 变为 18﹣14=4，由 a＞b，则 a 变为 14﹣4=10由 a＞b，则 a 变为 10﹣4=6由 a＞b，则 a 变为 6﹣4=2由 a＜b，则 b 变为 4﹣2=2由 a=b=2， 则输出的 a=2． 故选：B．",
+            "index": 23,
+            "score": 5
+        },
+        {
+            "year": "2015",
+            "category": "（新课标Ⅱ）",
+            "question": "10. (5 分) 如图, 长方形 $A B C D$ 的边 $A B=2, B C=1, O$ 是 $A B$ 的中点, 点 $P$ 沿着边 $B C, C D$ 与 $D A$ 运动, 记 $\\angle B O P=x$. 将动点 $P$ 到 $A, B$ 两点距离之和表示为 $x$的函数 $f(x)$, 则 $y=f(x)$ 的图象大致为 $(\\quad)$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_24_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_24_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_24_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_24_3.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_24_4.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解：当 $0 \\leqslant x \\leqslant \\frac{\\pi}{4}$ 时, $B P=\\tan x, A P=\\sqrt{A B^2+B P^2}=\\sqrt{4+\\tan ^2 x}$,此时 $f(x)=\\sqrt{4+\\tan ^2 x}+\\tan x, 0 \\leqslant x \\leqslant \\frac{\\pi}{4}$, 此时单调递增,当 $P$ 在 $C D$ 边上运动时, $\\frac{\\pi}{4} \\leqslant x \\leqslant \\frac{3 \\pi}{4}$ 且 $x \\neq \\frac{\\pi}{2}$ 时,如图所示, $\\tan \\angle P O B=\\tan (\\pi-\\angle P O Q)=\\tan x=-\\tan \\angle P O Q=-\\frac{P Q}{O Q}=-\\frac{1}{O Q}$, $\\therefore O Q=-\\frac{1}{\\tan x}$,$\\therefore P D=A O-O Q=1+\\frac{1}{\\tan x}, P C=B O+O Q=1-\\frac{1}{\\tan x}$,$\\therefore P A+P B=\\sqrt{\\left(1-\\frac{1}{\\tan x}\\right)^2+1}+\\sqrt{\\left(1+\\frac{1}{\\tan x}\\right)^2+1}$,当 $x=\\frac{\\pi}{2}$ 时, $P A+P B=2 \\sqrt{2}$,当 $P$ 在 $A D$ 边上运动时, $\\frac{3 \\pi}{4} \\leqslant x \\leqslant \\pi, P A+P B=\\sqrt{4+\\tan ^2 x}-\\tan x$,由对称性可知函数 $\\mathrm{f}(\\mathrm{x})$ 关于 $\\mathrm{x}=\\frac{\\pi}{2}$ 对称,且 $f\\left(\\frac{\\pi}{4}\\right)>f\\left(\\frac{\\pi}{2}\\right)$, 且轨迹为非线型,排除 A, C, D,故选: B.",
+            "index": 24,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅰ）",
+            "question": "6. (5 分) 如图, 某几何体的三视图是三个半径相等的圆及每个圆中两条相互垂直的半径. 若该几何体的体积是 $\\frac{28 \\pi}{3}$, 则它的表面积是 ( )A. $17 \\pi$B. $18 \\pi$C. $20 \\pi$D. $28 \\pi$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_25_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解：由题意可知三视图复原的几何体是一个球去掉 $\\frac{1}{8}$ 后的几何体, 如图可得: $\\frac{7}{8} \\times \\frac{4}{3} \\pi R^3=\\frac{28 \\pi}{3}, R=2$.它的表面积是: $\\frac{7}{8} \\times 4 \\pi \\cdot 2^2+\\frac{3}{4} \\times \\pi \\cdot 2^2=17 \\pi$.",
+            "index": 25,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅰ）",
+            "question": "7. (5 分) 函数 $y=2 x^2-e^{|x|}$ 在 $[-2,2]$ 的图象大致为 $(\\quad)$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_26_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_26_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_26_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_26_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: $\\because f(x)=y=2 x^2-e^{|x|}$,$$\\therefore f(-x)=2(-x)^2-e^{|-x|}=2 x^2-e^{|x|},$$故函数为偶函数,当 $x= \\pm 2$ 时, $y=8-e^2 \\in(0,1)$, 故排除 $A, B$;当 $x \\in[0,2]$ 时, $f(x)=y=2 x^2-e^x$,$\\therefore f^{\\prime}(x)=4 x-e^x=0$ 有解,故函数 $y=2 x^2-e^{|x|}$ 在 $[0,2]$ 不是单调的, 故排除 $C$,故选: D.",
+            "index": 26,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅰ）",
+            "question": "9. (5 分) 执行下面的程序框图, 如果输入的 $x=0, y=1, n=1$, 则输出 $x, y$ 的值满足（）A. $y=2 x$B. $y=3 x$C. $y=4 x$D. $y=5 x$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_27_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 输入 $x=0, y=1, n=1$,则 $x=0, y=1$, 不满足 $x^2+y^2 \\geqslant 36$, 故 $n=2$,则 $x=\\frac{1}{2}, y=2$, 不满足 $x^2+y^2 \\geqslant 36$, 故 $n=3$,则 $x=\\frac{3}{2}, y=6$, 满足 $x^2+y^2 \\geqslant 36$,故 $y=4 x$,故选: C.",
+            "index": 27,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅱ）",
+            "question": "5. (5 分) 如图, 小明从街道的 $\\mathrm{E}$ 处出发, 先到 $\\mathrm{F}$ 处与小红会合, 再一起到位于 $\\mathrm{G}$ 处的老年公寓参加志愿者活动, 则小明到老年公寓可以选择的最短路径条数为 $(\\quad)$A. 24B. 18C. 12D. 9",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_28_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 从 $E$ 到 $F$, 每条东西向的街道被分成 2 段, 每条南北向的街道被分成 2 段,从 $\\mathrm{E}$ 到 $\\mathrm{F}$ 最短的走法, 无论怎样走, 一定包括 4 段, 其中 2 段方向相同, 另 2 段方向相同，每种最短走法, 即是从 4 段中选出 2 段走东向的, 选出 2 段走北向的, 故共有 $\\mathrm{C}_4{ }^2 \\mathrm{C}_2{ }^2=6$ 种走法.同理从 $F$ 到 $G$, 最短的走法, 有 $C_3{ }^1 C_2{ }^2=3$ 种走法.$\\therefore$ 小明到老年公寓可以选择的最短路径条数为 $6 \\times 3=18$ 种走法.故选: B.",
+            "index": 28,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅱ）",
+            "question": "6. (5 分) 如图是由圆柱与圆雉组合而成的几何体的三视图, 则该几何体的表面积为 $(\\quad)$A. $20 \\pi$B. $24 \\pi$C. $28 \\pi$D. $32 \\pi$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_29_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 由三视图知, 空间几何体是一个组合体,上面是一个圆雉, 圆雉的底面直径是 4 , 圆雉的高是 $2 \\sqrt{3}$,$\\therefore$ 在轴截面中圆雉的母线长是 $\\sqrt{12+4}=4$,$\\therefore$ 圆雉的侧面积是 $\\pi \\times 2 \\times 4=8 \\pi$,下面是一个圆柱, 圆柱的底面直径是 4 , 圆柱的高是 4 ,$\\therefore$ 圆柱表现出来的表面积是 $\\pi \\times 2^2+2 \\pi \\times 2 \\times 4=20 \\pi$$\\therefore$ 空间组合体的表面积是 $28 \\pi$,故选: C.",
+            "index": 29,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅱ）",
+            "question": "8. (5 分) 中国古代有计算多项式值的秦九韶算法, 如图是实现该算法的程序框图. 执行该程序框图, 若输入的 $\\mathrm{x}=2, \\mathrm{n}=2$, 依次输入的 $\\mathrm{a}$ 为 $2,2,5$, 则输出的$s=(\\quad)$A. 7B. 12C. 17D. 34",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_30_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: $\\because$ 输入的 $x=2, n=2$,当输入的 a 为 2 时, $S=2, k=1$, 不满足退出循环的条件;当再次输入的 a 为 2 时, $S=6, k=2$, 不满足退出循环的条件;当输入的 $a$ 为 5 时, $S=17, k=3$, 满足退出循环的条件;故输出的 $\\mathrm{S}$ 值为 17 ,故选: C.",
+            "index": 30,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅲ）",
+            "question": "4. (5 分) 某旅游城市为向游客介绍本地的气温情况, 绘制了一年中各月平均最高气温和平均最低气温的雷达图, 图中 $\\mathrm{A}$ 点表示十月的平均最高气温约为 $15^{\\circ} \\mathrm{C}$, B 点表示四月的平均最低气温约为 $5^{\\circ} \\mathrm{C}$, 下面叙述不正确的是 ( )A. 各月的平均最低气温都在 $0^{\\circ} \\mathrm{C}$ 以上B. 七月的平均温差比一月的平均温差大C. 三月和十一月的平均最高气温基本相同D. 平均最高气温高于 $20^{\\circ} \\mathrm{C}$ 的月份有 5 个",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_31_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 由雷达图知各月的平均最低气温都在 $0^{\\circ} \\mathrm{C}$ 以上, 正确B. 七月的平均温差大约在 $10^{\\circ}$ 左右, 一月的平均温差在 $5^{\\circ}$ 左右, 故七月的平均温差比一月的平均温差大, 正确C. 三月和十一月的平均最高气温基本相同, 都为 $10^{\\circ}$, 正确D. 平均最高气温高于 $20^{\\circ} \\mathrm{C}$ 的月份有 7,8 两个月, 故 D 错误,故选D",
+            "index": 31,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅲ）",
+            "question": "7. (5 分) 执行如图程序框图, 如果输人的 $a=4, b=6$, 那么输出的 $n=(\\quad)$A. 3B. 4C. 5D. 6",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_32_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 模拟执行程序, 可得$$a=4, \\quad b=6, \\quad n=0, s=0$$执行循环体, $a=2, b=4, a=6, s=6, n=1$不满足条件 $s>16$, 执行循环体, $a=-2, b=6, a=4, s=10, n=2$不满足条件 $s>16$, 执行循环体, $a=2, b=4, a=6, s=16, n=3$不满足条件 $s>16$, 执行循环体, $a=-2, b=6, a=4, s=20, n=4$满足条件 $s>16$, 退出循环, 输出 $\\mathrm{n}$ 的值为 4 .故选: B.",
+            "index": 32,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "（新课标Ⅲ）",
+            "question": "9. (5 分) 如图, 网格纸上小正方形的边长为 1 , 粗实线画出的是某多面体的三视图，则该多面体的表面积为 ( )A. $18+36 \\sqrt{5}$B. $54+18 \\sqrt{5}$C. 90D. 81",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_33_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解：由已知中的三视图可得：该几何体是一个以主视图为底面的直四棱柱,其底面面积为: $3 \\times 6=18$,侧面的面积为: $\\left(3 \\times 3+3 \\times \\sqrt{3^2+6^2}\\right) \\times 2=18+18 \\sqrt{5}$,故棱柱的表面积为: $18 \\times 2+18+18 \\sqrt{5}=54+18 \\sqrt{5}$.故选: B.",
+            "index": 33,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "（新课标Ⅰ）",
+            "question": "2. (5 分) 如图, 正方形 $A B C D$ 内的图形来自中国古代的太极图. 正方形内切圆中的黑色部分和白色部分关于正方形的中心成中心对称. 在正方形内随机取一点, 则此点取自黑色部分的概率是 ( )A. $\\frac{1}{4}$B. $\\frac{\\pi}{8}$C. $\\frac{1}{2}$D. $\\frac{\\pi}{4}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_34_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解：根据图象的对称性知, 黑色部分为圆面积的一半, 设圆的半径为 1 , 则正方形的边长为 2 ,则黑色部分的面积 $S=\\frac{\\pi}{2}$,则对应概率 $\\mathrm{P}=\\frac{\\frac{\\pi}{2}}{4}=\\frac{\\pi}{8}$,故选: B.",
+            "index": 34,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "（新课标Ⅰ）",
+            "question": "7. (5 分) 某多面体的三视图如图所示, 其中正视图和左视图都由正方形和等腰直角三角形组成, 正方形的边长为 2 , 俯视图为等腰直角三角形, 该多面体的各个面中有若干个是梯形, 这些梯形的面积之和为 ( )A. 10B. 12C. 14D. 16",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_35_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 由三视图可画出直观图,该立体图中只有两个相同的梯形的面, $\\mathrm{S}_{\\text {梯形 }}=\\frac{1}{2} \\times 2 \\times(2+4)=6$,$\\therefore$ 这些梯形的面积之和为 $6 \\times 2=12$,故选：B.",
+            "index": 35,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "（新课标Ⅱ）",
+            "question": "4. (5 分) 如图, 网格纸上小正方形的边长为 1 , 粗实线画出的是某几何体的三视图, 该几何体由一平面将一圆柱截去一部分后所得, 则该几何体的体积为 $(\\quad)$A. $90 \\pi$B. $63 \\pi$C. $42 \\pi$D. $36 \\pi$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_36_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解：由三视图可得, 直观图为一个完整的圆柱减去一个高为 6 的圆柱的一半,$$V=\\pi \\cdot 3^2 \\times 10-\\frac{1}{2} \\cdot \\pi \\cdot 3^2 \\times 6=63 \\pi \\text {, }$$故选: B.",
+            "index": 36,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "（新课标Ⅱ）",
+            "question": "8. (5 分) 执行如图的程序框图, 如果输入的 $a=-1$, 则输出的 $S=(\\quad)$A. 2B. 3C. 4D. 5",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_37_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 执行程序框图, 有 $S=0, K=1, a=-1$, 代入循环,第一次满足循环, $S=-1, a=1, K=2$;满足条件, 第二次满足循环, $S=1, a=-1, \\mathrm{~K}=3$;满足条件, 第三次满足循环, $S=-2, a=1, K=4$;满足条件, 第四次满足循环, $S=2, a=-1, K=5$;满足条件, 第五次满足循环, $S=-3, a=1, K=6$;满足条件, 第六次满足循环, $S=3, a=-1, \\mathrm{~K}=7$; $\\mathrm{K} \\leqslant 6$ 不成立, 退出循环输出 $\\mathrm{S}$ 的值为 3 .故选: B.",
+            "index": 37,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "（新课标Ⅲ）",
+            "question": "3. (5 分) 某城市为了解游客人数的变化规律, 提高旅游服务质量, 收集并整理了 2014 年 1 月至 2016 年 12 月期间月接待游客量（单位: 万人) 的数据,绘制了下面的折线图.根据该折线图，下列结论错误的是（）A. 月接待游客量逐月增加B. 年接待游客量逐年增加C. 各年的月接待游客量高峰期大致在 7,8 月D. 各年 1 月至 6 月的月接待游客量相对于 7 月至 12 月, 波动性更小, 变化比较平稳",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_38_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: 由已有中 2014 年 1 月至 2016 年 12 月期间月接待游客量 (单位:万人) 的数据可得:月接待游客量逐月有增有减, 故 $\\mathrm{A}$ 错误;年接待游客量逐年增加, 故 B 正确;各年的月接待游客量高峰期大致在 7,8 月, 故 C 正确;各年 1 月至 6 月的月接待游客量相对于 7 月至 12 月，波动性更小，变化比较平稳, 故 D 正确;故选: A.",
+            "index": 38,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "（新课标Ⅲ）",
+            "question": "7. (5 分) 执行如图的程序框图, 为使输出 $\\mathrm{S}$ 的值小于 91 , 则输人的正整数 $\\mathrm{N}$的最小值为 ( )A. 5B. 4C. 3D. 2",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_39_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: 由题可知初始值 $t=1, M=100, S=0$,要使输出 $\\mathrm{S}$ 的值小于 91 , 应满足 “ $\\mathrm{t} \\leqslant \\mathrm{N}$ ”,则进入循环体, 从而 $S=100, M=-10, t=2$,要使输出 $\\mathrm{S}$ 的值小于 91 , 应接着满足“ $\\mathrm{t} \\leqslant \\mathrm{N}$ ”,则进入循环体, 从而 $S=90, M=1, t=3$,要使输出 $\\mathrm{S}$ 的值小于 91 , 应不满足 “ $\\mathrm{t} \\leqslant \\mathrm{N}$ ”, 跳出循环体,此时 $\\mathrm{N}$ 的最小值为 2 ,故选: D.",
+            "index": 39,
+            "score": 5
+        },
+        {
+            "year": "2018",
+            "category": "（新课标Ⅰ）",
+            "question": "3. (5 分) 某地区经过一年的新农村建设, 农村的经济收入增加了一倍, 实现翻番. 为更好地了解该地区农村的经济收入变化情况, 统计了该地区新农村建设前后农村的经济收入构成比例, 得到如下饼图:则下面结论中不正确的是 ( ）A. 新农村建设后, 种植收入减少B. 新农村建设后, 其他收入增加了一倍以上C. 新农村建设后, 养殖收入增加了一倍D. 新农村建设后, 养殖收入与第三产业收入的总和超过了经济收入的一半",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_40_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_40_1.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: 设建设前经济收入为 $a$, 建设后经济收入为 $2 a$. A 项，种植收入 $37 \\% \\times 2 a-60 \\% a=14 \\% a>0$,故建设后, 种植收入增加, 故 A 项错误. B 项，建设后，其他收入为 $5 \\% \\times 2 a=10 \\% a$,建设前, 其他收入为 $4 \\% a$,故 $10 \\% \\mathrm{a} \\div 4 \\% \\mathrm{a}=2.5>2$,故 B 项正确.C 项, 建设后, 养殖收入为 $30 \\% \\times 2 a=60 \\% a$,建设前，养殖收入为 $30 \\% \\mathrm{a}$,故 $60 \\% \\mathrm{a} \\div 30 \\% \\mathrm{a}=2$,故 C 项正确.$\\mathrm{D}$ 项, 建设后, 养殖收入与第三产业收入总和为 $(30 \\%+28 \\%) \\times 2 a=58 \\% \\times 2 a$,经济收入为 $2 \\mathrm{a}$,故（58\\% $\\times 2 a ） \\div 2 a=58 \\%>50 \\%$ ，故 D 项正确.因为是选择不正确的一项,故选: A.",
+            "index": 40,
+            "score": 5
+        },
+        {
+            "year": "2018",
+            "category": "（新课标Ⅰ）",
+            "question": "7. (5 分) 某圆柱的高为 2 , 底面周长为 16 , 其三视图如图. 圆柱表面上的点 $M$在正视图上的对应点为 $\\mathrm{A}$, 圆柱表面上的点 $\\mathrm{N}$ 在左视图上的对应点为 $\\mathrm{B}$, 则在此圆柱侧面上, 从 $\\mathrm{M}$ 到 $\\mathrm{N}$ 的路径中, 最短路径的长度为 ( )A. $2 \\sqrt{17}$B. $2 \\sqrt{5}$C. 3D. 2",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_41_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 由题意可知几何体是圆柱, 底面周长 16 , 高为: 2 ,直观图以及侧面展开图如图:圆柱表面上的点 $\\mathrm{N}$ 在左视图上的对应点为 $\\mathrm{B}$, 则在此圆柱侧面上, 从 $\\mathrm{M}$ 到 $\\mathrm{N}$ 的路径中, 最短路径的长度: $\\sqrt{2^2+4^2}=2 \\sqrt{5}$.故选: B.",
+            "index": 41,
+            "score": 5
+        },
+        {
+            "year": "2018",
+            "category": "（新课标Ⅰ）",
+            "question": "10. (5 分) 如图来自古希腊数学家希波克拉底所研究的几何图形. 此图由三个半圆构成, 三个半圆的直径分别为直角三角形 $A B C$ 的斜边 $B C$, 直角边 $A B, A C$ . $\\triangle A B C$ 的三边所围成的区域记为 I, 黑色部分记为 II, 其余部分记为 III. 在整个图形中随机取一点, 此点取自 I, II, III 的概率分别记为 $\\mathrm{p}_1, \\mathrm{p}_2, \\mathrm{p}_3$,则 $(\\quad)$A. $p_1=p_2$B. $\\mathrm{p}_1=\\mathrm{p}_3$C. $\\mathrm{p}_2=\\mathrm{p}_3$D. $p_1=p_2+p_3$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_42_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: 如图: 设 $B C=2 r_1, A B=2 r_2, A C=2 r_3$,$$\\begin{aligned}& \\therefore \\mathrm{r}_1^2=\\mathrm{r}_2^2+\\mathrm{r}_3^2, \\\\& \\therefore \\mathrm{S}_{\\mathrm{I}}=\\frac{1}{2} \\times 4 \\mathrm{r}_2 \\mathrm{r}_3=2 \\mathrm{r}_2 \\mathrm{r}_3, \\mathrm{~S}_{\\mathrm{II}}=\\frac{1}{2} \\times \\pi \\mathrm{r}_1^2-2 \\mathrm{r}_2 \\mathrm{r}_3, \\\\& \\mathrm{~S}_{\\mathrm{II}}=\\frac{1}{2} \\times \\pi \\mathrm{r}_3^2+\\frac{1}{2} \\times \\pi r_2^2-\\mathrm{S}_{\\mathrm{II}}=\\frac{1}{2} \\times \\pi r_3^2+\\frac{1}{2} \\times \\pi r_2^2-\\frac{1}{2} \\times \\pi r_1^2+2 \\mathrm{r}_2 \\mathrm{r}_3=2 \\mathrm{r}_2 \\mathrm{r}_3, \\\\& \\therefore \\mathrm{S}_{\\mathrm{I}}=\\mathrm{S}_{\\mathrm{II}}, \\\\& \\therefore \\mathrm{P}_1=\\mathrm{P}_2,\\end{aligned}$$故选: A.",
+            "index": 42,
+            "score": 5
+        },
+        {
+            "year": "2018",
+            "category": "（新课标Ⅱ）",
+            "question": "3. (5 分) 函数 $f(x)=\\frac{e^x-e^{-x}}{x^2}$ 的图象大致为 $(\\quad)$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_43_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_43_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_43_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_43_3.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 函数 $\\mathrm{f}(-\\mathrm{x})=\\frac{\\mathrm{e}^{-\\mathrm{x}}-\\mathrm{e}^{\\mathrm{x}}}{(-\\mathrm{x})^2}=-\\frac{\\mathrm{e}^{\\mathrm{x}}-\\mathrm{e}^{-\\mathrm{x}}}{\\mathrm{x}^2}=-\\mathrm{f}(\\mathrm{x})$,则函数 $\\mathrm{f}(\\mathrm{x})$ 为奇函数, 图象关于原点对称, 排除 $\\mathrm{A}$,当 $x=1$ 时, $f(1)=e-\\frac{1}{e}>0$, 排除 $D$.当 $x \\rightarrow+\\infty$ 时, $f(x) \\rightarrow+\\infty$, 排除 $C$,故选: B.",
+            "index": 43,
+            "score": 5
+        },
+        {
+            "year": "2018",
+            "category": "（新课标Ⅱ）",
+            "question": "7. (5 分) 为计算 $S=1-\\frac{1}{2}+\\frac{1}{3}-\\frac{1}{4}+\\ldots+\\frac{1}{99}-\\frac{1}{100}$, 设计了如图的程序框图, 则在空白框中应填入（）A. $i=i+1$B. $\\mathrm{i}=\\mathrm{i}+2$C. $i=i+3$D. $\\mathrm{i}=\\mathrm{i}+4$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_44_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 模拟程序框图的运行过程知,该程序运行后输出的是$$\\mathrm{S}=\\mathrm{N}-\\mathrm{T}=\\left(1-\\frac{1}{2}\\right)+\\left(\\frac{1}{3}-\\frac{1}{4}\\right)+\\ldots+\\left(\\frac{1}{99}-\\frac{1}{100}\\right) ;$$累加步长是 2, 则在空白处应填入 $i=i+2$.故选: B.",
+            "index": 44,
+            "score": 5
+        },
+        {
+            "year": "2018",
+            "category": "（新课标Ⅲ）",
+            "question": "3. (5 分) 中国古建筑借助榫卯将木构件连接起来. 构件的凸出部分叫榫头, 凹进部分叫卯眼, 图中木构件右边的小长方体是榫头. 若如图摆放的木构件与某一带卯眼的木构件咬合成长方体，则咬合时带卯眼的木构件的俯视图可以是 ( )",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_45_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_45_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_45_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_45_3.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_45_4.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: 由题意可知, 如图摆放的木构件与某一带卯眼的木构件咬合成长方体, 小的长方体, 是榫头, 从图形看出, 轮廓是长方形, 内含一个长方形,并且一条边重合, 另外 3 边是虚线, 所以木构件的俯视图是 $\\mathrm{A}$.故选: A.",
+            "index": 45,
+            "score": 5
+        },
+        {
+            "year": "2018",
+            "category": "（新课标Ⅲ）",
+            "question": "7. (5 分) 函数 $y=-x^4+x^2+2$ 的图象大致为 ( )",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_46_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_46_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_46_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_46_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: 函数过定点 $(0,2)$, 排除 $A, B$.函数的导数 $f^{\\prime}(x)=-4 x^3+2 x=-2 x\\left(2 x^2-1\\right)$,由 $f^{\\prime}(x)>0$ 得 $2 x\\left(2 x^2-1\\right)<0$,得 $x<-\\frac{\\sqrt{2}}{2}$ 或 $0<x<\\frac{\\sqrt{2}}{2}$, 此时函数单调递增,由 $f^{\\prime}(x)<0$ 得 $2 x\\left(2 x^2-1\\right)>0$,得 $x>\\frac{\\sqrt{2}}{2}$ 或 $-\\frac{\\sqrt{2}}{2}<x<0$, 此时函数单调递减, 排除 $C$,也可以利用 $f(1)=-1+1+2=2>0$, 排除 $A, B$,故选: D.",
+            "index": 46,
+            "score": 5
+        },
+        {
+            "year": "2019",
+            "category": "（新课标Ⅰ）",
+            "question": "5. 函数 $f(x)=\\frac{\\sin x+x}{\\cos x+x^2}$ 在 $[-\\pi, \\pi]$ 的图像大致为",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_47_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_47_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_47_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_47_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】由 $f(-x)=\\frac{\\sin (-x)+(-x)}{\\cos (-x)+(-x)^2}=\\frac{-\\sin x-x}{\\cos x+x^2}=-f(x)$, 得 $f(x)$ 是奇函数, 其图象关于原点对称. 又 $f\\left(\\frac{\\pi}{2}\\right)=\\frac{1+\\frac{\\pi}{2}}{\\left(\\frac{\\pi}{2}\\right)^2}=\\frac{4+2 \\pi}{\\pi^2}>1, f(\\pi)=\\frac{\\pi}{-1+\\pi^2}>0$. 故选 D.",
+            "index": 47,
+            "score": 5
+        },
+        {
+            "year": "2019",
+            "category": "（新课标Ⅰ）",
+            "question": "6.我国古代典籍《周易》用 “卦” 描述万物的变化. 每一 “重卦” 由从下到上排列的 6 个爻组成, 爻分为阳父 “——” 和阴爻 “- -” , 如图就是一重卦. 在所有重卦中随机取一重卦, 则该重卦恰有 3 个阳爻的概率是A. $\\frac{5}{16}$B. $\\frac{11}{32}$C. $\\frac{21}{32}$D. $\\frac{11}{16}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_48_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】由题知，每一爻有 2 中情况，一重卦的 6 爻有 $2^6$ 情况，其中 6 爻中恰有 3 个阳爻情况有 $\\mathrm{C}_6^3$, 所以该重卦恰有 3 个阳父的概率为 $\\frac{C_6^3}{2^6}=\\frac{5}{16}$, 故选 A.",
+            "index": 48,
+            "score": 5
+        },
+        {
+            "year": "2019",
+            "category": "（新课标Ⅰ）",
+            "question": "8.如图是求 $\\frac{1}{2+\\frac{1}{2+\\frac{1}{2}}}$ 的程序框图, 图中空白框中应填入A. $A=\\frac{1}{2+A}$B. $A=2+\\frac{1}{A}$C. $A=\\frac{1}{1+2 A}$D.$A=1+\\frac{1}{2 A}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_49_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】执行第 1 次, $A=\\frac{1}{2}, k=1 \\leq 2$ 是, 因为第一次应该计算 $\\frac{1}{2+\\frac{1}{2}}=\\frac{1}{2+A}, k=k+1=2$,循环, 执行第 2 次, $k=2 \\leq 2$, 是, 因为第二次应该计算 $\\frac{1}{2+\\frac{1}{2+\\frac{1}{2}}}=\\frac{1}{2+A}, k=k+1=3$,循环, 执行第 3 次, $k=2 \\leq 2$, 否, 输出, 故循环体为 $A=\\frac{1}{2+A}$, 故选 A.",
+            "index": 49,
+            "score": 5
+        },
+        {
+            "year": "2019",
+            "category": "（新课标Ⅲ）",
+            "question": "7. 函数 $y=\\frac{2 x^3}{2^x+2^{-x}}$ 在 $[-6,6]$ 的图像大致为",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_50_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_50_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_50_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_50_3.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】设 $y=f(x)=\\frac{2 x^3}{2^x+2^{-x}}$, 则 $f(-x)=\\frac{2(-x)^3}{2^{-x}+2^x}=-\\frac{2 x^3}{2^x+2^{-x}}=-f(x)$, 所以 $f(x)$ 是奇函数, 图象关于原点成中心对称, 排除选项 C. 又 $f(4)=\\frac{2 \\times 4^3}{2^4+2^{-4}}>0$, 排除选项 D; $f(6)=\\frac{2 \\times 6^3}{2^6+2^{-6}} \\approx 7$, 排除选项 A, 故选 B.",
+            "index": 50,
+            "score": 5
+        },
+        {
+            "year": "2019",
+            "category": "（新课标Ⅲ）",
+            "question": "8. 如图, 点 $N$ 为正方形 $A B C D$ 的中心, $\\triangle E C D$ 为正三角形, 平面 $E C D \\perp$ 平面 $A B C D, M$ 是线段 $E D$ 的中点, 则 ( )A. $B M=E N$, 且直线 $B M, E N$ 是相交直线B. $B M \\neq E N$, 且直线 $B M, E N$ 是相交直线C. $B M=E N$, 且直线 $B M, E N$ 是异面直线D. $B M \\neq E N$, 且直线 $B M, E N$ 是异面直线",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_51_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】 $\\because \\triangle B D E, N$ 为 $B D$ 中点 $M$ 为 $D E$ 中点, $\\therefore B M, E N$ 共面相交, 选项 C, D 为错. 作 $E O \\perp C D$ 于 $O$, 连接 $O N$, 过 $M$ 作 $M F \\perp O D$ 于 $F$.连 $B F, \\because$ 平面 $C D E \\perp$ 平面 $A B C D$.$E O \\perp C D, E O \\subset$ 平面 $C D E, \\therefore E O \\perp$ 平面 $A B C D, M F \\perp$ 平面 $A B C E$,$\\therefore \\triangle M F B$ 与 $\\triangle E O N$ 均为直角三角形.设正方形边长为 2 , 易知 $E O=\\sqrt{3}, 0 N=1 \\quad E N=2$,$$M F=\\frac{\\sqrt{3}}{2}, \\quad B F=\\sqrt{2^2+\\frac{9}{4}}=\\frac{5}{2} \\quad \\therefore \\quad B M=\\sqrt{\\frac{3}{4}+\\frac{24}{4}}=\\sqrt{7} .$$$\\therefore B M \\neq E N$, 故选 B.",
+            "index": 51,
+            "score": 5
+        },
+        {
+            "year": "2019",
+            "category": "（新课标Ⅲ）",
+            "question": "9. 执行如图所示的程序框图, 如果输人的 $\\varepsilon$ 为 0.01 , 则输出 $S$ 的值等于 ( )A. $2-\\frac{1}{2^4}$B. $2-\\frac{1}{2^5}$C. $2-\\frac{1}{2^6}$D.$2-\\frac{1}{2^7}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_52_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】 $x=1 . S=0, S=0+1, x=\\frac{1}{2}<0.01$ ? 不成立 $S=0+1+\\frac{1}{2}, x=\\frac{1}{4}<0.01$ ? 不成立$S=0+1+\\frac{1}{2}+\\cdots+\\frac{1}{2^6}, \\quad x=\\frac{1}{128}=0.0078125<0.01$ 成立输出 $S=1+\\frac{1}{2}+\\ldots+\\frac{1}{2^6}=\\frac{1-\\frac{1}{2^7}}{1-\\frac{1}{2}}=2\\left(1-\\frac{1}{2^7}\\right)$, 故选 D.",
+            "index": 52,
+            "score": 5
+        },
+        {
+            "year": "2020",
+            "category": "（新课标Ⅰ）",
+            "question": "5. 某校一个课外学习小组为研究某作物种子的发芽率 $y$ 和温度 $x$ (单位: ${ }^{\\circ} \\mathrm{C}$ ) 的关系, 在 20 个不同的温度条件下进行种子发芽实验, 由实验数据 $\\left(x_i, y_i\\right)(i=1,2, \\cdots, 20)$ 得到下面的散点图:由此散点图, 在 $10^{\\circ} \\mathrm{C}$ 至 $40^{\\circ} \\mathrm{C}$ 之间, 下面四个回归方程类型中最适宜作为发芽率 $y$ 和温度 $x$ 的回归方程类型的是 ( )A. $y=a+b x$B. $y=a+b x^2$C. $y=a+b \\mathrm{e}^x$D. $y=a+b \\ln x$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_53_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】由散点图分布可知, 散点图分布在一个对数函数的图象附近,因此, 最适合作为发芽率 $y$ 和温度 $x$ 的回归方程类型的是 $y=a+b \\ln x$.故选: D.",
+            "index": 53,
+            "score": 5
+        },
+        {
+            "year": "2020",
+            "category": "（新课标Ⅰ）",
+            "question": "7. 设函数 $f(x)=\\cos \\left(\\omega x+\\frac{\\pi}{6}\\right)$ 在 $[-\\pi, \\pi]$ 的图像大致如下图, 则 $f(x)$ 的最小正周期为（）A. $\\frac{10 \\pi}{9}$B. $\\frac{7 \\pi}{6}$C. $\\frac{4 \\pi}{3}$D. $\\frac{3 \\pi}{2}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_54_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】由图可得: 函数图象过点 $\\left(-\\frac{4 \\pi}{9}, 0\\right)$,将它代入函数 $f(x)$ 可得: $\\cos \\left(-\\frac{4 \\pi}{9} \\cdot \\omega+\\frac{\\pi}{6}\\right)=0$又 $\\left(-\\frac{4 \\pi}{9}, 0\\right)$ 是函数 $f(x)$ 图象与 $x$ 轴负半轴的第一个交点,所以 $-\\frac{4 \\pi}{9} \\cdot \\omega+\\frac{\\pi}{6}=-\\frac{\\pi}{2}$, 解得: $\\omega=\\frac{3}{2}$所以函数 $f(x)$ 的最小正周期为 $T=\\frac{2 \\pi}{\\omega}=\\frac{2 \\pi}{\\frac{3}{2}}=\\frac{4 \\pi}{3}$故选: C",
+            "index": 54,
+            "score": 5
+        },
+        {
+            "year": "2020",
+            "category": "（新课标Ⅱ）",
+            "question": "7. 如图是一个多面体的三视图, 这个多面体某条棱的一个端点在正视图中对应的点为 $M$ , 在俯视图中对应的点为 $N$, 则该端点在侧视图中对应的点为（）A. $E$B. $F$C. $G$D. $H$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_55_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】根据三视图, 画出多面体立体图形,$D_1 D_4$ 上的点在正视图中都对应点 $M$, 直线 $B_3 C_4$ 上的点在俯视图中对应的点为 $\\mathrm{N}$,$\\therefore$ 在正视图中对应 $M$, 在俯视图中对应 $N$ 的点是 $D_4$, 线段 $D_3 D_4$, 上的所有点在侧试图中都对应 $E, \\therefore$ 点 $D_4$ 在侧视图中对应的点为 $E$.故选: A",
+            "index": 55,
+            "score": 5
+        },
+        {
+            "year": "2020",
+            "category": "（新课标Ⅲ）",
+            "question": "8.下图为某几何体的三视图, 则该几何体的表面积是 $(\\cdots)$A. $6+4 \\sqrt{2}$B. $4+4 \\sqrt{2}$C. $6+2 \\sqrt{3}$D. $4+2 \\sqrt{3}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_56_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】根据三视图特征, 在正方体中截取出符合题意的立体图形根据立体图形可得: $S_{{\\triangle} A B C}=S_{{\\triangle} A D C}=S_{{\\triangle} C D B}=\\frac{1}{2} \\times 2 \\times 2=2$.根据勾股定理可得: $A B=A D=D B=2 \\sqrt{2}$$\\therefore \\triangle A D B$ 是边长为 $2 \\sqrt{2}$ 的等边三角形根据三角形面积公式可得:$$S_{{\\triangle} A D B}=\\frac{1}{2} A B \\cdot A D \\cdot \\sin 60^{\\circ}=\\frac{1}{2}(2 \\sqrt{2})^2 \\cdot \\frac{\\sqrt{3}}{2}=2 \\sqrt{3}$$$\\therefore$ 该几何体的表面积是: $3 \\times 2+2 \\sqrt{3}=6+2 \\sqrt{3}$.故选: C.",
+            "index": 56,
+            "score": 5
+        },
+        {
+            "year": "2021",
+            "category": "（全国甲卷）",
+            "question": "2. 为了解某地农村经济情况, 对该地农户家庭年收人进行抽样调查, 将农户家庭年收人的调查数据整理得到如下频率分布直方图:根据此频率分布直方图, 下面结论中不正确的是（）A. 该地农户家庭年收人低于 4.5 万元的农户比率估计为 $6 \\%$B. 该地农户家庭年收人不低于 10.5 万元的农户比率估计为 $10 \\%$C. 估计该地农户家庭年收人的平均值不超过 6.5 万元D. 估计该地有一半以上的农户, 其家庭年收人介于 4.5 万元至 8.5 万元之间",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_57_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】因为频率直方图中的组距为 1 , 所以各组的直方图的高度等于频率.样本频率直方图中的频率即可作为总体的相应比率的估计值.该地农户家庭年收人低于 4.5 万元的农户的比率估计值为 $0.02+0.04=0.06=6 \\%$, 故 A 正确;该地农户家庭年收人不低于 10.5 万元的农户比率估计值为 $0.04+0.02 \\times 3=0.10=10 \\%$, 故 B 正确;该地农户家庭年收人介于 4.5 万元至 8.5 万元之间的比例估计值为$0.10+0.14+0.20 \\times 2=0.64=64 \\%>50 \\%$, 故 D 正确;该地农户家庭年收人的平均值的估计值为$3 \\times 0.02+4 \\times 0.04+5 \\times 0.10+6 \\times 0.14+7 \\times 0.20+8 \\times 0.20+9 \\times 0.10+10 \\times 0.10+11 \\times 0.04+12 \\times 0.02+13 \\times 0.02+14 \\times 0.02=7.68$ (万元), 超过 6.5 万元, 故 C 错误.综上, 给出结论中不正确的是 C.故选: C.",
+            "index": 57,
+            "score": 5
+        },
+        {
+            "year": "2021",
+            "category": "（全国甲卷）",
+            "question": "6. 在一个正方体中, 过顶点 $A$ 的三条棱的中点分别为 $E, F, G$. 该正方体截去三棱雉 $A-E F G$ 后, 所得多面体的三视图中, 正视图如图所示, 则相应的侧视图是 ( )",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_58_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_58_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_58_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_58_3.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_58_4.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】由题意及正视图可得几何体的直观图, 如图所示,所以其侧视图为故选: D",
+            "index": 58,
+            "score": 5
+        },
+        {
+            "year": "2021",
+            "category": "（全国甲卷）",
+            "question": "8.2020 年 12 月 8 日, 中国和尼泊尔联合公布珠穆朗玛峰最新高程为 8848.86 (单位: $\\mathrm{m}$ ), 三角高程测量法是珠峰高程测量方法之一. 如图是三角高程测量法的一个示意图, 现有 $A, B, C$ 三点, 且 $A, B, C$ 在同一水平面上的投影 $A^{\\prime}, B^{\\prime}, C^{\\prime}$ 满足 $\\angle A^{\\prime} C^{\\prime} B^{\\prime}=45^{\\circ}, \\angle A^{\\prime} B^{\\prime} C^{\\prime}=60^{\\circ}$. 由 $C$ 点测得 $B$ 点的仰角为 $15^{\\circ}, B B^{\\prime}$ 与 $C C^{\\prime}$ 的差为 100 ; 由 $B$ 点测得 $A$ 点的仰角为 $45^{\\circ}$, 则 $A, C$ 两点到水平面 $A^{\\prime} B^{\\prime} C^{\\prime}$ 的高度差 $A A^{\\prime}-C C^{\\prime}$ 约为 $(\\sqrt{3} \\approx 1.732)(\\quad)$A. 346B. 373C. 446D. 473",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_59_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【",
+            "index": 59,
+            "score": 5
+        },
+        {
+            "year": "2021",
+            "category": "（全国乙卷）",
+            "question": "9. 魏晋时期刘徽撰写的《海岛算经》是关于测量的数学著作, 其中第一题是测量海盗的高。如图, 点 $\\mathrm{E}, \\mathrm{H}, \\mathrm{G}$ 在水平线 $\\mathrm{AC}$ 上, $\\mathrm{DE}$ 和 $\\mathrm{FG}$ 是两个垂直于水平面且等高的测量标杆的高度, 称为 “表高”, $\\mathrm{EG}$ 称为 “表距”, GC 和 EH 都称为 “表目距”, $\\mathrm{GC}$ 与 $\\mathrm{EH}$ 的差称为 “表目距的差”。则海岛的高 $\\mathrm{AB}=()$.$A ： \\frac{\\text { 表高 } \\times \\text { 表距 }}{\\text { 表目距的差 }}+$ 表高B： $\\frac{\\text { 表高}\\times\\text{表距 }}{\\text { 表目距的差 }}-$ 表高$C: \\frac{\\text { 表高 } \\times \\text { 表距 }}{\\text { 表目距的差 }}+$ 表距.D: $\\frac{\\text { 表高 } \\times \\text { 表距 }}{\\text { 表目距的差 }}-$ 表距",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_60_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "解析:连接 $D F$ 交 $A B$ 于 $M$, 则 $A B=A M+B M$.记 $\\angle B D M=a, \\angle B F M=\\beta$, 则 $\\frac{M B}{\\tan \\beta}-\\frac{M B}{\\tan \\alpha}=M F-M D=D F$.而 $\\tan \\beta=\\frac{F G}{G C}, \\tan a=\\frac{E D}{E H}$. 所以$$\\frac{M B}{\\tan \\beta}-\\frac{M B}{\\tan \\alpha}=M B\\left(\\frac{1}{\\tan \\beta}-\\frac{1}{\\tan \\alpha}\\right)=M B \\cdot\\left(\\frac{G C}{F G}-\\frac{E H}{E D}\\right)=M B \\cdot \\frac{G C-E H}{E D}$$故 $M B=\\frac{E D \\cdot D F}{G C-E H}=\\frac{\\text { 表高 } \\times \\text { 表距 }}{\\text { 表目距的差 }}$, 所以高 $A B=\\frac{\\text { 表高 } \\times \\text { 表距 }}{\\text { 表目距的差 }}+$ 表高.",
+            "index": 60,
+            "score": 5
+        },
+        {
+            "year": "2022",
+            "category": "（全国甲卷）",
+            "question": "2. 某社区通过公益讲座以普及社区居民的垃圾分类知识. 为了解讲座效果, 随机抽取 10 位社区居民，让他们在讲座前和讲座后各回答一份垃圾分类知识问卷，这 10 位社区居民在讲座前和讲座后问卷答题的正确率如下图:则 ()A. 讲座前问卷答题的正确率的中位数小于 $70 \\%$B. 讲座后问卷答题的正确率的平均数大于 $85 \\%$C. 讲座前问卷答题的正确率的标准差小于讲座后正确率的标准差D. 讲座后问卷答题的正确率的极差大于讲座前正确率的极差",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_61_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】讲座前中位数为 $\\frac{70 \\%+75 \\%}{2}>70 \\%$, 所以 $\\mathrm{A}$ 错;讲座后问卷答题的正确率只有一个是 $80 \\%, 4$ 个 $85 \\%$, 剩下全部大于等于 $90 \\%$, 所以讲座后问卷答题的正确率的平均数大于 $85 \\%$, 所以 $\\mathrm{B}$ 对;讲座前问卷答题的正确率更加分散,所以讲座前问卷答题的正确率的标准差大于讲座后正确率的标准差,所以 $\\mathrm{C}$ 错;讲座后问卷答题的正确率的极差为 $100 \\%-80 \\%=20 \\%$,讲座前问卷答题的正确率的极差为 $95 \\%-60 \\%=35 \\%>20 \\%$, 所以 $D$ 错.故选:B.",
+            "index": 61,
+            "score": 5
+        },
+        {
+            "year": "2022",
+            "category": "（全国甲卷）",
+            "question": "5. 函数 $y=\\left(3^x-3^{-x}\\right) \\cos x$ 在区间 $\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]$ 的图象大致为 ()",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_62_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_62_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_62_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_62_3.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】令 $f(x)=\\left(3^x-3^{-x}\\right) \\cos x, x \\in\\left[-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right]$,则 $f(-x)=\\left(3^{-x}-3^x\\right) \\cos (-x)=-\\left(3^x-3^{-x}\\right) \\cos x=-f(x)$,所以 $f(x)$ 为奇函数, 排除 $\\mathrm{BD}$;又当 $x \\in\\left(0, \\frac{\\pi}{2}\\right)$ 时, $3^x-3^{-x}>0, \\cos x>0$, 所以 $f(x)>0$, 排除 C.故选: A.",
+            "index": 62,
+            "score": 5
+        },
+        {
+            "year": "2022",
+            "category": "（全国甲卷）",
+            "question": "8. 沈括的《梦溪笔谈》是中国古代科技史上的杰作, 其中收录了计算圆弧长度的 “会圆术” ,如图, $\\overparen{A B}$ 是以 $O$ 为圆心, $O A$ 为半径的圆弧, $C$ 是的 $A B$ 中点, $D$ 在 $\\overparen{A B}$ 上, $C D \\perp A B$. “会圆术” 给出 $\\overparen{A B}$ 的弧长的近似值 $s$ 的计算公式: $s=A B+\\frac{C D^2}{O A}$. 当 $O A=2, \\angle A O B=60^{\\circ}$时, $s=()$A. $\\frac{11-3 \\sqrt{3}}{2}$B. $\\frac{11-4 \\sqrt{3}}{2}$C. $\\frac{9-3 \\sqrt{3}}{2}$D.$\\frac{9-4 \\sqrt{3}}{2}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_63_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】解: 如图, 连接 $O C$,因为 $C$ 是 $A B$ 的中点,所以 $O C \\perp A B$,又 $C D \\perp A B$, 所以 $O, C, D$ 三点共线,即 $O D=O A=O B=2$,又 $\\angle A O B=60^{\\circ}$,所以 $A B=O A=O B=2$,则 $O C=\\sqrt{3}$, 故 $C D=2-\\sqrt{3}$,所以 $s=A B+\\frac{C D^2}{O A}=2+\\frac{(2-\\sqrt{3})^2}{2}=\\frac{11-4 \\sqrt{3}}{2}$.故选: B.",
+            "index": 63,
+            "score": 5
+        },
+        {
+            "year": "2013",
+            "category": "新课标Ⅰ",
+            "question": "9. (5 分) 函数 $f(x)=(1-\\cos x) \\sin x$ 在 $[-\\pi, \\pi]$ 的图象大致为 $(\\quad)$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_64_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_64_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_64_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_64_3.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 由题意可知: $f(-x)=(1-\\cos x) \\sin (-x)=-f(x)$,故函数 $\\mathrm{f}(\\mathrm{x})$ 为奇函数, 故可排除 $\\mathrm{B}$,又因为当 $x \\in(0, \\pi)$ 时, $1-\\cos x>0, \\sin x>0$,故 $f(x)>0$, 可排除 $A$,\n$$\n\\begin{aligned}\n& \\text { 又 } f^{\\prime}(x)=(1-\\cos x)^{\\prime} \\sin x+(1-\\cos x)(\\sin x)^{\\prime} \\\\\n& =\\sin ^2 x+\\cos x-\\cos ^2 x=\\cos x-\\cos 2 x,\n\\end{aligned}\n$$\n故可得 $f^{\\prime}(0)=0$, 可排除 $D$,故选: C.",
+            "index": 64,
+            "score": 5
+        },
+        {
+            "year": "2013",
+            "category": "新课标Ⅱ",
+            "question": "7. (5 分) 执行如图的程序框图, 如果输入的 $N=4$, 那么输出的 $S=(\\quad)$\nA. $1+\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{4}$\nB. $1+\\frac{1}{2}+\\frac{1}{3 \\times 2}+\\frac{1}{4 \\times 3 \\times 2}$\nC. $1+\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{4}+\\frac{1}{5}$\nD. $1+\\frac{1}{2}+\\frac{1}{3 \\times 2}+\\frac{1}{4 \\times 3 \\times 2}+\\frac{1}{5 \\times 4 \\times 3 \\times 2}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_65_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 根据题意, 可知该按以下步骤运行第一次: $S=1$,\n第二次: $S=1+\\frac{1}{2}$,\n第三次: $S=1+\\frac{1}{2}+\\frac{1}{3 \\times 2}$,\n第四次: $S=1+\\frac{1}{2}+\\frac{1}{3 \\times 2}+\\frac{1}{4 \\times 3 \\times 2}$.\n此时 $k=5$ 时, 符合 $k>N=4$, 输出 $S$ 的值.\n$$\n\\therefore S=1+\\frac{1}{2}+\\frac{1}{3 \\times 2}+\\frac{1}{4 \\times 3 \\times 2}\n$$\n故选: B.",
+            "index": 65,
+            "score": 5
+        },
+        {
+            "year": "2014",
+            "category": "新课标Ⅰ",
+            "question": "8. (5 分) 如图, 网格纸的各小格都是正方形, 粗实线画出的是一个几何体的三视图, 则这个几何体是（）\nA. 三棱雉\nB. 三棱柱\nC. 四棱雉\nD. 四棱柱",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_66_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: 根据网格纸的各小格都是正方形, 粗实线画出的是一个几何体的三视图,可知几何体如图: 几何体是三棱柱.\n故选: B.",
+            "index": 66,
+            "score": 5
+        },
+        {
+            "year": "2016",
+            "category": "新课标Ⅱ",
+            "question": "3. (5 分) 函数 $y=A \\sin (\\omega x+\\phi)$ 的部分图象如图所示, 则 $(\\quad)$\nA. $y=2 \\sin \\left(2 x-\\frac{\\pi}{6}\\right)$\nB. $y=2 \\sin \\left(2 x-\\frac{\\pi}{3}\\right)$\nC. $y=2 \\sin \\left(x+\\frac{\\pi}{6}\\right)$\nD. $y=2 \\sin \\left(x+\\frac{\\pi}{3}\\right)$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_67_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解：由图可得：函数的最大值为 2 , 最小值为 -2 , 故 $A=2$, $\\frac{T}{2}=\\frac{\\pi}{3}+\\frac{\\pi}{6}$, 故 $T=\\pi, \\omega=2$,\n故 $y=2 \\sin (2 x+\\phi)$,\n将 $\\left(\\frac{\\pi}{3}, 2\\right)$ 代入可得: $2 \\sin \\left(\\frac{2 \\pi}{3}+\\phi\\right)=2$,\n则 $\\phi=-\\frac{\\pi}{6}$ 满足要求,\n故 $y=2 \\sin \\left(2 x-\\frac{\\pi}{6}\\right)$,\n故选: A.",
+            "index": 67,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅰ",
+            "question": "6. (5 分) 如图, 在下列四个正方体中, $A, B$ 为正方体的两个顶点, $M, N, Q$为所在棱的中点, 则在这四个正方体中, 直线 $\\mathrm{AB}$ 与平面 $\\mathrm{MNQ}$ 不平行的是( )",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_68_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_68_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_68_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_68_3.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解：对于选项 $B$, 由于 $A B / / M Q$, 结合线面平行判定定理可知 $B$ 不满足题意;\n对于选项 $C$, 由于 $A B / / M Q$, 结合线面平行判定定理可知 $C$ 不满足题意;对于选项 $D$, 由于 $A B / / N Q$, 结合线面平行判定定理可知 $D$ 不满足题意;所以选项 $A$ 满足题意,故选: A.",
+            "index": 68,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅰ",
+            "question": "8. (5 分) 函数 $y=\\frac{\\sin 2 x}{1-\\cos x}$ 的部分图象大致为 ( )",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_69_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_69_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_69_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_69_3.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 函数 $\\mathrm{y}=\\frac{\\sin 2 \\mathrm{x}}{1-\\cos \\mathrm{x}}$,可知函数是奇函数, 排除选项 $\\mathrm{B}$,当 $x=\\frac{\\pi}{3}$ 时, $f\\left(\\frac{\\pi}{3}\\right)=\\frac{\\frac{\\sqrt{3}}{2}}{1-\\frac{1}{2}}=\\sqrt{3}$, 排除 $A$, $x=\\pi$ 时, $f(\\pi)=0$, 排除 $D$.故选: C.",
+            "index": 69,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅰ",
+            "question": "10. (5 分) 如图程序框图是为了求出满足 $3^n-2^n>1000$ 的最小偶数 $n$, 那么在$\\Diamond$和$\\Box$两个空白框中, 可以分别填入（）\nA. $A>1000$ 和 $n=n+1$\nB. $A>1000$ 和 $n=n+2$\nC. $A \\leqslant 1000$ 和 $n=n+1$\nD. $A \\leqslant 1000$ 和 $n=n+2$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_70_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: 因为要求 $A>1000$ 时输出, 且框图中在 “否”时输出,所以$\\Diamond$内不能输入$A>1000$\n又要求 $\\mathrm{n}$ 为偶数, 且 $\\mathrm{n}$ 的初始值为 0 ,\n所以“ $\\Box$ ”中 $\\mathrm{n}$ 依次加 2 可保证其为偶数,\n所以 $\\mathrm{D}$ 选项满足要求,\n故选: D.",
+            "index": 70,
+            "score": 5
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅲ",
+            "question": "7. (5 分) 函数 $y=1+x+\\frac{\\sin x}{x^2}$ 的部分图象大致为 ( )",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_71_0.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_71_1.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_71_2.png",
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_71_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: 函数 $y=1+x+\\frac{\\sin x}{x^2}$, 可知: $f(x)=x+\\frac{\\sin x}{x^2}$ 是奇函数, 所以函数的图象关于原点对称,则函数 $y=1+x+\\frac{\\sin x}{x^2}$ 的图象关于 $(0,1)$ 对称,当 $x \\rightarrow 0^{+}, f(x)>0$, 排除 $A 、 C$, 当 $x=\\pi$ 时, $y=1+\\pi$, 排除 $B$.故选: D.",
+            "index": 71,
+            "score": 5
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅰ",
+            "question": "9. 执行下面的程序框图, 则输出的 $n=(\\quad)$\nA. 17\nB. 19\nC. 21\nD. 23",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_72_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】依据程序框图的算法功能可知, 输出的 $n$ 是满足 $1+3+5+\\cdots+n>100$ 的最小正奇数,因为 $1+3+5+\\cdots+n=\\frac{(1+n) \\times\\left(\\frac{n-1}{2}+1\\right)}{2}=\\frac{1}{4}(n+1)^2>100$, 解得 $n>19$,所以输出的 $n=21$.故选: C.",
+            "index": 72,
+            "score": 5
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅱ",
+            "question": "3. 如图, 将钢琴上的 12 个键依次记为 $a_1, a_2, \\ldots, a_{12}$. 设 $1 \\leq i<j<k \\leq 12$. 若 $k-j=3$ 且 $j-$ $i=4$, 则称 $a_i, a_j, a_k$ 为原位大三和弦; 若 $k-j=4$ 且 $j-$$i=3$, 则称 $a_i, a_j, a_k$ 为原位小三和弦. 用这 12 个键可以构成的原位大三和弦与原位小三和弦的个数之和为 (  )\nA. 5\nB. 8\nC. 10\nD. 15",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_73_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】根据题意可知, 原位大三和弦满足: $k-j=3, j-i=4$.\n$$\n\\therefore i=1, j=5, k=8 ; i=2, j=6, k=9 \\text {; } i=3, j=7, k=10 ; i=4, j=8, k=11 ; i=5, j=9, k=12 \\text {. }\n$$\n原位小三和弦满足: $k-j=4, j-i=3$.\n$$\n\\therefore i=1, j=4, k=8 ; i=2, j=5, k=9 ; i=3, j=6, k=10 ; i=4, j=7, k=11 ; i=5, j=8, k=12 \\text {. }\n$$\n故个数之和为 10 .\n故选: C.",
+            "index": 73,
+            "score": 5
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅱ",
+            "question": "7. 执行右面的程序框图, 若输入的 $k=0, a=0$, 则输出的 $k$ 为 $($ )\nA. 2\nB. 3\nC. 4\nD. 5",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_74_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】由已知中的程序框图可知: 该程序的功能是利用循环结构计算并输出的 $k$ 值模拟程序的运行过程\n$$\nk=0, \\quad a=0\n$$\n第1次循环, $a=2 \\times 0+1=1, k=0+1=1,2>10$ 为否\n第2 次循环, $a=2 \\times 1+1=3, k=1+1=2,3>10$ 为否\n第3 次循环, $a=2 \\times 3+1=7, k=2+1=3,7>10$ 为否\n第4次循环, $a=2 \\times 7+1=15, k=3+1=4,15>10$ 为是退出循环\n输出 $k=4$.故选: C.",
+            "index": 74,
+            "score": 5
+        },
+        {
+            "year": "2022",
+            "category": "全国甲卷",
+            "question": "4. 如图, 网格纸上绘制的是一个多面体的三视图, 网格小正方形的边长为 1 , 则该多面体的体积为 ()\nA. 8\nB. 12\nC. 16\nD. 20",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_75_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】由三视图还原几何体, 如图,\n则该直四棱柱的体积 $V=\\frac{2+4}{2} \\times 2 \\times 2=12$.故选: B.",
+            "index": 75,
+            "score": 5
+        },
+        {
+            "year": "2022",
+            "category": "全国乙卷 ",
+            "question": "4. 分别统计了甲、乙两位同学 16 周的各周课外体育运动时长 (单位: $\\mathrm{h}$ ), 得如下茎叶图:\n则下列结论中错误的是（）\nA. 甲同学周课外体育运动时长的样本中位数为 7.4\nB. 乙同学周课外体育运动时长的样本平均数大于 8\nC. 甲同学周课外体育运动时长大于 8 的概率的估计值大于 0.4\nD. 乙同学周课外体育运动时长大于 8 的概率的估计值大于 0.6",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_76_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】对于 $\\mathrm{A}$ 选项, 甲同学周课外体育运动时长的样本中位数为 $\\frac{7.3+7.5}{2}=7.4, \\mathrm{~A}$ 选项结论正确.\n对于 $\\mathrm{B}$ 选项, 乙同学课外体育运动时长的样本平均数为:\n$$\n\\frac{6.3+7.4+7.6+8.1+8.2+8.2+8.5+8.6+8.6+8.6+8.6+9.0+9.2+9.3+9.8+10.1}{16}=8.50625>8\n$$\nB 选项结论正确.\n对于 $\\mathrm{C}$ 选项，甲同学周课外体育运动时长大于 8 的概率的估计值 $\\frac{6}{16}=0.375<0.4$,\n$\\mathrm{C}$ 选项结论错误.\n对于 $\\mathrm{D}$ 选项, 乙同学周课外体育运动时长大于 8 的概率的估计值 $\\frac{13}{16}=0.8125>0.6$, D 选项结论正确.\n故选: C",
+            "index": 76,
+            "score": 5
+        },
+        {
+            "year": "2022",
+            "category": "全国乙卷",
+            "question": "7. 执行下边的程序框图, 输出的 $n=()$\nA. 3\nB. 4\nC. 5\nD. 6",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_77_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】执行第一次循环, $b=b+2 a=1+2=3$, $a=b-a=3-1=2, n=n+1=2$,\n$$\n\\left|\\frac{b^2}{a^2}-2\\right|=\\left|\\frac{3^2}{2^2}-2\\right|=\\frac{1}{4}>0.01 ;\n$$\n执行第二次循环, $b=b+2 a=3+4=7$,\n$$\na=b-a=7-2=5, n=n+1=3 \\text {, }\n$$\n$$\n\\left|\\frac{b^2}{a^2}-2\\right|=\\left|\\frac{7^2}{5^2}-2\\right|=\\frac{1}{25}>0.01 \\text {; }\n$$\n执行第三次循环, $b=b+2 a=7+10=17$,\n$$\na=b-a=17-5=12, n=n+1=4,\n$$\n$\\left|\\frac{b^2}{a^2}-2\\right|=\\left|\\frac{17^2}{12^2}-2\\right|=\\frac{1}{144}<0.01$, 此时输出 $n=4$.\n故选: B",
+            "index": 77,
+            "score": 5
+        },
+        {
+            "year": "2022",
+            "category": "全国乙卷",
+            "question": "8. 如图是下列四个函数中的某个函数在区间 $[-3,3]$ 的大致图像, 则该函数是 ()\nA. $y=\\frac{-x^3+3 x}{x^2+1}$\nB. $y=\\frac{x^3-x}{x^2+1}$\nC. $y=\\frac{2 x \\cos x}{x^2+1}$\nD. $y=\\frac{2 \\sin x}{x^2+1}$",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_78_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】设 $f(x)=\\frac{x^3-x}{x^2+1}$, 则 $f(1)=0$, 故排除 B;设 $h(x)=\\frac{2 x \\cos x}{x^2+1}$, 当 $x \\in\\left(0, \\frac{\\pi}{2}\\right)$ 时, $0<\\cos x<1$,所以 $h(x)=\\frac{2 x \\cos x}{x^2+1}<\\frac{2 x}{x^2+1} \\leq 1$, 故排除 C;设 $g(x)=\\frac{2 \\sin x}{x^2+1}$, 则 $g(3)=\\frac{2 \\sin 3}{10}>0$, 故排除 D.故选: A.",
+            "index": 78,
+            "score": 5
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "3. 执行下面的程序框图, 输出的 $B=()$\nA. 21\nB. 34\nC. 55\nD. 89",
+            "picture": [
+                "../Data/2010-2023_Math_MCQs/2010-2023_Math_MCQs_79_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】当 $n=1$ 时, 判断框条件满足, 第一次执行循环体, $A=1+2=3, B=3+2=5, n=1+1=2$;当 $n=2$ 时, 判断框条件满足, 第二次执行循环体, $A=3+5=8, B=8+5=13, n=2+1=3$;当 $n=3$ 时, 判断框条件满足, 第三次执行循环体, $A=8+13=21, B=21+13=34, n=3+1=4$;当 $n=4$ 时, 判断框条件不满足, 跳出循环体, 输出 $B=34$.故选: B.",
+            "index": 79,
+            "score": 5
+        }
+    ]
+}

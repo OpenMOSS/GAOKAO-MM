@@ -1,0 +1,959 @@
+{
+    "keywords": "2010-2023_Chemistry_MCQs",
+    "example": [
+        {
+            "year": "2010",
+            "category": "全国卷Ⅱ",
+            "question": "4. (3 分) 相同体积、相同 $\\mathrm{pH}$ 的某一元强酸溶液(1)和某一元中强酸溶液(2)分别与足量的锌粉发生反应, 下列关于氢气体积 $(V)$ 随时间 $(t)$ 变化的示意图正确的是 ( )",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_0_0.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_0_1.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_0_2.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_0_3.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 因为强酸完全电离, 一元中强酸部分电离, 因此相同的 PH 值, 即 $\\mathrm{C}\\left(\\mathrm{H}^{+}\right)$相同时, 一元中强酸的浓度比强酸浓度大, 由于体积相等, 因此一元中强酸的物质的量大于强酸, 因此产生的 $\\mathrm{H}_2$ 也比强酸多。反应过程由于 $\\mathrm{H}^{+}$不断被消耗掉, 促使一元中强酸继续电离出 $\\mathrm{H}^{+}$, 由于其他条件都相同, 反应速率取决于 $\\mathrm{H}^{+}$浓度, 由于开始时 $\\mathrm{H}^{+}$浓度相等, 因此反应速率也相等（在图中反应速率就是斜率）, 后面强酸的反应速率下降得快, 斜率也就更小, 曲线更平坦。最终生成 $\\mathrm{H}_2$ 的体积也比一元中强酸少, 因此曲线在一元中强酸下面,故 $\\mathrm{C}$ 符合;\n故选: C",
+            "index": 0,
+            "score": 6
+        },
+        {
+            "year": "2013",
+            "category": "新课标Ⅰ",
+            "question": "2. (6 分) 香叶醇是合成玫瑰香油的主要原料, 其结构简式如图所示: 下列有关香叶醇的叙述正确的是 ( )\nA. 香叶醇的分子式为 $\\mathrm{C}_{10} \\mathrm{H}_{18} \\mathrm{O}$\nB. 不能使溴的四氯化碳溶液褪色\nC. 不能使酸性高锰酸钾溶液褪色\nD. 能发生加成反应不能发生取代反应",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_1_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: A. 由结构可知香叶醇的分子式为 $\\mathrm{C}_{10} \\mathrm{H}_{18} \\mathrm{O}$, 故 $\\mathrm{A}$ 正确;\nB. 含碳碳双键, 能使澳的四氯化碳溶液裉色, 故 B 错误;\nC. 含碳碳双键、 $-\\mathrm{OH}$, 均能使酸性高锰酸钾溶液褪色, 故 $\\mathrm{C}$ 错误;\nD. 含碳碳双键可发生加成反应, 含- $\\mathrm{OH}$ 可发生取代反应, 故 D 错误;\n故选: A。",
+            "index": 1,
+            "score": 6
+        },
+        {
+            "year": "2013",
+            "category": "新课标Ⅱ",
+            "question": "1. (6 分) 在一定条件下, 动植物油脂与醇反应可制备生物柴油, 化学方程式如图所示:\n下列叙述错误的是（）\nA. 生物柴油由可再生资源制得\nB. 生物柴油是不同酯组成的混合物\nC. 动植物油脂是高分子化合物\nD. “地沟油”可用于制备生物柴油",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_2_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 生物柴油由可再生资源制得, 故 A 正确;\nB. 生物柴油通常是指以动植物油脂为原料生产的、以不同脂肪酸甲酯组成的混合物, 故 B 正确;\nC. 动植物油脂是高分子化合物相对分子质量小于 10000 , 不是高分子化合物,故 C 错误;\nD. “地沟油”中含有动植物油脂, 动植物油脂与醇反应可制备生物柴油, 故 D 正确;\n故选: C。",
+            "index": 2,
+            "score": 6
+        },
+        {
+            "year": "2013",
+            "category": "新课标Ⅱ",
+            "question": "5. (6 分) “ZEBRA”蓄电池的结构如图所示, 电极材料多孔 $\\mathrm{Ni} / \\mathrm{NiCl}_2$ 和金属钠之间由钠离子导体制作的陶瓷管相隔。下列关于该电池的叙述错误的是 )\nA. 电池反应中有 $\\mathrm{NaCl}$ 生成\nB. 电池的总反应是金属钠还原三价铝离子\nC. 正极反应为: $\\mathrm{NiCl}_2+2 \\mathrm{e}^{-}=\\mathrm{Ni}+2 \\mathrm{Cl}^{-}$\nD. 钠离子通过钠离子导体在两电极间移动",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_3_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: $\\mathrm{A}$. 负极上电极反应式为: $\\mathrm{Na}^{-} \\mathrm{e}^{-}=\\mathrm{Na}^{+}$, 正极上电极反应式为: $\\mathrm{NiCl}_2+2 \\mathrm{e}^{-}=\\mathrm{Ni}+2 \\mathrm{Cl}^{-}$, 所以该原电池中有氯化钠生成, 故 A 正确;\nB. 根据正负极电极反应式知, 金属钠还原 $\\mathrm{NiCl}_2$, 故 B 错误;\nC. 正极上得电子发生还原反应, 电极反应式为: $\\mathrm{NiCl}_2+2 \\mathrm{e}^{-}=\\mathrm{Ni}^{+}+2 \\mathrm{Cl}^{-}$, 故 $\\mathrm{C}$ 正确;\nD. 原电池放电时, 阳离子向正极移动, 钠离子在负极产生, 向正极移动, 所以钠离子通过钠离子导体在两电极间移动, 故 $\\mathrm{D}$ 正确;\n故选: B。",
+            "index": 3,
+            "score": 6
+        },
+        {
+            "year": "2014",
+            "category": "新课标Ⅰ",
+            "question": "5. (6 分) 溴酸银 $\\left(\\mathrm{AgBrO}_3\\right)$ 溶解度随温度变化曲线如图所示, 下列说法错误的是 ( )\nA. 溴酸银的溶解是放热过程\nB. 温度升高时溴酸银溶解速度加快\nC. $60^{\\circ} \\mathrm{C}$ 时溴酸银的 $\\mathrm{K}_{\\mathrm{sp}}$ 约等于 $6 \\times 10^{-4}$\nD. 若硝酸钾中含有少量溴酸银, 可用重结晶方法提纯",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_4_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: A. 根据图象可知, 升高温度, 溴酸银的溶解度增大, 说明溴酸银的溶解过程为吸热过程, 故 $\\mathrm{A}$ 错误;\nB. 升高温度, 溴酸银的溶解度增大, 所以温度升高时溴酸银溶解速度加快, 故 B 正确;\n$\\mathrm{C} .60^{\\circ} \\mathrm{C}$ 时澳酸银的溶解度为 $0.6 \\mathrm{~g}$, 溴酸银的物质的量为: $\\frac{0.6 \\mathrm{~g}}{236 \\mathrm{~g} / \\mathrm{mol}} \\approx 2.5 \\times$ $10^{-3} \\mathrm{~mol}, 100.6 \\mathrm{~g}$ 溴酸银溶液的体积约为 $100.6 \\mathrm{~mL}$, 溶液中银离子、溴酸根离子浓度约为 $2.5 \\times 10^{-2} \\mathrm{~mol} / \\mathrm{L}$, 所以 $60^{\\circ} \\mathrm{C}$ 时澳酸银的 $\\mathrm{K}_{\\mathrm{sp}}=2.5 \\times 10^{-2} \\times 2.5 \\times 10^{-2}$\n$\\approx 6 \\times 10^{-4}$, 故 C 正确;\nD. 根据图象可知, 溴酸银的溶解度受温度的影响不大, 而硝酸钾的溶解度受温度影响较大, 所以硝酸钾中含有少量溴酸银, 可用重结晶方法提纯, 故 D 正确;\n故选: A。",
+            "index": 4,
+            "score": 6
+        },
+        {
+            "year": "2014",
+            "category": "新课标Ⅰ",
+            "question": "7. (6 分) 利用如图所示装置进行下列实验, 能得出相应实验结论是 ( )\n\\begin{tabular}{|c|c|c|c|c|}\n\\hline 选项 & (1) & (2) & (3) & 实验结论 \\\\\n\\hline A & 稀硫酸 & $\\mathrm{Na}_2 \\mathrm{~S}$ & \\begin{tabular}{c}\n$\\mathrm{AgNO}_3$ 与 \\\\\n$\\mathrm{AgCl}$ 的浊 \\\\\n液\n\\end{tabular} & $\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{AgCl})>\\mathrm{K}_{\\mathrm{sp}}\\left(\\mathrm{Ag}_2 \\mathrm{~S}\\right)$ \\\\\n\\hline B & 浓硫酸 & 蔗糖 & 澳水 & 浓硫酸具有脱水性、氧化 \\\\\n\\hline C & 稀盐酸 & $\\mathrm{Na}_2 \\mathrm{SO}_3$ & $\\mathrm{Ba}^{\\left(\\mathrm{NO}_3\\right)_2}$ & $\\mathrm{SO}_2$ 与可溶性钡盐均可生 \\\\\n溶液 & 成白色沉淀 \\\\\n\\hline D & 浓硝酸 & $\\mathrm{Na}_2 \\mathrm{CO}_3$ & $\\mathrm{Na}_2 \\mathrm{SiO}_3$ 溶液 & 酸性: 硝酸 $>$ 碳酸 $>$ 硅酸 \\\\\n\\hline\n\\end{tabular}\nA. A\nB. $B$\nC. $\\mathrm{C}$\nD. D",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_5_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: A. 图中装置和试剂不发生沉淀的转化, 对 $\\mathrm{AgNO}_3$ 与 $\\mathrm{AgCl}$ 的浊液中, $\\mathrm{Qc}\\left(\\mathrm{Ag}_2 \\mathrm{~S}\\right)>\\mathrm{K}_{\\mathrm{sp}}\\left(\\mathrm{Ag}_2 \\mathrm{~S}\\right)$, 则生成 $\\mathrm{Ag}_2 \\mathrm{~S}$, 可发生沉淀的生成, 则不能比较溶度积, 故 A 错误;\nB. 浓硫酸具有脱水性使蔗糖变黑, 然后 $\\mathrm{C}$ 与浓硫酸发生氧化还原反应生成二氧化硫, 体现其强氧化性, 最后二氧化硫与溴水发生氧化还原反应使其褪色,故 B 正确;\nC. 盐酸与亚硫酸钠生成二氧化硫, 与 $\\mathrm{Ba}\\left(\\mathrm{NO}_3\\right)_2$ 溶液发生氧化还原反应生成硫酸钡沉淀, 但 $\\mathrm{SO}_2$ 与可溶性钡盐不一定生成白色沉淀, 如与氯化钡不反应,故 C 错误;\nD. 浓硝酸与碳酸钠反应生成二氧化碳, 但浓硝酸易挥发, 硝酸、碳酸均可与硅酸钠溶液反应生成硅酸沉淀, 则不能比较碳酸与硅酸的酸性, 应排除硝酸的干扰, 故 D 错误;\n故选: B。",
+            "index": 5,
+            "score": 6
+        },
+        {
+            "year": "2014",
+            "category": "新课标Ⅱ",
+            "question": "4. (6 分) 下列图示实验正确的是 ( )",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_6_0.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_6_1.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_6_2.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_6_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 除去粗盐溶液中不溶物, 可利用图中过滤操作, 但漏斗下端尖嘴应紧靠烧杯内壁, 玻璃棒紧靠三层滤纸一边, 故 A 错误;\nB. 碳酸氢钠分解生成水, 为防止水倒流, 试管口应略向下倾斜, 图中试管口向上, 故 B 错误;\nC. 除杂时导管应长进短出, 图中气体从短导管进入不能除杂, 故 C 错误;\nD. 乙酸与乙醇发生酯化反应生成乙酸乙酯, 需要浓硫酸并加热, 饱和碳酸钠可吸收乙醇和乙酸, 降低乙酸乙酯的溶解度, 图中制备实验合理, 故 D 正确;故选: D。",
+            "index": 6,
+            "score": 6
+        },
+        {
+            "year": "2014",
+            "category": "新课标Ⅱ",
+            "question": "6. (6 分) 2013 年 3 月我国科学家报道了如图所示的水溶液锂离子电池体系,下列叙述错误的是 ( )\nA. $a$ 为电池的正极\nB. 电池充电反应为 $\\mathrm{LiMn}_2 \\mathrm{O}_4=\\mathrm{Li}_{1-} \\mathrm{xn}_2 \\mathrm{O}_4+\\mathrm{xLi}$\nC. 放电时, $\\mathrm{a}$ 极锂的化合价发生变化\nD. 放电时, 溶液中 $\\mathrm{Li}^{+}$从 $\\mathrm{b}$ 向 $\\mathrm{a}$ 迁移",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_7_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解 $\\mathrm{A}$ 、锂离子电池中, $\\mathrm{b}$ 电极为 $\\mathrm{Li}$, 放电时, $\\mathrm{Li}$ 失电子为负极, $\\mathrm{LiMn}_2 \\mathrm{O}_4$得电子为正极, 所以 $\\mathrm{a}$ 为电池的正极, 故 $\\mathrm{A}$ 正确;\n$B$ 、充电时, $\\mathrm{Li}^{+}$在阴极得电子, $\\mathrm{LiMn}_2 \\mathrm{O}_4$ 在阳极失电子, 电池充电反应为 $\\mathrm{LiMn}_2 \\mathrm{O}_4=\\mathrm{Li}_{1-} \\mathrm{xn}_2 \\mathrm{O}_4+\\mathrm{xLi}$, 故 B 正确;\nC、放电时, $a$ 为正极, 正极上 $\\mathrm{LiMn}_2 \\mathrm{O}_4$ 中 $\\mathrm{Mn}$ 元素得电子, 所以锂的化合价不变, 故 $\\mathrm{C}$ 错误;\n$\\mathrm{D}$ 、放电时, 溶液中阳离子向正极移动, 即溶液中 $\\mathrm{Li}^{+}$从 $\\mathrm{b}$ 向 $\\mathrm{a}$ 迁移, 故 $\\mathrm{D}$ 正确故选: C。",
+            "index": 7,
+            "score": 6
+        },
+        {
+            "year": "2015",
+            "category": "新课标Ⅰ",
+            "question": "3. (6 分) 乌洛托品在合成、医药、染料等工业中有广泛用途, 其结构式如图所示。将甲醛水溶液与氨水混合蒸发可制得乌洛托品。若原料完全反应生成乌洛托品, 则甲醛与氨的物质的量之比为 $(\\quad)$\nA. $1: 1$\nB. $2: 3$\nC. $3: 2$\nD. $2: 1$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_8_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: 将甲醛水溶液与氨水混合蒸发可制得乌洛托品, 若原料完全反应生成乌洛托品, 每个乌洛托品分子中含有 6 个 $\\mathrm{C}$ 原子、 4 个 $\\mathrm{N}$ 原子, 每个甲醛分子中含有 1 个 $\\mathrm{C}$ 原子、每个氨气分子中含有 1 个 $\\mathrm{N}$ 原子, 根据 $\\mathrm{C}$ 原子、 $\\mathrm{N}$原子守恒知, 要形成一个乌洛托品分子需要 6 个甲醛分子、 4 个氨气分子, 则需要甲醛和氨气分子个数之比 $=6: 4=3: 2$, 根据 $\\mathrm{N}=\\mathrm{nN}_{\\mathrm{A}}$ 知, 分子数之比等于物质的量之比, 所以甲醛与氨的物质的量之比 $3: 2$,故选: C。",
+            "index": 8,
+            "score": 6
+        },
+        {
+            "year": "2015",
+            "category": "新课标Ⅰ",
+            "question": "5. (6 分) 微生物电池是指在微生物的作用下将化学能转化为电能的装置, 其工作原理如图所示。下列有关微生物电池的说法错误的是（）\nA. 正极反应中有 $\\mathrm{CO}_2$ 生成\nB. 微生物促进了反应中电子的转移\nC. 质子通过交换膜从负极区移向正极区\nD. 电池总反应为 $\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+6 \\mathrm{O}_2=6 \\mathrm{CO}_2+6 \\mathrm{H}_2 \\mathrm{O}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_9_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: A. 根据图知, 负极上 $\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6$ 失电子, 正极上 $\\mathrm{O}_2$ 得电子和 $\\mathrm{H}^{+}$反应生成水, 负极的电极反应式为 $\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+6 \\mathrm{H}_2 \\mathrm{O}-24 \\mathrm{e}^{-}=6 \\mathrm{CO}_2+24 \\mathrm{H}^{+}$, 正极的电极反应式为 $\\mathrm{O}_2+4 \\mathrm{e}^{-}+4 \\mathrm{H}^{+}=2 \\mathrm{H}_2 \\mathrm{O}$, 因此 $\\mathrm{CO}_2$ 在负极产生, 故 $\\mathrm{A}$ 错误;\nB. 葡萄糖在微生物的作用下将化学能转化为电能, 形成原电池, 有电流产生,所以微生物促进了反应中电子的转移, 故 B 正确;\nC. 通过原电池的电极反应可知, 负极区产生了 $\\mathrm{H}^{+}$, 根据原电池中阳离子向正极移动, 可知质子 $\\left(\\mathrm{H}^{+}\\right)$通过交换膜从负极区移向正极区, 故 $\\mathrm{C}$ 正确;\nD. 该反应属于燃料电池, 燃料电池的电池反应式和燃烧反应式相同, 则电池反应式为 $\\mathrm{C}_6 \\mathrm{H}_{12} \\mathrm{O}_6+6 \\mathrm{O}_2=6 \\mathrm{CO}_2+6 \\mathrm{H}_2 \\mathrm{O}$, 故 D 正确;\n故选: A。",
+            "index": 9,
+            "score": 6
+        },
+        {
+            "year": "2015",
+            "category": "新课标Ⅰ",
+            "question": "7. (6 分) 浓度均为 $0.10 \\mathrm{~mol} / \\mathrm{L}$ 、体积均为 $\\mathrm{V}_0$ 的 $\\mathrm{MOH}$ 和 $\\mathrm{ROH}$ 溶液, 分别加水稀释至体积 $\\mathrm{V}, \\mathrm{pH}$ 随 $\\lg \\frac{\\mathrm{V}}{\\mathrm{V}_0}$ 的变化如图所示, 下列叙述错误的是 ( )\nA. $\\mathrm{MOH}$ 的碱性强于 $\\mathrm{ROH}$ 的碱性\nB. $\\mathrm{ROH}$ 的电离程度: $b$ 点大于 $a$ 点\nC. 若两溶液无限稀释, 则它们的 $\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$相等\nD. 当 $\\lg \\frac{V}{V_0}=2$ 时, 若两溶液同时升高温度, 则 $\\frac{c\\left(\\mathbb{M}^{+}\\right)}{c\\left(R^{+}\\right)}$增大",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_10_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 相同浓度的一元碱, 碱的 $\\mathrm{pH}$ 越大其碱性越强, 根据图知, 未加水时, 相同浓度条件下, $\\mathrm{MOH}$ 的 $\\mathrm{pH}$ 大于 $\\mathrm{ROH}$ 的 $\\mathrm{pH}$, 说明 $\\mathrm{MOH}$ 的电离程度大于 $\\mathrm{ROH}$, 则 $\\mathrm{MOH}$ 的碱性强于 $\\mathrm{ROH}$ 的碱性, 故 A 正确;\nB. 由图示可以看出 $\\mathrm{ROH}$ 为弱碱, 弱电解质在水溶液中随着浓度的减小其电离程度增大, $\\mathrm{b}$ 点溶液体积大于 $\\mathrm{a}$ 点, 所以 $\\mathrm{b}$ 点浓度小于 $\\mathrm{a}$ 点, 则 $\\mathrm{ROH}$ 电离程度: $b>a$, 故 B 正确;\nC. 若两种溶液无限稀释, 最终其溶液中 $\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$接近于纯水中 $\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$,所以它们的 $\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$相等, 故 C 正确;\nD. 根据 $\\mathrm{A}$ 知, 碱性 $\\mathrm{MOH}>\\mathrm{ROH}$, 当 $\\lg \\frac{\\mathrm{V}}{\\mathrm{V}_0}=2$ 时, 由于 $\\mathrm{ROH}$ 是弱电解质, 升高温度能促进 $\\mathrm{ROH}$ 的电离, 所以 $\\mathrm{c}\\left(\\mathrm{M}^{+}\\right) / \\mathrm{c}\\left(\\mathrm{R}^{+}\\right)$减小, 故 D 错误;故选: D。",
+            "index": 10,
+            "score": 6
+        },
+        {
+            "year": "2015",
+            "category": "新课标Ⅱ",
+            "question": "6. (6 分) 海水开发利用的部分过程如图所示. 下列说法错误的是 ( )\nA. 向苦卤中通入 $\\mathrm{Cl}_2$ 是为了提取澳\nB. 粗盐可采用除杂和重结晶等过程提纯\nC. 工业生产常选用 $\\mathrm{NaOH}$ 作为沉淀剂\nD. 富集溴一般先用空气和水蒸气吹出单质溴, 再用 $\\mathrm{SO}_2$ 将其还原吸收",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_11_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 向苦卤中通入 $\\mathrm{Cl}_2$ 置换出溴单质, 分离得到澳, 通入 $\\mathrm{Cl}_2$ 是为了提取澳, 故 A 正确;\nB. 粗盐中含有 $\\mathrm{Ca}^{2+} 、 \\mathrm{Mg}^{2+} 、 \\mathrm{SO}_4{ }^{2-}$ 等杂质, 精制时通常在溶液中依次中加入过量的 $\\mathrm{BaCl}_2$ 溶液、过量的 $\\mathrm{NaOH}$ 溶液和过量的 $\\mathrm{Na}_2 \\mathrm{CO}_3$ 溶液, 过滤后向滤液中加入盐酸至溶液呈中性, 再进行重结晶进行提纯, 故 B 正确;\nC. 工业常选用生石灰或石灰水作沉淀剂, 故 C 错误;\nD. 海水提取澳一般用氯气置换溴离子转化为溴单质, 用空气和水蒸气吹出单质溴, 再用 $\\mathrm{SO}_2$ 将其还原吸收转化为 $\\mathrm{HBr}$, 达到富集的目的, 故 D 正确,故选: $\\mathrm{C}$ 。",
+            "index": 11,
+            "score": 6
+        },
+        {
+            "year": "2015",
+            "category": "新课标Ⅱ",
+            "question": "7. (6 分) 用图所示装置进行下列实验: 将(1)中溶液滴入 (2)中, 预测的现象与实际相符的是 ( )\n\\begin{tabular}{|c|c|c|c|}\n\\hline 选项 & (1)中物质 & (2)中物质 & 预测(2)中的现象 \\\\\n\\hline A & 稀盐酸 & 碳酸钠与氢氧化钠的混合溶液 & 立即产生气泡 \\\\\n\\hline B & 浓硝酸 & 用砂纸打磨过的铝条 & 产生红棕色气体 \\\\\n\\hline C & 氯化铝溶液 & 浓氢氧化钠溶液 & 产生大量白色沉淀 \\\\\n\\hline D & 草酸溶液 & 高锰酸钾酸性溶液 & 溶液逐渐褪色 \\\\\n\\hline\n\\end{tabular}",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_12_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 先发生盐酸与 $\\mathrm{NaOH}$ 的反应, 然后盐酸与碳酸钠反应生成碳酸氢钠, 最后盐酸与碳酸氢钠反应生成气体, 则现象不合理, 故 $\\mathrm{A}$ 错误;\nB. 常温下, $\\mathrm{Al}$ 遇浓硝酸发生针化, 则不能观察到红棕色气体, 现象不合理,故 B 错误;\nC. $\\mathrm{NaOH}$ 过量, 开始不生成沉淀, 反应生成偏铝酸钠和氯化钠, 开始无现象,故 C 错误;\nD. 草酸与高锰酸钾发生氧化还原反应, 溶液褪色, 现象合理, 故 D 正确;故选: D。",
+            "index": 12,
+            "score": 6
+        },
+        {
+            "year": "2016",
+            "category": "新课标Ⅰ",
+            "question": "5. (6 分) 三室式电渗析法处理含 $\\mathrm{Na}_2 \\mathrm{SO}_4$ 废水的原理如图所示, 采用惰性电极, $a b 、 c d$ 均为离子交换膜，在直流电场的作用下，两膜中间的 $\\mathrm{Na}^{+}$和 $\\mathrm{SO}_4{ }^{2-}$ 可通过离子交换膜, 而两端隔室中离子被阻挡不能进入中间隔室. 下列叙述正确的是 ( )\nA. 通电后中间隔室的 $\\mathrm{SO}_4{ }^{2-}$ 离子向正极迁移, 正极区溶液 $\\mathrm{pH}$ 增大\nB. 该法在处理含 $\\mathrm{Na}_2 \\mathrm{SO}_4$ 废水时可以得到 $\\mathrm{NaOH}$ 和 $\\mathrm{H}_2 \\mathrm{SO}_4$ 产品\nC. 负极反应为 $2 \\mathrm{H}_2 \\mathrm{O}-4 \\mathrm{e}^{-}=\\mathrm{O}_2+4 \\mathrm{H}^{+}$, 负极区溶液 $\\mathrm{pH}$ 降低\nD. 当电路中通过 $1 \\mathrm{~mol}$ 电子的电量时, 会有 $0.5 \\mathrm{~mol}$ 的 $\\mathrm{O}_2$ 生成",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_13_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: A、阴离子向阳极 (即正极区) 移动, 氢氧根离子放电 $\\mathrm{pH}$ 减小,故 A 错误;\nB、直流电场的作用下, 两膜中间的 $\\mathrm{Na}^{+}$和 $\\mathrm{SO}_4{ }^{2-}$ 可通过离子交换膜, 而两端隔室中离子被阻挡不能进入中间隔室, 通电时, 氢氧根离子在阳极区放电生成水和氧气, 考虑电荷守恒, 两膜中间的硫酸根离子会进入正极区, 与氢离子结合成硫酸; 氢离子在阴极得电子生成氢气, 考虑电荷守恒, 两膜中间的钠离子会进入负极区, 与氢氧根离子结合成氢氧化钠, 故可以得到 $\\mathrm{NaOH}$ 和 $\\mathrm{H}_2 \\mathrm{SO}_4$产品, 故 B 正确;\nC、负极即为阴极, 发生还原反应, 氢离子得电子生成氢气, 故 C 错误;\nD、每生成 $1 \\mathrm{~mol}$ 氧气转移 $4 \\mathrm{~mol}$ 电子, 当电路中通过 $1 \\mathrm{~mol}$ 电子的电量时, 会有 $0.25 \\mathrm{~mol}$ 的 $\\mathrm{O}_2$ 生成, 故 $\\mathrm{D}$ 错误。\n故选: B。",
+            "index": 13,
+            "score": 6
+        },
+        {
+            "year": "2016",
+            "category": "新课标Ⅰ",
+            "question": "6. (6 分) $298 \\mathrm{~K}$ 时, 在 $20.0 \\mathrm{~mL} 0.10 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 氨水中滴入 $0.10 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的盐酸,溶液的 $\\mathrm{pH}$ 与所加盐酸的体积关系如图所示。已知 $0.10 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 氨水的电离度为 $1.32 \\%$, 下列有关叙述正确的是（）\nA. 该滴定过程应该选择酚酞作为指示剂\nB. $M$ 点对应的盐酸体积为 $20.0 \\mathrm{~mL}$\nC. $M$ 点处的溶液中 $c\\left(\\mathrm{NH}_4^{+}\\right)=\\mathrm{c}\\left(\\mathrm{Cl}^{-}\\right)=\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$\nD. $\\mathrm{N}$ 点处的溶液中 $\\mathrm{pH}<12$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_14_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 强酸弱碱相互滴定时, 由于生成强酸弱碱盐使溶液显酸性, 所以应选择甲基橙作指示剂, 所以盐酸滴定氨水需要甲基橙作指示剂, 故 $\\mathrm{A}$ 错误;\nB. 如果 $\\mathrm{M}$ 点盐酸体积为 $20.0 \\mathrm{~mL}$, 则二者恰好完全反应生成氯化铵, 氯化铵中铵根离子水解导致该点溶液应该呈酸性, 要使溶液呈中性, 则氨水应该稍微过量, 所以盐酸体积小于 $20.0 \\mathrm{~mL}$, 故 B 错误;\nC. $M$ 处溶液呈中性, 则存在 $c\\left(\\mathrm{H}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$, 根据电荷守恒得 $\\mathrm{c}\\left(\\mathrm{NH}_4^{+}\\right)=\\mathrm{c}$ $\\left(\\mathrm{Cl}^{-}\\right)$, 该点溶液中溶质为氯化铵和一水合氨, 铵根离子水解而促进水电离一水合氨抑制水电离, 铵根离子水解和一水合氨电离相互抑制, 水的电离程度很小, 该点溶液中离子浓度大小顺序是 $\\mathrm{c}\\left(\\mathrm{NH}_4^{+}\\right)=\\mathrm{c}\\left(\\mathrm{Cl}^{-}\\right)>\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{c}($ $\\mathrm{OH}^{-}$), 故 C 错误;\nD. $\\mathrm{N}$ 点为氨水溶液, 氨水浓度为 $0.10 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$, 该氨水电离度为 $1.32 \\%$, 则该溶液中 $\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)=0.10 \\mathrm{~mol} / \\mathrm{L} \\times 1.32 \\%=1.32 \\times 10^{-3} \\mathrm{~mol} / \\mathrm{L}, \\mathrm{c}\\left(\\mathrm{H}^{+}\\right)$ $=\\frac{10^{-14}}{1.32 \\times 10^{-3}} \\mathrm{~mol} / \\mathrm{L}=7.6 \\times 10^{-12} \\mathrm{~mol} / \\mathrm{L}$, 所以该点溶液 $\\mathrm{pH}<12$, 故 D 正确;故选: D。",
+            "index": 14,
+            "score": 6
+        },
+        {
+            "year": "2016",
+            "category": "新课标Ⅰ",
+            "question": "7. (6 分) 短周期元素 $W 、 X 、 Y 、 Z$ 的原子序数依次增加. $m 、 p 、 r$ 是由这些元素组成的二元化合物, $\\mathrm{n}$ 是元素 $\\mathrm{z}$ 的单质, 通常为黄绿色气体, $\\mathrm{q}$ 的水溶液具有漂白性, $r$ 溶液是一种常见的强酸, $s$ 通常是难溶于水的混合物. 上述物质的转化关系如图所示. 下列说法正确的是 ( )\nA. 原子半径的大小 $W<x<y$\nB. 元素的非金属性 $Z>X>Y$\nC. $Y$ 的氢化物常温常压下为液态\nD. $\\mathrm{X}$ 的最高价氧化物的水化物为强酸",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_15_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解：短周期元素 $W 、 X 、 Y 、 Z$ 的原子序数依次增加。 $m 、 p 、 r$ 是由这些元素组成的二元化合物, $\\mathrm{n}$ 是元素 $\\mathrm{z}$ 的单质, 通常为黄绿色气体, 则 $\\mathrm{n}$ 为 $\\mathrm{Cl}_2$, $\\mathrm{z}$ 为 $\\mathrm{Cl}$, 氯气与 $\\mathrm{p}$ 在光照条件下生成 $r$ 与 $s, r$ 溶液是一种常见的强酸, 则 $r$为 $\\mathrm{HCl}, \\mathrm{s}$ 通常是难溶于水的混合物, 则 $p$ 为 $\\mathrm{CH}_4$, 氯气与 $\\mathrm{m}$ 反应生成 $\\mathrm{HCl}$ 与 $q, q$ 的水溶液具有漂白性, 则 $m$ 为 $\\mathrm{H}_2 \\mathrm{O}, q$ 为 $\\mathrm{HClO}$, 结合原子序数可知 $W$为 $H$ 元素, $X$ 为 $C$ 元素, $Y$ 为 $O$ 元素,\nA. 所以元素中 $\\mathrm{H}$ 原子半径最小, 同周期自左而右原子半径减小, 故原子半径 $\\mathrm{W}$ $(\\mathrm{H})<\\mathrm{Y}(\\mathrm{O})<\\mathrm{X}(\\mathrm{C})$, 故 A 错误;\nB. 氯的氧化物中氧元素表现负化合价, 氧元素非金属性比氯的强, 高氯酸为强酸, 碳酸为弱酸, 氯元素非金属性比碳的强, 故非金属性 $Y(\\mathrm{O})>\\mathrm{Z}(\\mathrm{Cl})>$ $X$ (C) , 故 B 错误;\nC. 氧元素氢化物为水或双氧水, 常温下为液态, 故 C 正确;\nD. $\\mathrm{X}$ 的最高价氧化物的水化物为碳酸, 碳酸属于弱酸, 故 $\\mathrm{D}$ 错误。故选: C",
+            "index": 15,
+            "score": 6
+        },
+        {
+            "year": "2016",
+            "category": "新课标Ⅲ",
+            "question": "4. (3 分) 已知异丙苯的结构简式如图, 下列说法错误的是 ( )\nA. 异丙苯的分子式为 $\\mathrm{C}_9 \\mathrm{H}_{12}$\nB. 异丙苯的沸点比苯高\nC. 异丙苯中碳原子可能都处于同一平面\nD. 异丙苯和苯为同系物",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_16_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 由有机物结构简式可知有机物的分子式为 $\\mathrm{C}_9 \\mathrm{H}_{12}$, 故 A 正确;\nB. 异丙苯和苯均为分子晶体, 异丙苯的相对分子质量比苯大, 故分子间作用力强与苯, 沸点比苯高, 故 B 正确;\nC. 苯环为平面结构, 但侧链中存在四面体结构, 故 C 错误;\nD. 异丙苯和苯的结构相似, 分子组成上相差 3 个 $\\mathrm{CH}_2$ 原子团, 互为同系物, 故 D 正确。\n故选: C。",
+            "index": 16,
+            "score": 6
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅰ",
+            "question": "4. (6 分) 实验室用 $\\mathrm{H}_2$ 还原 $\\mathrm{WO}_3$ 制备金属 $\\mathrm{W}$ 的装置如图所示 ( $\\mathrm{Zn}$ 粒中往往含有硫等杂质, 焦性没食子酸溶液用于吸收少量氧气）, 下列说法正确的是( )\nA. (1)、(2)、(3)中依次盛装 $\\mathrm{KMnO}_4$ 溶液、浓 $\\mathrm{H}_2 \\mathrm{SO}_4$ 、焦性没食子酸溶液\nB. 管式炉加热前, 用试管在(4)处收集气体并点燃, 通过声音判断气体浓度\nC. 结束反应时, 先关闭活塞 $\\mathrm{K}$, 再停止加热\nD. 装置 Q (启普发生器) 也可用于二氧化锰与浓盐酸反应制备氯气",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_17_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解： A. 气体从焦性没食子酸溶液中逸出, 得到的氢气混有水蒸气, 应最后通过浓硫酸干燥, 故 A 错误;\nB. 点燃酒精灯进行加热前, 应检验氢气的纯度, 以避免不纯的氢气发生爆炸,可点燃气体, 通过声音判断气体浓度, 声音越尖锐, 氢气的纯度越低, 故 B 正确;\nC. 实验结束后应先停止加热再停止通入氢气, 使 $\\mathrm{W}$ 处在氢气的氛围中冷却,以避免 $\\mathrm{W}$ 被重新氧化, 故 $\\mathrm{C}$ 错误;\nD. 二氧化锰与浓盐酸需在加热条件下反应, 而启普发生器不能加热, 故 D 错误\n故选: B。",
+            "index": 17,
+            "score": 6
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅰ",
+            "question": "5. (6 分) 支撑海港码头基础的防腐技术, 常用外加电流的阴极保护法进行防腐, 工作原理如图所示, 其中高硅铸铁为惰性辅助阳极。下列有关表述不正确的是 ( )\nA. 通入保护电流使钢管桩表面腐蚀电流接近于零\nB. 通电后外电路电子被强制从高硅铸铁流向钢管桩\nC. 高硅铸铁的作用是作为损耗阳极材料和传递电流\nD. 通入的保护电流应该根据环境条件变化进行调整",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_18_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 被保护的钢管桩应作为阴极, 从而使得金属腐蚀发生的电子迁移得到抑制, 使钢管桩表面腐蚀电流接近于零, 避免或减弱电化学腐蚀的发生, 故 A 正确;\nB. 通电后, 情性高硅铸铁作阳极, 海水中的氯离子等在阳极失电子发生氧化反应, 电子经导线流向电源正极, 再从电源负极流出经导线流向钢管桩, 故 B 正确;\nC. 高硅铸铁为惰性辅助阳极, 所以高硅铸铁不损耗, 故 C 错误;\nD. 在保护过程中要使被保护金属结构电位低于周围环境, 则通入的保护电流应该根据环境条件变化进行调整, 故 D 正确;\n故选: $\\mathrm{C}$ 。",
+            "index": 18,
+            "score": 6
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅰ",
+            "question": "7. (6 分) 常温下将 $\\mathrm{NaOH}$ 溶液添加到己二酸 $\\left(\\mathrm{H}_2 \\mathrm{X}\\right)$ 溶液中, 混合溶液的 $\\mathrm{pH}$与离子浓度变化的关系如图所示。下列叙述错误的是（）\nA. $\\mathrm{K}_{\\mathrm{a} 2}\\left(\\mathrm{H}_2 \\mathrm{X}\\right)$ 的数量级为 $10^{-6}$\nB. 曲线 $\\mathrm{N}$ 表示 $\\mathrm{pH}$ 与 $\\lg \\frac{\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)}{\\mathrm{c}\\left(\\mathrm{H}_2 \\mathrm{X}\\right)}$ 的变化关系\nC. $\\mathrm{NaHX}$ 溶液中 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)>\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$\nD. 当混合溶液呈中性时, $\\mathrm{c}\\left(\\mathrm{Na}^{+}\\right)>\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)>\\mathrm{c}\\left(\\mathrm{X}^{2-}\\right)>\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)=\\mathrm{c}($ $\\left.\\mathrm{H}^{+}\\right)$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_19_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. $\\lg \\frac{\\mathrm{c}\\left(\\mathrm{X}^{2-}\\right)}{\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)}=0$ 时, $\\frac{\\mathrm{c}\\left(\\mathrm{X}^{2-}\\right)}{\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)}=1$, 此时 $\\mathrm{pH} \\approx 5.4$, 则 $\\mathrm{K}_{\\mathrm{a} 2}\\left(\\mathrm{H}_2 \\mathrm{X}\\right) \\approx$ $10^{-5.4}$, 可知 $\\mathrm{K}_{\\mathrm{a} 2}\\left(\\mathrm{H}_2 \\mathrm{X}\\right)$ 的数量级为 $10^{-6}$, 故 $\\mathrm{A}$ 正确;\nB. 由以上分析可知曲线 $\\mathrm{N}$ 表示 $\\mathrm{pH}$ 与 $\\lg \\frac{\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)}{\\mathrm{c}\\left(\\mathrm{H}_2 \\mathrm{X}\\right)}$ 的变化关系, 故 B 正确;\nC. 由图象可知, $\\lg \\frac{\\mathrm{c}\\left(\\mathrm{X}^{2-}\\right)}{\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)}=0$ 时, 即 $\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)=\\mathrm{c}\\left(\\mathrm{X}^{2-}\\right)$, 此时 $\\mathrm{pH} \\approx 5.4$, 可知 $\\mathrm{HX}^{-}$电离程度大于 $\\mathrm{X}^{2-}$ 水解程度, 则 $\\mathrm{NaHX}$ 溶液呈酸性, 溶液中 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)>$ c $\\left(\\mathrm{OH}^{-}\\right)$, 故 C 正确;\nD. 由图象可知当 $\\mathrm{pH}=7$ 时, $\\lg \\frac{\\mathrm{c}\\left(\\mathrm{X}^{2-}\\right)}{\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)}>0$, 则 $\\mathrm{c}\\left(\\mathrm{X}^{2-}\\right)>\\mathrm{c}\\left(\\mathrm{HX}^{-}\\right)$, 故 D 错误。\n故选: D。",
+            "index": 19,
+            "score": 6
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅱ",
+            "question": "6. (6 分) 改变 $0.1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 二元弱酸 $\\mathrm{H}_2 \\mathrm{~A}$ 溶液的 $\\mathrm{pH}$, 溶液中的 $\\mathrm{H}_2 \\mathrm{~A} 、 \\mathrm{HA}^{-} 、 \\mathrm{~A}^{2-}$的物质的量分数 $\\delta(\\mathrm{x})$ 随 $\\mathrm{pH}$ 的变化如图所示 [已知 $\\delta(\\mathrm{x})=$ $\\left.\\frac{c(\\mathrm{X})}{c\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)+\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)+c\\left(\\mathrm{~A}^{2-}\\right)}\\right]$. 下列叙述错误的是 ( )\nA. $\\mathrm{pH}=1.2$ 时, $\\mathrm{c}\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)=\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)$\nB. $\\lg \\left[\\mathrm{K}_2\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)\\right]=-4.2$\nC. $\\mathrm{PH}=2.7$ 时, $\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)>\\mathrm{c}\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)$\nD. $\\mathrm{pH}=4.2$ 时, $\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)=\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_20_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 由图象可知 $\\mathrm{pH}=1.2$ 时, $\\mathrm{H}_2 \\mathrm{~A}$ 与 $\\mathrm{HA}^{-}$的曲线相交, 则 $\\mathrm{c}\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)$ $=\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)$, 故 A 正确;\nB. $\\mathrm{pH}=4.2$ 时, $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=10^{-4.2} \\mathrm{~mol} / \\mathrm{L}, \\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{2^{-}}\\right), \\mathrm{K}_2\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)=$ $\\frac{\\mathrm{c}\\left(\\mathrm{A}^{2-}\\right) \\mathrm{c}\\left(\\mathrm{H}^{+}\\right)}{\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)}=10^{-4.2}$, 则 $\\lg \\left[\\mathrm{K}_2\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)\\right]=-4.2$, 故 B 正确;\nC. 由图象可知, $\\mathrm{PH}=2.7$ 时, $\\mathrm{c}\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)$, 由纵坐标数据可知 $\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right.$) $>c\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)$, 故 C 正确;\nD. $\\mathrm{pH}=4.2$ 时, $\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)$, 但此时 $\\mathrm{c}\\left(\\mathrm{H}_2 \\mathrm{~A}\\right) \\approx 0$, 如体积不变, 则 $\\mathrm{c}$ $\\left(\\mathrm{HA}^{-}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)=0.05 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}, \\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=10^{-4.2} \\mathrm{~mol} / \\mathrm{L}$, 如体积变化, 则不能确定 $\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right) 、 \\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)$ 与 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)$浓度大小关系, 故 D 错误。故选: D。",
+            "index": 20,
+            "score": 6
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅲ",
+            "question": "5. (6 分) 全固态锂硫电池能量密度高、成本低, 其工作原理如图所示, 其中电极 $\\mathrm{a}$ 常用掺有石墨烯的 $\\mathrm{S}_8$ 材料, 电池反应为: $16 \\mathrm{Li}+\\mathrm{xS} \\mathrm{S}_8=8 \\mathrm{Li}_2 \\mathrm{~S}_{\\mathrm{x}}(2 \\leqslant \\mathrm{x} \\leqslant 8)$ 。下列说法错误的是 ( )\nA. 电池工作时, 正极可发生反应: $2 \\mathrm{Li}_2 \\mathrm{~S}_6+2 \\mathrm{Li}^{+}+2 \\mathrm{e}^{-}=3 \\mathrm{Li}_2 \\mathrm{~S}_4$\nB. 电池工作时, 外电路中流过 $0.02 \\mathrm{~mol}$ 电子, 负极材料减重 $0.14 \\mathrm{~g}$\nC. 石墨烯的作用主要是提高电极 $\\mathrm{a}$ 的导电性\nD. 电池充电时间越长, 电池中的 $\\mathrm{Li}_2 \\mathrm{~S}_2$ 量越多",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_21_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 据分析可知正极可发生反应: $2 \\mathrm{Li}_2 \\mathrm{~S}_6+2 \\mathrm{Li}^{+}+2 \\mathrm{e}^{-}=3 \\mathrm{Li}_2 \\mathrm{~S}_4$, 故 A 正确;\nB. 负极反应为: $\\mathrm{Li}-\\mathrm{e}^{-}=\\mathrm{Li}^{+}$, 当外电路流过 $0.02 \\mathrm{~mol}$ 电子时, 消耗的锂为 $0.02 \\mathrm{~mol}$,负极减重的质量为 $0.02 \\mathrm{~mol} \\times 7 \\mathrm{~g} / \\mathrm{mol}=0.14 \\mathrm{~g}$, 故 B 正确;\nC. 硫作为不导电的物质, 导电性非常差, 而石墨烯的特性是室温下导电最好的材料, 则石墨烯的作用主要是提高电极 $\\mathrm{a}$ 的导电性, 故 $\\mathrm{C}$ 正确;\nD. 充电时 $\\mathrm{a}$ 为阳极, 与放电时的电极反应相反, 则充电时间越长, 电池中的 $\\mathrm{Li}_2 \\mathrm{~S}_2$量就会越少, 故 D 错误;\n故选: D。",
+            "index": 21,
+            "score": 6
+        },
+        {
+            "year": "2017",
+            "category": "新课标Ⅲ",
+            "question": "7. (6 分) 在湿法炼锌的电解循环溶液中, 较高浓度的 $\\mathrm{Cl}^{-}$会腐蚀阳极板而增大电解能耗。可向溶液中同时加人 $\\mathrm{Cu}$ 和 $\\mathrm{CuSO}_4$, 生成 $\\mathrm{CuCl}$ 沉淀从而除去 $\\mathrm{Cl}^{-}$. 根据溶液中平衡时相关离子浓度的关系图, 下列说法错误的是（）\nA. $\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{CuCl})$ 的数量级为 $10^{-7}$\nB. 除 $\\mathrm{Cl}^{-}$反应为 $\\mathrm{Cu}+\\mathrm{Cu}^{2+}+2 \\mathrm{Cl}^{-}=2 \\mathrm{CuCl}$\nC. 加人 $\\mathrm{Cu}$ 越多, $\\mathrm{Cu}^{+}$浓度越高, 除 $\\mathrm{Cl}^{-}$效果越好\nD. $2 \\mathrm{Cu}^{+}=\\mathrm{Cu}^{2+}+\\mathrm{Cu}$ 平衡常数很大, 反应趋于完全",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_22_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 由图象可知, 横坐标为 1 时, $\\operatorname{lgc}\\left(\\mathrm{Cu}^{+}\\right)$大于 -6 , 则 $\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{CuCl})$的数量级为 $10^{-7}$, 故 A 正确;\nB. 涉及反应物为铜、硫酸铜以及氯离子, 生成物为 $\\mathrm{CuCl}$, 反应的方程式为 $\\mathrm{Cu}+\\mathrm{Cu}^{2+}+2 \\mathrm{Cl}^{-}=2 \\mathrm{CuCl}$, 故 B 正确;\nC. 发生 $\\mathrm{Cu}+\\mathrm{Cu}^{2+}+2 \\mathrm{Cl}^{-}=2 \\mathrm{CuCl}$, 反应的效果取决于 $\\mathrm{Cu}^{2+}$ 的浓度, 如 $\\mathrm{Cu}^{2+}$ 不足,则加人再多的 $\\mathrm{Cu}$ 也不能改变效果, 故 $\\mathrm{C}$ 错误;\nD. 由题图可知, 交点处 $\\mathrm{c}\\left(\\mathrm{Cu}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{Cu}^{2+}\\right) \\approx 10-6 \\mathrm{~mol} / \\mathrm{L}$, 则 $2 \\mathrm{Cu}^{+}=\\mathrm{Cu}^{2+}+\\mathrm{Cu}$平衡常数 $\\mathrm{K}=10^6$, 该平衡常数很大, $2 \\mathrm{Cu}^{+}=\\mathrm{Cu}^{2+}+\\mathrm{Cu}$ 趋向于完全, 故 D 正确。\n故选: C。",
+            "index": 22,
+            "score": 6
+        },
+        {
+            "year": "2018",
+            "category": "新课标Ⅰ",
+            "question": "1. (6 分) 磷酸亚铁锂 $\\left(\\mathrm{LiFePO}_4\\right)$ 电池是新能源汽车的动力电池之一, 采用湿法冶金工艺回收废旧磷酸亚铁锂电池正极片中的金属, 其流程如下:\n下列叙述错误的是 ( )\nA. 合理处理废旧电池有利于保护环境和资源再利用\nB. 从“正极片”中可回收的金属元素有 $\\mathrm{Al} 、 \\mathrm{Fe} 、 \\mathrm{Li}$\nC. “沉淀”反应的金属离子为 $\\mathrm{Fe}^{3+}$\nD. 上述流程中可用硫酸钠代替碳酸钠",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_23_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 合理处理废旧电池, 可减少污染性废水的排放, 且回收含有 A 、 $\\mathrm{Fe}$ 等金属, 可再利用, 故 $\\mathrm{A}$ 正确;\nB. 由以上分析可知从“正极片”中可回收的金属元素有 Al、 $\\mathrm{Fe} 、 \\mathrm{Li}$ 等, 故 B 正确;\nC. 硝酸具有强氧化性, 可氧化亚铁离子生成铁离子, 则“沉淀”反应的金属离子为 $\\mathrm{Fe}^{3+}$, 故 $\\mathrm{C}$ 正确;\nD. 加入硫酸钠, 不能生成含 Li 沉淀, 故 D 错误。\n故选: D。",
+            "index": 23,
+            "score": 6
+        },
+        {
+            "year": "2018",
+            "category": "新课标Ⅰ",
+            "question": "3. (6 分) 在生成和纯化乙酸乙酯的实验过程中, 下列操作未涉及的是 ( )",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_24_0.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_24_1.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_24_2.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_24_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 乙酸乙酯的制备是乙醇浓硫酸和乙酸混合溶液加热生成的, 选择试管中加热, 故 A 不选;\nB. 生成的乙酸乙酯混有乙酸、乙醇, 通过饱和碳酸钠溶液吸收乙醇、中和乙酸、降低乙酸乙酯溶解度, 防止倒吸导气管不能深入溶液, 故 B 不选;\nC. 饱和碳酸钠溶液吸收静置后, 利用分液的方法分离, 故 C 不选;\nD. 图中是利用蒸发血加热蒸发溶液得到溶质晶体的方法, 在生成和纯化乙酸乙酯的实验过程中, 操作未涉及, 故 D 选;\n故选: D。",
+            "index": 24,
+            "score": 6
+        },
+        {
+            "year": "2018",
+            "category": "新课标Ⅰ",
+            "question": "7. (6 分) 最近我国科学家设计了一种 $\\mathrm{CO}_2+\\mathrm{H}_2 \\mathrm{~S}$ 协同转化装置, 实现对天然气中 $\\mathrm{CO}_2$ 和 $\\mathrm{H}_2 \\mathrm{~S}$ 的高效去除。示意图如右所示, 其中电极分别为 $\\mathrm{ZnO} @$ 石墨烯 (石墨烯包裹的 ZnO）和石墨烯, 石墨烯电极区发生反应为:\n(1)EDTA- $\\mathrm{Fe}^{2+}-\\mathrm{e}^{-}=$EDTA $-\\mathrm{Fe}^{3+}$\n(2)2EDTA- $\\mathrm{Fe}^{3+}+\\mathrm{H}_2 \\mathrm{~S}=2 \\mathrm{H}^{+}+\\mathrm{S}+2 \\mathrm{EDTA}-\\mathrm{Fe}^{2+}$ 该装置工作时, 下列叙述错误的是 ( )\nA. 阴极的电极反应: $\\mathrm{CO}_2+2 \\mathrm{H}^{+}+2 \\mathrm{e}^{-}=\\mathrm{CO}+\\mathrm{H}_2 \\mathrm{O}$\nB. 协同转化总反应: $\\mathrm{CO}_2+\\mathrm{H}_2 \\mathrm{~S}=\\mathrm{CO}+\\mathrm{H}_2 \\mathrm{O}+\\mathrm{S}$\nC. 石墨烯上的电势比 ZnO@石墨烯上的低\nD. 若采用 $\\mathrm{Fe}^{3+} / \\mathrm{Fe}^{2+}$ 取代 $E D T A-\\mathrm{Fe}^{3+} / \\mathrm{EDTA}^{-}-\\mathrm{Fe}^{2+}$, 溶液需为酸性",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_25_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解 A. 根据图知, $\\mathrm{ZnO} @$ 石墨烯电极上反应物是 $\\mathrm{CO}_2 、 \\mathrm{H}^{+}$, 生成物是 $\\mathrm{CO}$\n$、 \\mathrm{H}_2 \\mathrm{O}$, 该电极上得电子发生还原反应, 电极反应式为 $\\mathrm{CO}_2+2 \\mathrm{H}^{+}+2 \\mathrm{e}^{-}=\\mathrm{CO}+\\mathrm{H}_2 \\mathrm{O}$,故 A 正确;\nB. 根据图中进入物质、出来物质知, 协同转化过程中反应物是 $\\mathrm{H}_2 \\mathrm{~S} 、 \\mathrm{CO}_2$, 生成物是 $\\mathrm{S} 、 \\mathrm{CO} 、 \\mathrm{H}_2 \\mathrm{O}$, 电池反应式为 $\\mathrm{CO}_2+\\mathrm{H}_2 \\mathrm{~S}=\\mathrm{CO}+\\mathrm{H}_2 \\mathrm{O}+\\mathrm{S}$, 故 B 正确;\nC. 外电路中电流从高电势流向低电势, 工作石墨烯电极失电子作阳极, $\\mathrm{ZnO} @$ 石墨烯电极为阴极, 则石墨烯电势高于 ZnO@石墨烯, 故 C 错误;\nD. $\\mathrm{Fe}^{3+} 、 \\mathrm{Fe}^{2+}$ 在中性或碱性条件下产生沉淀, 所以溶液应该为酸性, 故 D 正确;故选: C",
+            "index": 25,
+            "score": 6
+        },
+        {
+            "year": "2018",
+            "category": "新课标Ⅱ",
+            "question": "2. (6 分) 研究表明, 氮氧化物和二氧化硫在形成雾霾时与大气中的氨有关如图所示）。下列叙述错误的是（）\nA. 雾和霾的分散剂相同\nB. 雾霾中含有硝酸铵和硫酸铵\nC. $\\mathrm{NH}_3$ 是形成无机颗粒物的催化剂\nD. 雾霾的形成与过度施用氮肥有关",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_26_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 雾和䨪的分散剂都是空气, 故 A 正确;\nB. 由图示可知雾雽中含有硝酸铵和硫酸铵, 故 B 正确;\nC. 由图示可知氨气参与反应生成铵盐, 为反应物, 不是催化剂, 故 C 错误;\nD. 无机颗粒物的主要成分为铵盐, 可形成雾霾, 可知雾雽的形成与过度施用氮肥有关, 故 D 正确。\n故选: C。",
+            "index": 26,
+            "score": 6
+        },
+        {
+            "year": "2018",
+            "category": "新课标Ⅱ",
+            "question": "3. (6 分) 实验室中用如图所示的装置进行甲烷与氯气在光照下反应的实验。\n在光照下反应一段时间后，下列装置示意图中能正确反映实验现象的是 ( )",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_27_0.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_27_1.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_27_2.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_27_3.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_27_4.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解 $\\mathrm{CH}_4$ 与 $\\mathrm{Cl}_2$ 在光照条件下发生取代反应, 取代反应的产物有 $\\mathrm{CH}_3 \\mathrm{Cl}$ g), $\\mathrm{CH}_2 \\mathrm{Cl}_2$ (1), $\\mathrm{CHCl}_3(1), \\mathrm{CCl}_4$ (1) 和 $\\mathrm{HCl}$, 产生的 $\\mathrm{CH}_2 \\mathrm{Cl}_2$ (1), $\\mathrm{CHCl}_3$ (1) , $\\mathrm{CCl}_4$ (1) 能附着在管壁上形成油状液滴, 由于试管连接饱和食盐水, $\\mathrm{HCl}$ 在其中的溶解度降低, 所以 $\\mathrm{HCl}$ 能和管内部的空气中的水蒸气形成白雾附着在管内壁上, 整个反应是气体体积减少的反应, 管内液面上升, 所以 $\\mathrm{D}$选项正确,故选: D。",
+            "index": 27,
+            "score": 6
+        },
+        {
+            "year": "2018",
+            "category": "新课标Ⅱ",
+            "question": "6. (6 分) 我国科学家研发了一种室温下“可呼吸”的 $\\mathrm{Na}-\\mathrm{CO}_2$ 二次电池, 将 $\\mathrm{NaClO}_4$ 溶于有机溶剂作为电解液。钠和负载碳纳米管的镍网分别作为电极材料, 电池的总反应为: $3 \\mathrm{CO}_2+4 \\mathrm{Na} \\rightleftharpoons 2 \\mathrm{Na}_2 \\mathrm{CO}_3+\\mathrm{C}$, 下列说法错误的是 ( )\nA. 放电时, $\\mathrm{ClO}_4^{-}$向负极移动\nB. 充电时释放 $\\mathrm{CO}_2$, 放电时吸收 $\\mathrm{CO}_2$\nC. 放电时, 正极反应为: $3 \\mathrm{CO}_2+4 \\mathrm{e}^{-}=2 \\mathrm{CO}_3{ }^{2-}+\\mathrm{C}$\nD. 充电时, 正极反应为: $\\mathrm{Na}^{+}+\\mathrm{e}^{-}=\\mathrm{Na}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_28_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: $\\mathrm{A}$. 放电时, $\\mathrm{Na}$ 失电子作负极、 $\\mathrm{Ni}$ 作正极, 电解质溶液中阴离子向负极移动, 所以 $\\mathrm{ClO}_4^{-}$向负极移动, 故 $\\mathrm{A}$ 正确;\nB. 放电时 $\\mathrm{Na}$ 作负极、 $\\mathrm{Ni}$ 作正极, 充电时 $\\mathrm{Ni}$ 作阳极、 $\\mathrm{Na}$ 作阴极, 则放电电池反应式为 $3 \\mathrm{CO}_2+4 \\mathrm{Na} \\rightleftharpoons 2 \\mathrm{Na}_2 \\mathrm{CO}_3+\\mathrm{C}$ 、充电电池反应式为 $2 \\mathrm{Na}_2 \\mathrm{CO}_3+\\mathrm{C} \\rightleftharpoons 3 \\mathrm{CO}_2+4 \\mathrm{Na}$ , 所以充电时释放 $\\mathrm{CO}_2$, 放电时吸收 $\\mathrm{CO}_2$, 故 $\\mathrm{B}$ 正确;\nC. 放电时负极反应式为 $\\mathrm{Na}^{-} \\mathrm{e}^{-}=\\mathrm{Na}^{+}$、正极反应式为 $3 \\mathrm{CO}_2+4 \\mathrm{e}^{-}=2 \\mathrm{CO}_3{ }^{2-}+\\mathrm{C}$,故 C 正确;\nD. 充电时, 原来的正极 $\\mathrm{Ni}$ 作电解池的阳极, $\\mathrm{Na}$ 作电解池阴极, 则正极发生的反应为原来正极反应式的逆反应, 即 $2 \\mathrm{CO}_3{ }^{2-}+\\mathrm{C}-4 \\mathrm{e}^{-}=3 \\mathrm{CO}_2$, 负极发生的反应为 $\\mathrm{Na}^{+}+\\mathrm{e}^{-}=\\mathrm{Na}$, 故 D 错误;\n故选: D。",
+            "index": 28,
+            "score": 6
+        },
+        {
+            "year": "2018",
+            "category": "新课标Ⅲ",
+            "question": "5. (6 分) 一种可充电锂 - 空气电池如图所示。当电池放电时, $\\mathrm{O}_2$ 与 $\\mathrm{Li}^{+}$在多孔碳材料电极处生成 $\\mathrm{Li}_2 \\mathrm{O}_{2-\\mathrm{x}}(\\mathrm{x}=0$ 或 1$)$ 。下列说法正确的是（）\nA. 放电时, 多孔碳材料电极为负极\nB. 放电时, 外电路电子由多孔碳材料电极流向锂电极\nC. 充电时, 电解质溶液中 $\\mathrm{Li}^{+}$向多孔碳材料区迁移\nD. 充电时, 电池总反应为 $\\mathrm{Li}_2 \\mathrm{O}_{2-\\mathrm{x}}=2 \\mathrm{Li}+\\left(1-\\frac{\\mathrm{x}}{2}\\right) \\mathrm{O}_2$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_29_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: $\\mathrm{A}$. 电池放电池, $\\mathrm{O}_2$ 中 $\\mathrm{O}$ 的化合价降低, 过程为得电子的过程,所以放电时, 多孔碳材料电极为正极, 故 $\\mathrm{A}$ 错误;\nB. 放电时, $\\mathrm{Li}$ 转化为 $\\mathrm{Li}^{+}$, 电子经外电路从锂电极流向多孔碳材料, 故 B 错误;\nC. 充电时, 装置为电解池, 原电池正负极分别接外电路阳极和阴极, $\\mathrm{Li}^{+}$需得电子重新生成 $\\mathrm{Li}$, 所以电解质溶液中 $\\mathrm{Li}^{+}$向阴极移动, 即向锂电极区迁移, 故 $\\mathrm{C}$错误;\nD. 充电时, 相当于电解 $\\mathrm{Li}_2 \\mathrm{O}_{2-\\mathrm{x}}$ 重新得到 $\\mathrm{Li}$ 和 $\\mathrm{O}_2$, 所以电池总反应为: $\\mathrm{Li}_2 \\mathrm{O}_2$ $-x=2 \\mathrm{Li}+\\left(1-\\frac{x}{2}\\right) O_2$, 故 D 正确,\n故选: D。",
+            "index": 29,
+            "score": 6
+        },
+        {
+            "year": "2018",
+            "category": "新课标Ⅲ",
+            "question": "6. (6 分) 用 $0.100 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{AgNO}_3$ 滴定 $50.0 \\mathrm{~mL} 0.0500 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{Cl}^{-}$溶液的滴定曲线如图所示。下列有关描述错误的是 ( )\nA. 根据曲线数据计算可知 $\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{AgCl})$ 的数量级为 $10^{-10}$\nB. 曲线上各点的溶液满足关系式 $\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right) \\cdot \\mathrm{c}\\left(\\mathrm{Cl}^{-}\\right)=\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{AgCl})$\nC. 相同实验条件下, 若改为 $0.0400 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{Cl}^{-}$, 反应终点 $\\mathrm{c}$ 移到 $\\mathrm{a}$\nD. 相同实验条件下, 若改为 $0.0500 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{Br}^{-}$, 反应终点 $\\mathrm{c}$ 向 $\\mathrm{b}$ 方向移动",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_30_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 沉淀滴定时到达滴定终点时曲线斜率突变, 图中 $\\mathrm{c}$ 点为滴定终点, 此处 $-\\operatorname{lgc}\\left(\\mathrm{Cl}^{-}\\right)=5$, 达到沉淀溶解平衡时, $\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{Cl}^{-}\\right)=10^{-5} \\mathrm{~mol} / \\mathrm{L}$,所以根据曲线数据计算可知 $\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{AgCl})$ 的数量级为 $10^{-10}$, 故 $\\mathrm{A}$ 正确;\nB. 曲线上的点是沉淀溶解平衡的平衡点, $\\mathrm{Q}_{\\mathrm{c}}=\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right) \\mathrm{c}\\left(\\mathrm{Cl}^{-}\\right)=\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{AgCl})$,故 B 正确;\nC. 溶度积常数只随温度改变而改变, 改变滴定反应液浓度不改变溶度积常数,所以相同实验条件下, 若改为 $0.0400 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1} \\mathrm{Cl}^{-}$, 则所需 $\\mathrm{AgNO}_3$ 溶液体积就变为 $\\frac{50 \\times 0.0400}{0.100} \\mathrm{~mL}=20 \\mathrm{~mL}$, 故 $\\mathrm{C}$ 错误;\nD. $\\mathrm{AgBr}$ 比 $\\mathrm{AgCl}$ 更难溶, 达到沉淀溶解平衡时 $\\mathrm{Br}^{-}$的浓度更低, 则 $-\\operatorname{lgc}\\left(\\mathrm{Br}^{-}\\right)$值更大, 消耗 $\\mathrm{AgNO}_3$ 溶液的体积不变, 故 D 正确,\n故选: C。",
+            "index": 30,
+            "score": 6
+        },
+        {
+            "year": "2019",
+            "category": "新课标Ⅰ",
+            "question": "3. (6 分) 实验室制备溴苯的反应装置如图所示, 关于实验操作或叙述错误的是 ( )\nA. 向圆底烧瓶中滴加苯和溴的混合液前需先打开 $\\mathrm{K}$\nB. 实验中装置 $\\mathrm{b}$ 中的液体逐渐变为浅红色\nC. 装置 $\\mathrm{c}$ 中碳酸钠溶液的作用是吸收溴化氢\nD. 反应后的混合液经稀碱溶液洗涤、结晶, 得到溴苯",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_31_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 向圆底烧瓶中滴加苯和澳的混合液前, 需先打开 $\\mathrm{K}$ 才能平衡压强, 以便加人混合液, 故 A 正确;\nB. 挥发出的 $\\mathrm{HBr}$ 中含有溴, 溴溶于四氯化碳呈浅红色, 故 B 正确;\nC. $\\mathrm{HBr}$ 为污染物, 需要用碳酸钠溶液吸收, 故 C 正确;\nD. 溴苯中含有剩余的苯, 混合液分层, 经稀碱溶液洗涤后应先分液再蒸馏, 故 D 错误;故选：D。",
+            "index": 31,
+            "score": 6
+        },
+        {
+            "year": "2019",
+            "category": "新课标Ⅰ",
+            "question": "4. (6 分) 固体界面上强酸的吸附和离解是多相化学在环境、催化、材料科学等领域研究的重要课题。如图为少量 $\\mathrm{HCl}$ 气体分子在 $253 \\mathrm{~K}$ 冰表面吸附和溶解过程的示意图, 下列叙述错误的是 ( )\nA. 冰表面第一层中, $\\mathrm{HCl}$ 以分子形式存在\nB. 冰表面第二层中, $\\mathrm{H}^{+}$浓度为 $5 \\times 10^{-3} \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ (设冰的密度为 $0.9 \\mathrm{~g} \\cdot \\mathrm{cm}^{-3}$ )\nC. 冰表面第三层中, 冰的氢键网络结构保持不变\nD. 冰表面各层之间, 均存在可逆反应 $\\mathrm{HCl} \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{Cl}^{-}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_32_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 由图可知, 冰表面第一层中存在 $\\mathrm{HCl}$ 分子, 则 $\\mathrm{HCl}$ 以分子形式存在,故 A 正确;\nB. 冰表面第二层中, $\\mathrm{Cl}^{-}: \\mathrm{H}_2 \\mathrm{O}=10^{-4}: 1$, 设水的体积为 $1 \\mathrm{~L}$, 溶液体积近似为 $1 \\mathrm{~L}$, 则 $\\mathrm{H}^{+}$浓度为 $\\frac{\\frac{1000 \\mathrm{~mL} \\times 0.9 \\mathrm{~g} / \\mathrm{mL}}{18 \\mathrm{~g} / \\mathrm{mol}} \\times 10^{-4}}{1 \\mathrm{~L}}=5 \\times 10^{-3} \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$, 故 B 正确;\nC. 冰表面第三层中, 仍存在 $\\mathrm{H}_2 \\mathrm{O}$ 分子, 则冰的氢键网络结构保持不变, 故 C 正确;\nD. 由图可知, 只有第二层存在 $\\mathrm{HCl}$ 气体分子在冰表面吸附和溶解过程, 第一、三层不存在，故 D 错误;\n故选: D。",
+            "index": 32,
+            "score": 6
+        },
+        {
+            "year": "2019",
+            "category": "新课标Ⅰ",
+            "question": "5. (6 分) $\\mathrm{NaOH}$ 溶液滴定邻苯二甲酸氢钾 (邻苯二甲酸 $\\mathrm{H}_2 \\mathrm{~A}$ 的 $\\mathrm{K}_{\\mathrm{a} 1}=1.1 \\times 10^{-3}, \\mathrm{~K}_{\\mathrm{a} 2}=3.9$ $\\times 10^{-6}$ ) 溶液, 混合溶液的相对导电能力变化曲线如图所示, 其中 $\\mathrm{b}$ 点为反应终点。下列叙述错误的是 ( )\nA. 混合溶液的导电能力与离子浓度和种类有关\nB. $\\mathrm{Na}^{+}$与 $\\mathrm{A}^{2-}$ 的导电能力之和大于 $\\mathrm{HA}^{-}$的\nC. $\\mathrm{b}$ 点的混合溶液 $\\mathrm{pH}=7$\nD. $\\mathrm{c}$ 点的混合溶液中, $\\mathrm{c}\\left(\\mathrm{Na}^{+}\\right)>\\mathrm{c}\\left(\\mathrm{K}^{+}\\right)>\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_33_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 溶液的导电能力取决于电荷浓度的大小, 由图象可知 $a 、 b 、 c$ 点的离子种类、浓度不同, 可知混合溶液的导电能力与离子浓度和种类有关, 故 A 正确;\n$B$ 由图象可知 $b$ 点钾离子浓度较小, $b$ 点导电能量较大, $b$ 点存在 $\\mathrm{Na}^{+}$与 $\\mathrm{A}^{2-}$, 可知 $\\mathrm{Na}^{+}$与 $\\mathrm{A}^{2-}$ 的导电能力之和大于 $\\mathrm{HA}^{-}$的, 故 B 正确;\nC. 由题给数据可知 $\\mathrm{H}_2 \\mathrm{~A}$ 为二元弱酸, $\\mathrm{b}$ 点溶质为为 $\\mathrm{Na}_2 \\mathrm{~A} 、 \\mathrm{~K}_2 \\mathrm{~A}$, 为强碱抲酸盐, 溶液呈碱性, 则 $\\mathrm{pH}>7$, 故 C 错误;\nD. $\\mathrm{c}$ 点 $\\mathrm{NaOH}$ 过量, 则 $\\mathrm{n}(\\mathrm{NaOH})>\\mathrm{n}(\\mathrm{KHA})$, 溶液呈碱性, 可知 $\\mathrm{c}\\left(\\mathrm{Na}^{+}\\right)>\\mathrm{c}\\left(\\mathrm{K}^{+}\\right)$ $>\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$, 故 D 正确。\n故选: C。",
+            "index": 33,
+            "score": 6
+        },
+        {
+            "year": "2019",
+            "category": "新课标Ⅰ",
+            "question": "6. (6 分) 利用生物燃料电池原理研究室温下氨的合成, 电池工作时 $\\mathrm{MV}^{2+} / \\mathrm{MV}^{+}$在电极与酶之间传递电子，示意图如下所示。下列说法错误的是 ( )\nA. 相比现有工业合成氨, 该方法条件温和, 同时还可提供电能\nB. 阴极区, 在氢化酶作用下发生反应 $\\mathrm{H}_2+2 \\mathrm{MV}^{2+}=2 \\mathrm{H}^{+}+2 \\mathrm{MV}^{+}$\nC. 正极区, 固氮酶为催化剂, $\\mathrm{N}_2$ 发生还原反应生成 $\\mathrm{NH}_3$\nD. 电池工作时质子通过交换膜由负极区向正极区移动",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_34_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: A. 利用生物燃料电池在室温下合成氨, 既不需要高温加热, 同时还能将化学能转化为电能, 故 A 正确;\nB. 原电池只有正、负极, 不存在阴、阳极, 其中负极区, 氢气在氢化酶的作用下, 发生氧化反应, 反应式为 $\\mathrm{H}_2+2 \\mathrm{MV}^{2+}=2 \\mathrm{H}^{+}+2 \\mathrm{MV}^{+}$, 故 B 错误;\nC. $\\mathrm{N}_2$ 在正极区得电子发生还原反应, 生成 $\\mathrm{NH}_3$, 故 C 正确;\nD. 燃料电池工作时, 负极区生成的 $\\mathrm{H}^{+}$透过质子交换膜进人正极区, 故 D 正确;故选: B。",
+            "index": 34,
+            "score": 6
+        },
+        {
+            "year": "2019",
+            "category": "新课标Ⅰ",
+            "question": "7. (6 分) 科学家合成出了一种新化合物 (如图所示), 其中 $W 、 X 、 Y 、 Z$ 为同一短周期元素, $\\mathrm{Z}$ 核外最外层电子数是 $\\mathrm{X}$ 核外电子数的一半。下列叙述正确的是 ( )\nA. WZ 的水溶液呈碱性\nB. 元素非金属性的顺序为 $\\mathrm{X}>\\mathrm{Y}>\\mathrm{Z}$\nC. $\\mathrm{Y}$ 的最高价氧化物的水化物是中强酸\nD. 该新化合物中 $\\mathrm{Y}$ 不满足 8 电子稳定结构",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_35_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解：通过以上分析知, $W 、 X 、 Y 、 Z$ 分别是 $N a 、 S i 、 P 、 C l$ 元素,\nA. $\\mathrm{WZ}$ 为 $\\mathrm{NaCl}, \\mathrm{NaCl}$ 是强酸强碱盐, 其水溶液呈中性, 故 $\\mathrm{A}$ 错误;\nB. 同一周期元素非金属性随着原子序数增大而增强, 则非金属性 $\\mathrm{Cl}>\\mathrm{P}>\\mathrm{Si}$, 所以非金属性 $\\mathrm{Z}>\\mathrm{Y}>\\mathrm{X}$, 故 B 错误;\nC. $Y$ 为 $P$ 元素, $Y$ 的最高价氧化物的水合物是 $\\mathrm{H}_3 \\mathrm{PO}_4$ 为中强酸, 故 $\\mathrm{C}$ 正确;\nD. $\\mathrm{Y}$ 为 $\\mathrm{P}$ 元素, 其最外层有 5 个电子, $\\mathrm{P}$ 原子形成 2 个共价键且该阴离子得到 $\\mathrm{W}$ 原子一个电子, 所以 $\\mathrm{P}$ 原子达到 8 电子结构, 即 $\\mathrm{Y}$ 原子达到 8 电子结构, 故 $\\mathrm{D}$ 错误;故选: C。",
+            "index": 35,
+            "score": 6
+        },
+        {
+            "year": "2019",
+            "category": "新课标Ⅱ",
+            "question": "6. (6 分) 绚丽多彩的无机颜料的应用曾创造了古代绘画和彩陶的辉煌。硫化镉 (CdS) 是一种难溶于水的黄色颜料, 其在水中的沉淀溶解平衡曲线如图所示。下列说法错误的是 $(\\quad)$\nA. 图中 $\\mathrm{a}$ 和 $\\mathrm{b}$ 分别为 $\\mathrm{T}_1 、 \\mathrm{~T}_2$ 温度下 $\\mathrm{CdS}$ 在水中的溶解度\nB. 图中各点对应的 $\\mathrm{K}_{\\mathrm{sp}}$ 的关系为: $\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{m})=\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{n})<\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{p})<\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{q})$\nC. 向 $\\mathrm{m}$ 点的溶液中加人少量 $\\mathrm{Na}_2 \\mathrm{~S}$ 固体, 溶液组成由 $\\mathrm{m}$ 沿 $\\mathrm{mpn}$ 线向 $\\mathrm{p}$ 方向移动\nD. 温度降低时, $\\mathrm{q}$ 点的饱和溶液的组成由 $\\mathrm{q}$ 沿 $\\mathrm{qp}$ 线向 $\\mathrm{p}$ 方向移动",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_36_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: A. 难溶物质的沉淀溶解平衡中物质溶解度用离子浓度表示, 图中 $\\mathrm{a}$ 和 $\\mathrm{b}$分别为 $\\mathrm{T}_1 、 \\mathrm{~T}_2$ 温度下 $\\mathrm{CdS}$ 在水中的溶解度，故 $\\mathrm{A}$ 正确;\nB. 温度升高 Ksp 增大, 则 $T_2>T_1$, 图中各点对应的 $K_{s p}$ 的关系为: $K_{s p}(m)=K_{s p}(n)$ $=\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{p})<\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{q})$ ，故 B 错误;\nC. $\\mathrm{Ksp}=\\mathrm{c}\\left(\\mathrm{Cd}^{2+}\\right) \\mathrm{c}\\left(\\mathrm{S}^{2-}\\right)$, 向 $\\mathrm{m}$ 点的溶液中加人少量 $\\mathrm{Na}_2 \\mathrm{~S}$ 固体, 温度不变 $\\mathrm{Ksp}$ 不变,硫离子浓度增大，镉离子浓度减小，溶液组成由 $\\mathrm{m}$ 沿 $\\mathrm{mpn}$ 线向 $\\mathrm{p}$ 方向移动，故 $\\mathrm{C}$ 正确;\nD. $\\mathrm{Ksp}=\\mathrm{c}\\left(\\mathrm{Cd}^{2+}\\right) \\mathrm{c}\\left(\\mathrm{S}^{2-}\\right)$, 是吸热过程, 降低温度平衡逆向进行, 饱和溶液中离子浓度减小, $\\mathrm{Ksp}$ 减小, 温度降低时, $\\mathrm{q}$ 点的饱和溶液的组成由 $\\mathrm{qp}$ 线向 $\\mathrm{p}$ 方向移动, 故 $\\mathrm{D}$ 正确;\n故选: B。",
+            "index": 36,
+            "score": 6
+        },
+        {
+            "year": "2019",
+            "category": "新课标Ⅲ",
+            "question": "4. (6 分) 离子交换法净化水过程如图所示。下列说法中错误的是 ( )\nA. 经过阳离子交换树脂后, 水中阳离子的总数不变\nB. 水中的 $\\mathrm{NO}_3{ }^{-} 、 \\mathrm{SO}_4{ }^{2-} 、 \\mathrm{Cl}^{-}$通过阴离子树脂后被除去\nC. 通过净化处理后, 水的导电性降低\nD. 阴离子树脂填充段存在反应 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_2 \\mathrm{O}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_37_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【解答】解: A. 经过过阳离子交换树脂后, 溶液中阳离子所带总电荷不变, 但是水中部分阳离子由带 2 个单位正电荷变为带 1 个单位正电荷, 导致阳离子总数增加, 故 $\\mathrm{A}$ 错误;\nB. 阴离子交换树脂吸收阴离子, 所以经过阴离子交换树脂后, 溶液中的 $\\mathrm{NO}_3-\\mathrm{SO}_4{ }^{2-}$ 、\n$\\mathrm{Cl}^*$ 被树脂吸收而除去, 故 B 正确;\nC. 溶液导电性与离子浓度成正比, 通过净化处理后溶液中阴阳离子被除去导致溶液中离子浓度减小，溶液导电性降低，故 C 正确;\nD. 通过阳离子交换膜后得到的溶液中含有氢离子, 经过阴离子交换膜后生成水, 说明经过阴离子交换膜时发生中和反应, 所以阴离子树脂填充段存在反应 $\\mathrm{H}^{+}+\\mathrm{OH}^{-}=\\mathrm{H}_2 \\mathrm{O}$, 故 D 正确;\n故选: A。",
+            "index": 37,
+            "score": 6
+        },
+        {
+            "year": "2019",
+            "category": "新课标Ⅲ",
+            "question": "7. (6 分) 为提升电池循环效率和稳定性, 科学家近期利用三维多孔海绵状 $\\mathrm{Zn}(3 \\mathrm{D}-\\mathrm{Zn})$可以高效沉积 $\\mathrm{ZnO}$ 的特点, 设计了采用强碱性电解质的 $3 \\mathrm{D}-\\mathrm{Zn}--\\mathrm{NiOOH}$ 二次电池,结构如图所示。电池反应为 $\\mathrm{Zn}(\\mathrm{s})+2 \\mathrm{NiOOH}(\\mathrm{s})+\\mathrm{H}_2 \\mathrm{O}(\\mathrm{l}) \\stackrel{\\text { 放电 }}{\\underset{\\text { 充电 }}{\\rightleftharpoons}} \\mathrm{ZnO}(\\mathrm{s})+2 \\mathrm{Ni}(\\mathrm{OH})$ 2 ( s )。下列说法错误的是 ( )\nA. 三维多孔海绵状 $\\mathrm{Zn}$ 具有较高的表面积, 所沉积的 $\\mathrm{ZnO}$ 分散度高\nB. 充电时阳极反应为 $\\mathrm{Ni}(\\mathrm{OH})_2(\\mathrm{~s})+\\mathrm{OH}^{-}(\\mathrm{aq})-\\mathrm{e}=\\mathrm{NiOOH}(\\mathrm{s})+\\mathrm{H}_2 \\mathrm{O}($ ( $)$\nC. 放电时负极反应为 $\\mathrm{Zn}(\\mathrm{s})+2 \\mathrm{OH}^{-}(\\mathrm{aq})-2 \\mathrm{e}^{-}=\\mathrm{ZnO}(\\mathrm{s})+\\mathrm{H}_2 \\mathrm{O}($ ( $)$\nD. 放电过程中 $\\mathrm{OH}^{-}$通过隔膜从负极区移向正极区",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_38_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 表面积越大, 反应物接触面积越大, 则沉积的 $\\mathrm{ZnO}$ 越分散, 所以沉积的 $\\mathrm{ZnO}$ 分散度高, 故 $\\mathrm{A}$ 正确;\nB. 充电时阳极上失电子发生氧化反应, 电极反应式为 $\\mathrm{Ni}(\\mathrm{OH})_2(\\mathrm{~s})+\\mathrm{OH}^{-}(\\mathrm{aq})-\\mathrm{e}$ $=\\mathrm{NiOOH}(\\mathrm{s})+\\mathrm{H}_2 \\mathrm{O}(1)$, 故 B 正确;\nC. 放电时 $\\mathrm{Zn}$ 作负极, 失电子发生氧化反应, 电极反应式为 $\\mathrm{Zn}(\\mathrm{s})+2 \\mathrm{OH}^{-}(\\mathrm{aq})-2 \\mathrm{e}$\n$=\\mathrm{ZnO}(\\mathrm{s})+\\mathrm{H}_2 \\mathrm{O}(1)$, 故 C 正确;\nD. 放电时, 负极上失电子, 电子通过导线到达正极, 根据异性相吸原理知, 溶液中 $\\mathrm{OH}$一通过隔膜从正极区移向负极区，故 D 错误;\n故选: D。",
+            "index": 38,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅰ",
+            "question": "4. (6 分) 铑的配合物离子 ( $\\mathrm{Rh}(\\mathrm{CO})_2 \\mathrm{I}_2$ ] 可催化甲醇羰基化, 反应过程如图所示。下列叙述错误的是 ( )\nA. $\\mathrm{CH}_3 \\mathrm{COI}$ 是反应中间体\nB. 甲醇羰基化反应为 $\\mathrm{CH}_3 \\mathrm{OH}+\\mathrm{CO}=\\mathrm{CH}_3 \\mathrm{CO}_2 \\mathrm{H}$\nC. 反应过程中 $\\mathrm{Rh}$ 的成键数目保持不变\nD. 存在反应 $\\mathrm{CH}_3 \\mathrm{OH}+\\mathrm{HI}=\\mathrm{CH}_3 \\mathrm{I}+\\mathrm{H}_2 \\mathrm{O}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_39_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【 解答】解: A、由图可知, 铑的配合物离子 $\\left(\\mathrm{Rh}(\\mathrm{CO}){ }_2 \\mathrm{I}_2\\right]^{-}$生成 $\\mathrm{CH}_3 \\mathrm{COI}, \\mathrm{CH}_3 \\mathrm{COI}$继续与 $\\mathrm{H}_2 \\mathrm{O}$ 反应生成 $\\mathrm{HI}$ 和 $\\mathrm{CH}_3 \\mathrm{CO}_2 \\mathrm{H}$ ，所以 $\\mathrm{CH}_3 \\mathrm{COI}$ 是反应中间体，故 $\\mathrm{A}$ 正确;\nB、由图可知发生的反应依次为 : $(1) \\mathrm{CH}_3 \\mathrm{OH}+\\mathrm{HI}=\\mathrm{CH}_3 \\mathrm{I}+\\mathrm{H}_2 \\mathrm{O}$,\n(6) $\\mathrm{CH}_3 \\mathrm{COI}+\\mathrm{H}_2 \\mathrm{O}=$ $\\mathrm{HI}+\\mathrm{CH}_3 \\mathrm{CO}_2 \\mathrm{H}, 6$ 个反应依次发生, 6 个反应方程式相加和, 消去中间产物得出总反应: $\\mathrm{CH}_3 \\mathrm{OH}+\\mathrm{CO}=\\mathrm{CH}_3 \\mathrm{CO}_2 \\mathrm{H}$, 故 B 正确;\nC、由图可以看出 $\\mathrm{Rh}$ 的成键数目由 4 变为 6 再变为 5 再变为 6 再变为 4 , 依次循环, 故 C 错误;\nD、由 $\\mathrm{B}$ 分析, 按照箭头方向可知: $\\mathrm{CH}_3 \\mathrm{OH}$ 和 $\\mathrm{HI}$ 反应生成 $\\mathrm{CH}_3 \\mathrm{I}$ 和 $\\mathrm{H}_2 \\mathrm{O}$, 反应方程式为:即 $\\mathrm{CH}_3 \\mathrm{OH}+\\mathrm{HI}=\\mathrm{CH}_3 \\mathrm{I}+\\mathrm{H}_2 \\mathrm{O}$, 故 D 正确;\n故选: $\\mathrm{C}$",
+            "index": 39,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅰ",
+            "question": "6. (6 分) 科学家近年发明了一种新型 $\\mathrm{Zn}-\\mathrm{CO}_2$ 水介质电池。电池示意图如图, 电极为金属锌和选择性催化材料。放电时, 温室气体 $\\mathrm{CO}_2$ 被转化为储氢物质甲酸等, 为解决环境和能源问题提供了一种新途径。下列说法错误的是 ( )\nA. 放电时, 负极反应为 $\\mathrm{Zn}-2 \\mathrm{e}^{-}+4 \\mathrm{OH}^{-}=\\mathrm{Zn}(\\mathrm{OH}) 4^{2-}$\nB. 放电时, $1 \\mathrm{~mol} \\mathrm{CO}_2$ 转化为 $\\mathrm{HCOOH}$, 转移的电子数为 $2 \\mathrm{~mol}$\nC. 充电时, 电池总反应为 $2 \\mathrm{Zn}(\\mathrm{OH}) 4^{2-}=2 \\mathrm{Zn}+\\mathrm{O}_2 \\uparrow+4 \\mathrm{OH}^{-}+2 \\mathrm{H}_2 \\mathrm{O}$\nD. 充电时, 正极溶液中 $\\mathrm{OH}^{-}$浓度升高",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_40_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A. 放电时, 金属锌做负极生成 $\\mathrm{Zn}(\\mathrm{OH}) 4^{2-}$, 负极反应为 $\\mathrm{Zn}-2 \\mathrm{e}+4 \\mathrm{OH}$ $=\\mathrm{Zn}(\\mathrm{OH}) 4^{2 \\cdot}$, 故 A 正确;\nB. 放电时, $\\mathrm{CO}_2$ 中碳的化合价为 +4 价, $\\mathrm{HCOOH}$ 中碳的化合价 $+2,1 \\mathrm{~mol} \\mathrm{CO}_2$ 转化为 $\\mathrm{HCOOH}$, 降低 2 价, 转移的电子数为 $2 \\mathrm{~mol}$, 故 B 正确;\nC. 充电时, 阳极电极反应: $2 \\mathrm{H}_2 \\mathrm{O}-4 \\mathrm{e}^{-}=4 \\mathrm{H}^{+}+\\mathrm{O}_2 \\uparrow$, 阴极反应: $\\mathrm{Zn}(\\mathrm{OH}) 4^{2-}=\\mathrm{Zn}-$ $2 \\mathrm{e}^{-}+4 \\mathrm{OH}^{-}$, 电池总反应为 $2 \\mathrm{Zn}(\\mathrm{OH}) 4^{2-}=2 \\mathrm{Zn}+\\mathrm{O}_2 \\uparrow+4 \\mathrm{OH}^{-}+2 \\mathrm{H}_2 \\mathrm{O}$, 故 C 正确;\nD. 充电时, 阳极 (原电池的正极) 电极反应: $2 \\mathrm{H}_2 \\mathrm{O}-4 \\mathrm{e}^{-}=4 \\mathrm{H}^{+}+\\mathrm{O}_2 \\uparrow$, 溶液中 $\\mathrm{H}^{+}$浓度增大, 溶液中 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right) \\cdot \\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)=\\mathrm{K}_{\\mathrm{W}}$, 温度不变时, $\\mathrm{K}_{\\mathrm{W}}$ 不变, 因此溶液中 $\\mathrm{OH}^{-}$浓度降低，故 D 错误;\n故选: $\\mathrm{D}$ 。",
+            "index": 40,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅰ",
+            "question": "7. (6 分) 以酚酞为指示剂, 用 $0.1000 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的 $\\mathrm{NaOH}$ 溶液滴定 $20.00 \\mathrm{~mL}$ 未知浓度的二元酸 $\\mathrm{H}_2 \\mathrm{~A}$ 溶液。溶液中, $\\mathrm{pH}$ 、分布系数 $\\delta$ 随滴加 $\\mathrm{NaOH}$ 溶液体积 $\\mathrm{V}_{\\mathrm{NaOH}}$ 的变化关系如图所示。[比如 $A^{2-}$ 的分布系数: $\\delta\\left(A^{2-}\\right)=\\frac{c\\left(A^{2-}\\right)}{c\\left(H_2 A\\right)+c\\left(\\mathrm{HA}^{-}\\right)+c\\left(A^{2-}\\right)}$ ]\n下列叙述正确的是 $(\\quad)$\nA. 曲线(1)代表 $\\delta\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)$, 曲线(2)代表 $\\delta\\left(\\mathrm{HA}^{-}\\right)$\nB. $\\mathrm{H}_2 \\mathrm{~A}$ 溶液的浓度为 $0.2000 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$\nC. $\\mathrm{HA}^{-}$的电离常数 $\\mathrm{K}_{\\mathrm{a}}=1.0 \\times 10^{-2}$\nD. 滴定终点时, 溶液中 $\\mathrm{c}\\left(\\mathrm{Na}^{+}\\right)<2 \\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)+\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_41_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: $\\mathrm{A}$ 、在未加 $\\mathrm{NaOH}$ 溶液时, 曲线(1)的分布系数与曲线(2)的分布系数之和等于 1 , 且 $\\delta$ 曲线(1)一直在减小, 曲线(2)在一直增加; 说明 $\\mathrm{H}_2 \\mathrm{~A}$ 第一步完全电离, 第二步存在电离平衡, 即 $\\mathrm{H}_2 \\mathrm{~A}=\\mathrm{HA}^{-}+\\mathrm{H}^{+}, \\mathrm{HA}^{-} \\rightleftharpoons \\mathrm{A}^{2-}+\\mathrm{H}^{+}$, 曲线(1)代表 $\\delta\\left(\\mathrm{HA}^{-}\\right)$; 当加人用$0.1000 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的 $\\mathrm{NaOH}$ 溶液 $40.00 \\mathrm{~mL}$ 滴定后, 发生 $\\mathrm{NaHA}+\\mathrm{NaOH}=\\mathrm{Na}_2 \\mathrm{~A}+\\mathrm{H}_2 \\mathrm{O}, \\mathrm{HA}$ 的分布系数减小, $\\mathrm{A}^{2-}$ 的分布系数在增大, 且曲线(2)在一直在增加, 在滴定终点后与(3)重合,所以曲线(2)代表 $\\delta\\left(\\mathrm{A}^{2-}\\right)$, 故 $\\mathrm{A}$ 错误;\nB、当加人 $40.00 \\mathrm{mLNaOH}$ 溶液时, 溶液的 $\\mathrm{pH}$ 发生突变, 到达滴定终点, 说明 $\\mathrm{NaOH}$ 和 $\\mathrm{H}_2 \\mathrm{~A}$ 恰好完全反应, 根据反应 $2 \\mathrm{NaOH}+\\mathrm{H}_2 \\mathrm{~A}=\\mathrm{Na}_2 \\mathrm{~A}+2 \\mathrm{H}_2 \\mathrm{O}, \\mathrm{n}(\\mathrm{NaOH})=2 \\mathrm{n}\\left(\\mathrm{H}_2 \\mathrm{~A}\\right), \\mathrm{c}$ $\\left(\\mathrm{H}_2 \\mathrm{~A}\\right)=\\frac{0.1000 \\mathrm{mo} 1 / \\mathrm{L} \\times 40 \\mathrm{~mL}}{2 \\times 20.00 \\mathrm{~mL}}=0.1000 \\mathrm{~mol} / \\mathrm{L}$, 故 B 错误;\n$\\mathrm{C} 、$ 由于 $\\mathrm{H}_2 \\mathrm{~A}$ 第一步完全电离, 则 $\\mathrm{HA}^{-}$的起始浓度为 $0.1000 \\mathrm{~mol} / \\mathrm{L}$, 根据图象, 当 $\\mathrm{V}_{\\mathrm{NaOH}}$ $=0$ 时, $\\mathrm{HA}^{-}$的分布系数为 0.9 , 溶液的 $\\mathrm{pH}=1, \\mathrm{~A}^{2-}$ 的分布系数为 0.1 , 则 $\\mathrm{HA}^{-}$的电离平衡常数 $K_a=\\frac{c\\left(A^{2-}\\right) \\cdot c\\left(H^{+}\\right)}{c\\left(\\mathrm{HA}^{-}\\right)}=\\frac{0.1000 \\mathrm{mo} 1 / \\mathrm{L} \\times 0.1 \\times 0.1000 \\mathrm{~mol} 1 / \\mathrm{L}}{0.1000 \\mathrm{mo} 1 / \\mathrm{L} \\times 0.9} \\approx 1 \\times 10^{-2}$, 故 C 正确;\nD、用酚酞作指示剂, 酚酞变色的 $\\mathrm{pH}$ 范围为 $8.2 \\sim 10$, 终点时溶液呈碱性, $\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)>$ $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)$, 溶液中的电荷守恒, $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)+\\mathrm{c}\\left(\\mathrm{Na}^{+}\\right)=2 \\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)+\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)+\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)$, 则 $\\mathrm{c}\\left(\\mathrm{Na}^{+}\\right)>2 \\mathrm{c}\\left(\\mathrm{A}^{2-}\\right)+\\mathrm{c}\\left(\\mathrm{HA}^{-}\\right)$, 故 D 错误;\n故选: $\\mathrm{C}_0$",
+            "index": 41,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅱ",
+            "question": "3. (6 分) 二氧化碳的过量排放可对海洋生物的生存环境造成很大影响, 其原理如图所示。下列叙述错误的是 ( )\nA. 海水酸化能引起 $\\mathrm{HCO}_3{ }^{-}$浓度增大、 $\\mathrm{CO}_3{ }^{2-}$ 浓度减小\nB. 海水酸化能促进 $\\mathrm{CaCO}_3$ 的溶解, 导致珊瑚礁减少\nC. $\\mathrm{CO}_2$ 能引起海水酸化, 其原理为 $\\mathrm{HCO}_3{ }^{-} \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{CO}_3{ }^{2-}$\nD. 使用太阳能、氢能等新能源可改善珊瑚的生存环境",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_42_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 海水酸化, $\\mathrm{H}^{+}$浓度增大, 平衡 $\\mathrm{H}^{+}+\\mathrm{CO}_3{ }^{2-} \\rightleftharpoons \\mathrm{HCO}_3$ 正向移动, 导致 $\\mathrm{CO}_3{ }^2$ “浓度减小, $\\mathrm{HCO}_3$ 浓度增大, 故 A 正确;\nB. 海水酸化, $\\mathrm{CO}_3{ }^{2-}$ 浓度减小, 导致 $\\mathrm{CaCO}_3$ 溶解平衡正向移动, 促进了 $\\mathrm{CaCO}_3$ 溶解,导致珊瑚礁减少, 故 B 正确;\nC. $\\mathrm{CO}_2$ 引起海水酸化的原理为: $\\mathrm{CO}_2+\\mathrm{H}_2 \\mathrm{O} \\rightleftharpoons \\mathrm{H}_2 \\mathrm{CO}_3 \\rightleftharpoons \\mathrm{H}^{+}+\\mathrm{HCO}_3{ }^{-}$, 导致 $\\mathrm{H}^{+}$浓度增大, 故 C 错误;\nD. 使用太阳能、氢能等新能源, 可以减少化石能源的燃烧, 从而减少 $\\mathrm{CO}_2$ 的排放, 减弱海水酸化, 从而改善珊瑚礁的生存环境, 故 D 正确;\n故选: $\\mathrm{C}_{\\circ}$",
+            "index": 42,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅱ",
+            "question": "5. (6 分) 据文献报道: $\\mathrm{Fe}(\\mathrm{CO})_5$ 催化某反应的一种反应机理如图所示。下列叙述错误的是 ( )\nA. $\\mathrm{OH}^{-}$参与了该催化循环\nB. 该反应可产生清洁燃料 $\\mathrm{H}_2$\nC. 该反应可消耗温室气体 $\\mathrm{CO}_2$\nD. 该催化循环中 $\\mathrm{Fe}$ 的成键数目发生变化",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_43_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: $\\mathrm{Fe}(\\mathrm{CO})_5$ 催化反应的一种反应机理为: $\\mathrm{Fe}(\\mathrm{CO}){ }_5 \\stackrel{+0 \\mathrm{H}-}{\\longrightarrow} \\mathrm{Fe}(\\mathrm{CO})_4 \\mathrm{COOH}$ $\\rightarrow \\mathrm{Fe}(\\mathrm{CO})_4 \\mathrm{H}^{-}+\\mathrm{CO}_2 \\stackrel{+\\mathrm{H}_2 \\mathrm{O}}{\\longrightarrow} \\mathrm{Fe}(\\mathrm{CO})_4(\\mathrm{HOH}) \\mathrm{H}^{-} \\rightarrow \\mathrm{Fe}(\\mathrm{CO})_4\\left(\\mathrm{H}_2{ }_2+\\mathrm{OH}^{-} \\rightarrow \\mathrm{Fe}(\\mathrm{CO})\\right.$ ${ }_4 \\mathrm{H}_2 \\rightarrow \\mathrm{Fe}(\\mathrm{CO}){ }_4+\\mathrm{H}_2 \\stackrel{+O}{\\longrightarrow} \\mathrm{Fe}(\\mathrm{CO})$, 由反应机理图可知, 反应为 $\\mathrm{CO}+\\mathrm{H}_2 \\mathrm{O}=\\mathrm{CO}_2+\\mathrm{H}_2$, A、由反应机理中 $\\mathrm{Fe}(\\mathrm{CO}){ }_5 \\stackrel{+\\mathrm{OH}-}{\\longrightarrow} \\mathrm{Fe}(\\mathrm{CO})_4 \\mathrm{COOH}^{-}$和 $\\mathrm{Fe}(\\mathrm{CO})_4(\\mathrm{HOH}) \\mathrm{H}^{-} \\rightarrow \\mathrm{Fe}(\\mathrm{CO})$ $4(\\mathrm{H}){ }_2+\\mathrm{OH}^{-}$可知, ",
+            "index": 43,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅱ",
+            "question": "6. (6 分) 电致变色器件可智能调控太阳光透过率, 从而实现节能。如图是某电致变色器件的示意图。当通电时, $\\mathrm{Ag}^{+}$注人到无色 $\\mathrm{WO}_3$ 薄膜中, 生成 $\\mathrm{Ag}_{\\mathrm{x}} \\mathrm{WO}_3$, 器件呈现蓝色, 对于该变化过程, 下列叙述错误的是（）\nA. $\\mathrm{Ag}$ 为阳极\nB. $\\mathrm{Ag}^{+}$由银电极向变色层迁移\nC. W 元素的化合价升高\nD. 总反应为: $\\mathrm{WO}_3+\\mathrm{xAg}=\\mathrm{Ag}_{\\mathrm{x}} \\mathrm{WO}_3$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_44_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【解答】解: A. 由图可知这是一个电解池, 银做阳极, 发生的电极反应 $\\mathrm{Ag}-\\mathrm{e}^{-}=\\mathrm{Ag}^{+}$,故 A 正确;\nB. 当通电时, $\\mathrm{Ag}^{+}$注人到无色 $\\mathrm{WO}_3$ 薄膜中生成 $\\mathrm{Ag}_{\\mathrm{x}} \\mathrm{WO}_3$, 故 $\\mathrm{B}$ 正确;\nC. 电极方程式: $\\mathrm{xAg}^{+}+\\mathrm{xe}+\\mathrm{WO}_3=\\mathrm{Ag}_{\\mathrm{x}} \\mathrm{WO}_3, \\mathrm{~W}$ 由 $\\mathrm{WO}_3$ 的 +6 价降低到 $\\mathrm{Ag}_{\\mathrm{x}} \\mathrm{WO}_3$ 中的 + ( $6-\\mathrm{x})$ 价 $\\mathrm{W}$ 的化合价降低是还原反应, 故 $\\mathrm{C}$ 错误;\nD. 阳极反应: $\\mathrm{Ag}-\\mathrm{e}^{-}=\\mathrm{Ag}^{+}$, 阴极反应: $\\mathrm{xAg}^{+}+\\mathrm{xe}^{-}+\\mathrm{WO}_3=\\mathrm{Ag}_{\\mathrm{x}} \\mathrm{WO}_3$, 二者合并: $\\mathrm{WO}_3+\\mathrm{xAg}$ $=\\mathrm{Ag}_{\\mathrm{x}} \\mathrm{WO}_3$, 故 D 正确;故选: $\\mathrm{C}_{\\text {。 }}$",
+            "index": 44,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅱ",
+            "question": "7. (6 分) 一种由短周期主族元素组成的化合物 (如图所示), 具有良好的储氢性能, 其中元素 $W 、 X 、 Y 、 Z$ 的原子序数依次增大、且总和为 24 . 下列有关叙述错误的是 $(\\quad)$\n<smiles>[Y19][Al]([Al])[Y]([Al])([Al])[Al][Al]</smiles>\nA. 该化合物中, $\\mathrm{W} 、 \\mathrm{X} 、 \\mathrm{Y}$ 之间均为共价键\nB. $\\mathrm{Z}$ 的单质既能与水反应, 也可与甲醇反应\nC. $\\mathrm{Y}$ 的最高化合价氧化物的水化物为强酸\nD. $\\mathrm{X}$ 的氟化物 $\\mathrm{XF}_3$ 中原子均为 8 电子稳定结构",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_45_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解：由上述分析可知, $W$ 为 $H 、 X$ 为 $B 、 Y$ 为 $N 、 Z$ 为 $N a$,\nA. H、B、 $\\mathrm{N}$ 均以共价键结合, 故 A 正确;\nB. $\\mathrm{Na}$ 与水、甲醇均反应生成氢气, 故 B 正确;\nC. $\\mathrm{Y}$ 的最高化合价氧化物的水化物为硝酸, 属于强酸, 故 C 正确;\nD. $\\mathrm{XF}_3$ 中 $\\mathrm{B}$ 的最外层电子数为 $3+3=6$, 故 $\\mathrm{D}$ 错误;\n故选: D。",
+            "index": 45,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅲ",
+            "question": "2. (6 分) 金丝桃苷是从中药材中提取的一种具有抗病毒作用的黄酮类化合物, 结构式如图:下列关于金丝桃苷的叙述, 错误的是 （）\nA. 可与氢气发生加成反应\nB. 分子含 21 个碳原子\nC. 能与乙酸发生酯化反应\nD. 不能与金属钠反应",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_46_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【解答】解: A、分子中含有碳碳双键、碳氧双键和苯环, 可以发生加成反应, 故 A 正确;\nB、由图可知金丝桃苷的分子式 $\\mathrm{C}_{21} \\mathrm{H}_{20} \\mathrm{O}_{12}$, 则分子含 21 个碳原子, 故 B 正确;\nC、分子中含有垟基, 能发生酯化反应, 即能与乙酸发生酯化反应, 故 C 正确;\nD、分子结构可知结构中含有羟基, 能与金属钠反应产生氢气, 故 D 错误;\n故选: D。",
+            "index": 46,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅲ",
+            "question": "4. (6 分) 喷泉实验装置如图所示。应用下列各组气体 - - 溶液, 能出现喷泉现象的是 ( )\n\\begin{tabular}{|c|c|c|}\n\\hline & 气体 & 溶液 \\\\\n\\hline A. & $\\mathrm{H}_2 \\mathrm{~S}$ & 稀盐酸 \\\\\n\\hline B. & $\\mathrm{HCl}$ & 稀氨水 \\\\\n\\hline C. & $\\mathrm{NO}$ & 稀 $\\mathrm{H}_2 \\mathrm{SO}_4$ \\\\\n\\hline D. & $\\mathrm{CO}_2$ & \\begin{tabular}{c} \n饱和 $\\mathrm{NaHCO}_3$ \\\\\n溶液\n\\end{tabular} \\\\\n\\hline\n\\end{tabular}",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_47_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: $\\mathrm{A} 、 \\mathrm{H}_2 \\mathrm{~S}$ 在稀盐酸中溶解度小, 且与稀盐酸不反应, 不能出现喷泉, 故 $\\mathrm{A}$错误;\nB. $\\mathrm{HCl}$ 气体极易溶于稀氨水, 且氯化氢气体与氨水反应生成氯化铵, 产生压强差, 形成喷泉，故 B 正确;\nC、一氧化氮不溶于稀 $\\mathrm{H}_2 \\mathrm{SO}_4$, 也不与稀 $\\mathrm{H}_2 \\mathrm{SO}_4$ 反应, 不能出现喷泉, 故 C 错误;\nD、二氧化碳不溶于饱和碳酸氢钠, 也不与饱和碳酸氢钠反应, 不能出现喷泉, 故 D 错误;\n故选: B。",
+            "index": 47,
+            "score": 6
+        },
+        {
+            "year": "2020",
+            "category": "新课标Ⅲ",
+            "question": "6. (6 分) 一种高性能的碱性硼化钒 ( $\\left.\\mathrm{VB}_2\\right)$ ) - 空气电池如图所示, 其中在 $\\mathrm{VB}_2$ 电极发生反应: $\\mathrm{VB}_2+16 \\mathrm{OH}^{-}-11 \\mathrm{e}^{-}=\\mathrm{VO}_4{ }^3+2 \\mathrm{~B}(\\mathrm{OH})_4+4 \\mathrm{H}_2 \\mathrm{O}$ 该电池工作时, 下列说法错误的是 ( )\nA. 负载通过 $0.04 \\mathrm{~mol}$ 电子时, 有 $0.224 \\mathrm{~L}$ （标准状况） $\\mathrm{O}_2$ 参与反应\nB. 正极区溶液的 $\\mathrm{pH}$ 降低、负极区溶液的 $\\mathrm{pH}$ 升高\nC. 电池总反应为 $4 \\mathrm{VB}_2+11 \\mathrm{O}_2+20 \\mathrm{OH}^{-}+6 \\mathrm{H}_2 \\mathrm{O}=8 \\mathrm{~B}(\\mathrm{OH})_4{ }^{-}+4 \\mathrm{VO}_4{ }^{3-}$\nD. 电流由复合碳电极经负载、 $\\mathrm{VB}_2$ 电极、 $\\mathrm{KOH}$ 溶液回到复合碳电极",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_48_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【解答】解: $\\mathrm{A}$ 、正极氧气得电子生成氢氧根离子, 电极反应式为: $\\mathrm{O}_2+4 \\mathrm{e}^{-}+2 \\mathrm{H}_2 \\mathrm{O}=4 \\mathrm{OH}$ , 由电极反应式可知, 消耗 $1 \\mathrm{~mol}$ 氧气转移 $4 \\mathrm{~mol}$ 电子, 则负载通过 $0.04 \\mathrm{~mol}$ 电子时, 有 $0.224 \\mathrm{~L}$ （标准状况） $\\mathrm{O}_2$ 参与反应, 故 A 正确;\n$\\mathrm{B}$ 、根据负极 $\\mathrm{VB}_2+16 \\mathrm{OH}^{-}-11 \\mathrm{e}^{-}=\\mathrm{VO}_4{ }^{3-}+2 \\mathrm{~B}(\\mathrm{OH})_4{ }^{-}+4 \\mathrm{H}_2 \\mathrm{O}$ 消耗氢氧根离子, 正极 $\\mathrm{O}_2+4 \\mathrm{e}$ $+2 \\mathrm{H}_2 \\mathrm{O}=4 \\mathrm{OH}^{-}$, 则正极区溶液的 $\\mathrm{pH}$ 升高、负极区溶液的 $\\mathrm{pH}$ 降低, 故 $\\mathrm{B}$ 错误;\nC、负极: $\\mathrm{VB}_2+16 \\mathrm{OH}^{-}-11 \\mathrm{e}^{-}=\\mathrm{VO}_4{ }^{3-}+2 \\mathrm{~B}(\\mathrm{OH})_4{ }^{-}+4 \\mathrm{H}_2 \\mathrm{O} \\cdots$ (1), 正极: $\\mathrm{O}_2+4 \\mathrm{e}^{-}+2 \\mathrm{H}_2 \\mathrm{O}$ $=4 \\mathrm{OH}^{-} \\cdots$ (2), 根据得失电子守恒, 即 4(1) +11 (2)得: $4 \\mathrm{VB}_2+11 \\mathrm{O}_2+20 \\mathrm{OH}^{-}+6 \\mathrm{H}_2 \\mathrm{O}=8 \\mathrm{~B}(\\mathrm{OH})$ $4^{-}+4 \\mathrm{VO}_4{ }^{3-}$, 故 C 正确;\nD、原电池中电流由正极经过外电路向负极, 则电流由复合碳电极经负载、 $\\mathrm{VB}_2$ 电极、 $\\mathrm{KOH}$ 溶液回到复合碳电极, 故 D 正确;\n故选: B。",
+            "index": 48,
+            "score": 6
+        },
+        {
+            "year": "2021",
+            "category": "甲卷",
+            "question": "6. 已知相同温度下, $K_{\\mathrm{sp}}\\left(\\mathrm{BaSO}_4\\right)<K_{\\mathrm{sp}}\\left(\\mathrm{BaCO}_3\\right)$. 某温度下, 饱和溶液中 $-\\lg \\left[c\\left(\\mathrm{SO}_4^{2-}\\right)\\right],-\\lg \\left[c\\left(\\mathrm{CO}_3^{2-}\\right)\\right]$与 $-\\lg \\left[c\\left(\\mathrm{Ba}^{2+}\\right)\\right]$ 的关系如图所示.\n下列说法正确的是\nA. 曲线(1)代表 $\\mathrm{BaCO}_3$ 的沉淀溶解曲线\nB. 该温度下 $\\mathrm{BaSO}_4$ 的 $K_{\\mathrm{sp}}\\left(\\mathrm{BaSO}_4\\right)$ 值为 $1.0 \\times 10^{-10}$\nC. 加适量 $\\mathrm{BaCl}_2$ 固体可使溶液由 $\\mathrm{a}$ 点变到 $\\mathrm{b}$ 点\nD. $c\\left(\\mathrm{Ba}^{2+}\\right)=10^{-5.1}$ 时两溶液中 $\\frac{c\\left(\\mathrm{SO}_4^{2-}\\right)}{c\\left(\\mathrm{CO}_3^{2-}\\right)}=10^{y_2-\\mathrm{y}_1}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_49_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】 A. 由题可知, 曲线上的点均为饱和溶液中微粒浓度关系, 由上述分析可知, 曲线(1)为 $\\mathrm{BaSO}_4$ 的沉淀溶解曲线, 选项 A 错误;\nB. 曲线(1)为 $\\mathrm{BaSO}_4$ 溶液中 $-\\lg \\left[c\\left(\\mathrm{Ba}^{2+}\\right)\\right]$ 与 $-\\lg \\left[c\\left(\\mathrm{SO}_4^{2-}\\right)\\right]$ 的关系, 由图可知, 当溶液中 $-\\lg \\left[c\\left(\\mathrm{Ba}^{2+}\\right)\\right]=3$ 时, $-\\lg \\left[c\\left(\\mathrm{SO}_4^{2-}\\right)=7\\right.$, 则 $-\\lg \\left[K_{\\mathrm{sp}}\\left(\\mathrm{BaSO}_4\\right)\\right]=7+3=10$, 因此 $K_{\\mathrm{sp}}\\left(\\mathrm{BaSO}_4\\right)=1.0 \\times 10^{-10}$, 选项 B 正确;\nC. 向饱和 $\\mathrm{BaSO}_4$ 溶液中加人适量 $\\mathrm{BaCl}_2$ 固体后, 溶液中 $c\\left(\\mathrm{Ba}^{2+}\\right)$ 增大, 根据温度不变则 $K_{\\mathrm{sp}}\\left(\\mathrm{BaSO}_4\\right)$ 不变可知,溶液中 $c\\left(\\mathrm{SO}_4^{2-}\\right)$ 将减小, 因此 $\\mathrm{a}$ 点将沿曲线(1)向左上方移动, 选项 $\\mathrm{C}$ 错误;\nD. 由图可知, 当溶液中 $c\\left(\\mathrm{Ba}^{2+}\\right)=10^{-5.1}$ 时, 两溶液中 $\\frac{c\\left(\\mathrm{SO}_4^{2-}\\right)}{c\\left(\\mathrm{CO}_3^{2-}\\right)}=\\frac{10^{-\\mathrm{y}_2}}{10^{-\\mathrm{y}_1}}=10^{\\mathrm{y}_1-\\mathrm{y}_2}$, 选项 D 错误;答案选 B。",
+            "index": 49,
+            "score": 6
+        },
+        {
+            "year": "2021",
+            "category": "全国乙卷",
+            "question": "2. 在实验室采用如图装置制备气体, 合理的是\n\\begin{tabular}{|l|l|l|}\n\\hline & 化学试剂 & 制备的气体 \\\\\n\\hline $\\mathrm{A}$ & $\\mathrm{Ca}(\\mathrm{OH})_2+\\mathrm{NH}_4 \\mathrm{Cl}$ & $\\mathrm{NH}_3$ \\\\\n\\hline $\\mathrm{B}$ & $\\mathrm{MnO}_2+\\mathrm{HCl}$ (浓) & $\\mathrm{Cl}_2$ \\\\\n\\hline $\\mathrm{C}$ & $\\mathrm{MnO}_2+\\mathrm{KClO}_3$ & $\\mathrm{O}_2$ \\\\\n\\hline D & $\\mathrm{NaCl}+\\mathrm{H}_2 \\mathrm{SO}_4$ (浓) & $\\mathrm{HCl}$ \\\\\n\\hline\n\\end{tabular}",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_50_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 氨气的密度比空气小, 不能用向上排空法收集, 故 A 错误;\nB. 二氧化鿭与浓盐酸共热制备氯气为固液加热反应, 需要选用固液加热装置, 不能选用固固加热装置，故 B 错误;\nC. 二氧化锰和氯酸钾共热制备氧气为固固加热的反应, 能选用固固加热装置, 氧气的密度大于空气, 可选用向上排空气法收集, 故 C 正确;\nD. 氯化钠与浓硫酸共热制备为固液加热反应, 需要选用固液加热装置, 不能选用固固加热装置, 故 D 错误;\n故选 C.",
+            "index": 50,
+            "score": 6
+        },
+        {
+            "year": "2021",
+            "category": "全国乙卷",
+            "question": "6. 沿海电厂采用海水为冷却水, 但在排水管中生物的附着和滋生会阻碍冷却水排放并降低冷却效率, 为解决这一问题, 通常在管道口设置一对惰性电极(如图所示), 通人一定的电流。\n下列叙述错误的是()\nA. 阳极发生将海水中的 $\\mathrm{Cl}^{-}$氧化生成 $\\mathrm{Cl}_2$ 的反应\nB. 管道中可以生成氧化灭杀附着生物的 $\\mathrm{NaClO}$\nC. 阴极生成的 $\\mathrm{H}_2$ 应及时通风稀释安全地排人大气\nD. 阳极表面形成的 $\\mathrm{Mg}(\\mathrm{OH})_2$ 等积垢需要定期清理",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_51_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】 A. 根据分析可知, 阳极区海水中的 $\\mathrm{Cl}^{-}$会优先失去电子生成 $\\mathrm{Cl}_2$, 发生氧化反应, A 正确;\nB. 设置的装置为电解池原理, 根据分析知, 阳极区生成的 $\\mathrm{Cl}_2$ 与阴极区生成的 $\\mathrm{OH}$ 在管道中会发生反应生成 $\\mathrm{NaCl} 、 \\mathrm{NaClO}$ 和 $\\mathrm{H}_2 \\mathrm{O}$, 其中 $\\mathrm{NaClO}$ 具有强氧化性, 可氧化灭杀附着的生物, B 正确;\nC. 因为 $\\mathrm{H}_2$ 是易燃性气体，所以阳极区生成的 $\\mathrm{H}_2$ 需及时通风稀释，安全地排人大气，以排除安全隐患, C 正确;\nD. 阴极的电极反应式为: $2 \\mathrm{H}_2 \\mathrm{O}+2 \\mathrm{e}=\\mathrm{H}_2 \\uparrow+2 \\mathrm{OH}^{-}$, 会使海水中的 $\\mathrm{Mg}^{2+}$ 沉淀积垢, 所以阴极表面会形成 $\\mathrm{Mg}(\\mathrm{OH})_2$ 等积垢需定期清理, $\\mathrm{D}$ 错误。\n故选 D。",
+            "index": 51,
+            "score": 6
+        },
+        {
+            "year": "2021",
+            "category": "全国乙卷",
+            "question": "7. $\\mathrm{HA}$ 是一元弱酸, 难溶盐 $\\mathrm{MA}$ 的饱和溶液中 $\\mathrm{c}\\left(\\mathrm{M}^{+}\\right)$随 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)$而变化, $\\mathrm{M}^{+}$不发生水解。实验发现, $298 \\mathrm{~K}$ 时 $\\mathrm{c}^2\\left(\\mathrm{M}^{+}\\right)-\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)$为线性关系, 如下图中实线所示。\n下列叙述错误的是()\nA. 溶液 $\\mathrm{pH}=4$ 时, $\\mathrm{c}\\left(\\mathrm{M}^{+}\\right)<3.0 \\times 10^{-1} \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$\nB. MA 的溶度积度积 $\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{MA})=5.0 \\times 10^{-8}$\nC. 溶液 $\\mathrm{pH}=7$ 时, $\\mathrm{c}\\left(\\mathrm{M}^{+}\\right)+\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{-}\\right)+\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)$\nD. $\\mathrm{HA}$ 的电离常数 $\\mathrm{K}_{\\mathrm{a}}(\\mathrm{HA}) \\approx 2.0 \\times 10^{-4}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_52_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 由图可知 $\\mathrm{pH}=4$, 即 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=10 \\times 10^{-5} \\mathrm{~mol} / \\mathrm{L}$ 时, $\\mathrm{c}^2\\left(\\mathrm{M}^{+}\\right)=7.5 \\times 10^{-8} \\mathrm{~mol}^2 / \\mathrm{L}^2$, $\\mathrm{c}\\left(\\mathrm{M}^{+}\\right)=\\sqrt{7.5 \\times 10^{-8}} \\mathrm{~mol} / \\mathrm{L}=\\sqrt{7.5} \\times 10^{-4} \\mathrm{~mol} / \\mathrm{L}<3.0 \\times 10^{-4} \\mathrm{~mol} / \\mathrm{L}, \\quad \\mathrm{A}$ 正确;\nB. 当 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=0 \\mathrm{~mol} / \\mathrm{L}$ 时, $\\mathrm{c}^2\\left(\\mathrm{M}^{+}\\right)=5.0 \\times 10^{-8}$, 结合分析可知 $5.0 \\times 10^{-8}=0 \\times \\frac{\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{MA})}{\\mathrm{K}_{\\mathrm{a}}(\\mathrm{HA})}+\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{MA})=\\mathrm{K}_{\\mathrm{sp}}(\\mathrm{MA}), \\quad \\mathrm{B}$ 正确;\nC. 设调 $\\mathrm{pH}$ 所用的酸为 $\\mathrm{H}_{\\mathrm{n}} \\mathrm{X}$, 则结合电荷守恒可知 $\\mathrm{c}\\left(\\mathrm{M}^{+}\\right)+\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{A}^{-}\\right)+\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)+\\mathrm{nc}\\left(\\mathrm{X}^{\\mathrm{n}}\\right)$,题给等式右边缺阴离子部分 $\\mathrm{nc}\\left(\\mathrm{X}^{\\mathrm{n}-}\\right), \\mathrm{C}$ 错误;\nD. 当 $c\\left(H^{+}\\right)=20 \\times 10^{-5} \\mathrm{~mol} / \\mathrm{L}$ 时, $\\mathrm{c}^2\\left(\\mathrm{M}^{+}\\right)=10.0 \\times 10^{-8} \\mathrm{~mol}^2 / \\mathrm{L}^2$, 结合 $K_{s p}(\\mathrm{MA})=5.0 \\times 10^{-8} \\mathrm{~B}$ 代人线性方程有 $10.0 \\times 10^{-8}=2 \\times 10^{-4} \\times \\frac{5.0 \\times 10^{-8}}{\\mathrm{~K}_{\\mathrm{a}}(\\mathrm{HA})}+5.0 \\times 10^{-8}$, 解得 $\\mathrm{K}_{\\mathrm{a}}(\\mathrm{HA}) \\approx 2.0 \\times 10^{-4}$, D 正确;选 $\\mathrm{C}$ 。",
+            "index": 52,
+            "score": 6
+        },
+        {
+            "year": "2022",
+            "category": "全国甲卷",
+            "question": "2. 辅酶 $Q_{10}$ 具有预防动脉硬化的功效, 其结构简式如下。下列有关辅酶 $\\mathrm{Q}_{10}$ 的说法正确的是\nA. 分子式为 $\\mathrm{C}_{60} \\mathrm{H}_{90} \\mathrm{O}_4$\nB. 分子中含有 14 个甲基\nC. 分子中的四个氧原子不在同一平面\nD. 可发生加成反应, 不能发生取代反应",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_53_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】 A. 由该物质的结构简式可知, 其分子式为 $\\mathrm{C}_{59} \\mathrm{H}_{90} \\mathrm{O}_4, \\mathrm{~A}$ 错误;\nB. 由该物质的结构简式可知，键线式端点代表甲基，10 个重复基团的最后一个连接 $\\mathrm{H}$ 原子的碳是甲基,故分子中含有 $1+1+1+10+1=14$ 个甲基, B 正确;\nC. 双键碳以及与其相连的四个原子共面, 羰基碳采取 $\\mathrm{sp}^2$ 杂化, 羰基碳原子和与其相连的氧原子及另外两个原子共面, 因此分子中的四个氧原子在同一平面上, $\\mathrm{C}$ 错误;\nD. 分子中有碳碳双键，能发生加成反应，分子中含有甲基，能发生取代反应，D 错误;答案选 B。",
+            "index": 53,
+            "score": 6
+        },
+        {
+            "year": "2022",
+            "category": "全国甲卷",
+            "question": "4. 一种水性电解液 $\\mathrm{Zn}-\\mathrm{MnO}_2$ 离子选泽双隔膜电池如图所示 $\\left(\\mathrm{KOH}\\right.$ 溶液中, $\\mathrm{Zn}^{2+}$ 以 $\\mathrm{Zn}(\\mathrm{OH})_4^{2-}$ 存在)。电池放电时, 下列叙述错误的是()\nA. II 区的 $\\mathrm{K}^{+}$通过隔膜向 III 区迁移\nB. I 区的 $\\mathrm{SO}_4^{2-}$ 通过隔膜向 II 区迁移\nC. $\\mathrm{MnO}_2$ 电极反应: $\\mathrm{MnO}_2+2 \\mathrm{e}^{-}+4 \\mathrm{H}^{+}=\\mathrm{Mn}^{2+}+2 \\mathrm{H}_2 \\mathrm{O}$\nD. 电池总反应: $\\mathrm{Zn}+4 \\mathrm{OH}^{-}+\\mathrm{MnO}_2+4 \\mathrm{H}^{+}=\\mathrm{Zn}(\\mathrm{OH})_4^{2-}+\\mathrm{Mn}^{2+}+2 \\mathrm{H}_2 \\mathrm{O}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_54_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】 A. 根据分析, II 区的 $\\mathrm{K}^{+}$只能向 I 区移动, $\\mathrm{A}$ 错误;\nB. 根据分析, I 区的 $\\mathrm{SO}_4^{2-}$ 向 II 区移动, $\\mathrm{B}$ 正确;\nC. $\\mathrm{MnO}_2$ 电极的电极反应式为 $\\mathrm{MnO}_2+2 \\mathrm{e}^{-}+4 \\mathrm{H}^{+}=\\mathrm{Mn}^{2+}+2 \\mathrm{H}_2 \\mathrm{O}, \\mathrm{C}$ 正确;\nD. 电池的总反应为 $\\mathrm{Zn}+4 \\mathrm{OH}^{-}+\\mathrm{MnO}_2+4 \\mathrm{H}^{+}=\\mathrm{Zn}(\\mathrm{OH})_4^{2-}+\\mathrm{Mn}^{2+}+2 \\mathrm{H}_2 \\mathrm{O}$, D 正确;故答案选 A。",
+            "index": 54,
+            "score": 6
+        },
+        {
+            "year": "2022",
+            "category": "全国乙卷",
+            "question": "8. 一种实现二氧化碳固定及再利用的反应如下:\n下列叙述正确的是()\nA. 化合物 1 分子中的所有原子共平面\nB. 化合物 1 与乙醇互为同系物\nC. 化合物 2 分子中含有垟基和酯基\nD. 化合物 2 可以发生开环聚合反应",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_55_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】 A. 化合物 1 分子中还有亚甲基结构, 其中心碳原子采用 $\\mathrm{sp}^3$ 杂化方式, 所以所有原子不可能共平面, $\\mathrm{A}$ 错误;\nB. 结构相似, 分子上相差 $\\mathrm{n}$ 个 $\\mathrm{CH}_2$ 的有机物互为同系物, 上述化合物 1 为环氧乙烷, 属于梄类，乙醇属于醇类，与乙醇结构不相似，不是同系物， B 错误;\nC. 根据上述化合物 2 的分子结构可知，分子中含酯基，不含垟基, $\\mathrm{C}$ 错误;\nD. 化合物 2 分子可发生开环聚合形成高分子化合物,D 正确;\n答案选 D。",
+            "index": 55,
+            "score": 6
+        },
+        {
+            "year": "2022",
+            "category": "全国乙卷",
+            "question": "11. 化合物 $\\left(\\mathrm{YW}_4 \\mathrm{X}_5 \\mathrm{Z}_8 \\cdot 4 \\mathrm{~W}_2 \\mathrm{Z}\\right)$ 可用于电讯器材、高级玻璃的制造。 $W 、 X 、 Y 、 Z$ 为短周期元素, 原子序数依次增加, 且加和为 $21 . \\mathrm{YZ}_2$ 分子的总电子数为奇数常温下为气体。该化合物的热重曲线如图所示, 在 $200^{\\circ} \\mathrm{C}$ 以下热分解时无刺激性气体逸出。下列叙述正确的是()\nA. $W 、 X 、 Y 、 Z$ 的单质常温下均为气体\nB. 最高价氧化物的水化物酸性: $\\mathrm{Y}<\\mathrm{X}$\nC. $100 \\sim 200^{\\circ} \\mathrm{C}$ 阶段热分解失去 4 个 $\\mathrm{W}_2 \\mathrm{Z}$\nD. $500^{\\circ} \\mathrm{C}$ 热分解后生成固体化合物 $\\mathrm{X}_2 \\mathrm{Z}_3$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_56_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】 A. X(B)的单质常温下为固体, 故 A 错误;\nB. 根据非金属性越强, 其最高价氧化物的水化物酸性越强, 则最高价氧化物的水化物酸性: $\\mathrm{X}\\left(\\mathrm{H}_3 \\mathrm{BO}_3\\right)<\\mathrm{Y}\\left(\\mathrm{HNO}_3\\right)$, 故 B 错误;\nC. 根据前面已知 $200^{\\circ} \\mathrm{C}$ 以下热分解时无刺激性气体逸出, 则说明失去的是水, 若 $100 \\sim 200^{\\circ} \\mathrm{C}$阶段热分解失去 4 个 $\\mathrm{H}_2 \\mathrm{O}$, 则质量分数 $\\frac{14+4+11 \\times 5+16 \\times 8}{14+4+11 \\times 5+16 \\times 8+18 \\times 4} \\times 100 \\% \\approx 73.6 \\%$, 则说明不是失去去 4 个 $\\mathrm{H}_2 \\mathrm{O}$, 故 $\\mathrm{C}$ 错误;\nD. 化合物 $\\left(\\mathrm{NH}_4 \\mathrm{~B}_5 \\mathrm{O}_8 \\cdot 4 \\mathrm{H}_2 \\mathrm{O}\\right)$ 在 $500^{\\circ} \\mathrm{C}$ 热分解后若生成固体化合物 $\\mathrm{X}_2 \\mathrm{Z}_3\\left(\\mathrm{~B}_2 \\mathrm{O}_3\\right)$, 根据硼元素守恒, 则得到关系式 $2 \\mathrm{NH}_4 \\mathrm{~B}_5 \\mathrm{O}_8 \\cdot 4 \\mathrm{H}_2 \\mathrm{O} \\sim 5 \\mathrm{~B}_2 \\mathrm{O}_3$, 则固体化合物 $\\mathrm{B}_2 \\mathrm{O}_3$ 质量分数为 $\\frac{(11 \\times 2+16 \\times 3) \\times 5}{(14+4+11 \\times 5+16 \\times 8+18 \\times 4) \\times 2} \\times 100 \\% \\approx 64.1 \\%$, 说明假设正确, 故 D 正确。\n综上所述, 答案为 $\\mathrm{D}$ 。",
+            "index": 56,
+            "score": 6
+        },
+        {
+            "year": "2022",
+            "category": "全国乙卷",
+            "question": "12. $\\mathrm{Li}_2 \\mathrm{O}_2$ 电池比能量高, 在汽车、航天等领域具有良好的应用前景。近年来科学家研究了一种光照充电 $\\mathrm{Li}-\\mathrm{O}_2$ 电池(如图所示)。光照时, 光催化电极产生电子 $\\left(\\mathrm{e}^{-}\\right)$和空穴 $\\left(\\mathrm{h}^{+}\\right)$, 驱动阴极反应 $\\left(\\mathrm{Li}^{+}+\\mathrm{e}^{-}=\\mathrm{Li}\\right)$ 和阳极反应 $\\left(\\mathrm{Li}_2 \\mathrm{O}_2+2 \\mathrm{~h}^{+}=2 \\mathrm{Li}^{+}+\\mathrm{O}_2\\right)$ 对电池进行充电.下列叙述错误的是()\nA. 充电时, 电池的总反应 $\\mathrm{Li}_2 \\mathrm{O}_2=2 \\mathrm{Li}+\\mathrm{O}_2$\nB. 充电效率与光照产生的电子和空穴量有关\nC. 放电时, $\\mathrm{Li}^{+}$从正极穿过离子交换膜向负极迁移\nD. 放电时, 正极发生反应 $\\mathrm{O}_2+2 \\mathrm{Li}^{+}+2 \\mathrm{e}^{-}=\\mathrm{Li}_2 \\mathrm{O}_2$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_57_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】 A. 光照时, 光催化电极产生电子和空穴, 驱动阴极反应和阳极反应对电池进行充电, 结合阴极反应和阳极反应, 充电时电池的总反应为 $\\mathrm{Li}_2 \\mathrm{O}_2=2 \\mathrm{Li}+\\mathrm{O}_2, \\mathrm{~A}$ 正确;\nB. 充电时, 光照光催化电极产生电子和空穴, 阴极反应与电子有关, 阳极反应与空穴有关,故充电效率与光照产生的电子和空穴量有关, B 正确;\nC. 放电时, 金属 $\\mathrm{Li}$ 电极为负极, 光催化电极为正极, $\\mathrm{Li}^{+}$从负极穿过离子交换膜向正极迁移, C 错误;\nD. 放电时总反应为 $2 \\mathrm{Li}^{+}+\\mathrm{O}_2=\\mathrm{Li}_2 \\mathrm{O}_2$, 正极反应为 $\\mathrm{O}_2+2 \\mathrm{Li}^{+}+2 \\mathrm{e}^{-}=\\mathrm{Li}_2 \\mathrm{O}_2, \\mathrm{D}$ 正确;答案选 C.",
+            "index": 57,
+            "score": 6
+        },
+        {
+            "year": "2022",
+            "category": "全国乙卷",
+            "question": "13. 常温下,一元酸$HA$的$K_a(HA)=1.0\\times10^{-3}$.在某体系中,$H^+$和$A^-$离子不能穿过隔膜,未电离的 $\\mathrm{HA}$ 可自由穿过该膜(如图所示)。\n设溶液中 $\\mathrm{c}_{\\text {总 }}(\\mathrm{HA})=\\mathrm{c}(\\mathrm{HA})+\\mathrm{c}\\left(\\mathrm{A}^{-}\\right)$, 当达到平衡时, 下列叙述正确的是()\nA. 溶液 $\\mathrm{I}$ 中 $\\mathrm{c}\\left(\\mathrm{H}^{+}\\right)=\\mathrm{c}\\left(\\mathrm{OH}^{-}\\right)+\\mathrm{c}\\left(\\mathrm{A}^{-}\\right)$\nB. 溶液 II 中的 $\\mathrm{HA}$ 的电离度 $\\left(\\frac{\\mathrm{c}\\left(\\mathrm{A}^{-}\\right)}{\\mathrm{c}_{\\text {总 }}(\\mathrm{HA})}\\right)$ 为 $\\frac{1}{101}$\nC. 溶液 I 和 II 中的 $c(\\mathrm{HA})$ 不相等\nD. 溶液 I 和 II 中的 $\\mathrm{c}_{\\text {总 }}(\\mathrm{HA})$ 之比为 $10^{-4}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_58_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】A. 常温下溶液 $\\mathrm{I}$ 的 $\\mathrm{pH}=7.0$, 则溶液 $\\mathrm{I}$ 中 $c\\left(\\mathrm{H}^{+}\\right)=c\\left(\\mathrm{OH}^{-}\\right)=1 \\times 10^{-7} \\mathrm{~mol} / \\mathrm{L}, c\\left(\\mathrm{H}^{+}\\right)<c\\left(\\mathrm{OH}^{-}\\right)$ $+c\\left(\\mathrm{~A}^{-}\\right), \\mathrm{A}$ 错误;\nB. 常温下溶液 $\\mathrm{II}$ 的 $\\mathrm{pH}=1.0$, 溶液中 $c\\left(\\mathrm{H}^{+}\\right)=0.1 \\mathrm{~mol} / \\mathrm{L}, K_{\\mathrm{a}}=\\frac{c\\left(\\mathrm{H}^{+}\\right) \\cdot c\\left(\\mathrm{~A}^{-}\\right)}{c(\\mathrm{HA})}=1.0 \\times 10^{-3}, c_{\\text {总 }}$ $(\\mathrm{HA})=c(\\mathrm{HA})+c\\left(\\mathrm{~A}^{-}\\right)$, 则 $\\frac{0.1 c\\left(\\mathrm{~A}^{-}\\right)}{c_{\\text {总 }}(\\mathrm{HA})-c\\left(\\mathrm{~A}^{-}\\right)}=1.0 \\times 10^{-3}$, 解得 $\\frac{c\\left(\\mathrm{~A}^{-}\\right)}{c_{\\text {总 }}(\\mathrm{HA})}=\\frac{1}{101}, \\mathrm{~B}$ 正确;\nC. 根据题意, 未电离的 HA 可自由穿过隔膜, 故溶液 I 和 II 中的 $c(\\mathrm{HA})$ 相等, C 错误;\nD. 常温下溶液 $\\mathrm{I}$ 的 $\\mathrm{pH}=7.0$, 溶液 $\\mathrm{I}$ 中 $c\\left(\\mathrm{H}^{+}\\right)=1 \\times 10^{-7} \\mathrm{~mol} / \\mathrm{L}, K_{\\mathrm{a}}=\\frac{c\\left(\\mathrm{H}^{+}\\right) \\cdot c\\left(\\mathrm{~A}^{-}\\right)}{c(\\mathrm{HA})}=1.0 \\times 10^{-3}, c_{\\text {总 }}$ $(\\mathrm{HA})=c(\\mathrm{HA})+c\\left(\\mathrm{~A}^{-}\\right), \\frac{10^{-7}\\left[c_{\\text {总 }}(\\mathrm{HA})-c(\\mathrm{HA})\\right]}{c(\\mathrm{HA})}=1.0 \\times 10^{-3}$, 溶液 $\\mathrm{I}$ 中 $c_{\\text {总 }}(\\mathrm{HA})=\\left(10^4+1\\right) c(\\mathrm{HA})$, 溶液 II 的 $\\mathrm{pH}=1.0$, 溶液 II 中 $c\\left(\\mathrm{H}^{+}\\right)=0.1 \\mathrm{~mol} / \\mathrm{L}, K_{\\mathrm{a}}=\\frac{c\\left(\\mathrm{H}^{+}\\right) \\cdot c\\left(\\mathrm{~A}^{-}\\right)}{c(\\mathrm{HA})}=1.0 \\times 10^{-3}, c$ 总 $(\\mathrm{HA})=c(\\mathrm{HA})+c\\left(\\mathrm{~A}^{-}\\right)$, $\\frac{0.1\\left[c_{\\text {总 }}(\\mathrm{HA})-c(\\mathrm{HA})\\right]}{c(\\mathrm{HA})}=1.0 \\times 10^{-3}$, 溶液 II 中 $c_{\\text {总 }}(\\mathrm{HA})=1.01 c(\\mathrm{HA})$, 未电离的 HA 可自由穿过隔膜, 故溶液 I 和 II 中的 $c(\\mathrm{HA})$ 相等, 溶液 I 和 II 中 $c$ 总 $(\\mathrm{HA})$ 之比为 $\\left[\\left(10^4+1\right) c(\\mathrm{HA})\right]$ :$[1.01 c(\\mathrm{HA})]=\\left(10^4+1\right): 1.01 \\approx 10^4, \\mathrm{D}$ 错误;\n答案选 B",
+            "index": 58,
+            "score": 6
+        },
+        {
+            "year": "2023",
+            "category": "全国甲卷",
+            "question": "6. 用可再生能源电还原 $\\mathrm{CO}_2$ 时, 采用高浓度的 $\\mathrm{K}^{+}$抑制酸性电解液中的析氢反应来提高多碳产物(乙烯、乙醇等)的生成率, 装置如下图所示。下列说法正确的是\nA. 析氢反应发生在 $\\mathrm{IrO}_x-\\mathrm{Ti}$ 电极上\nB. $\\mathrm{Cl}^{-}$从 $\\mathrm{Cu}$ 电极迁移到 $\\mathrm{IrO}_x-\\mathrm{Ti}$ 电极\nC. 阴极发生的反应有: $2 \\mathrm{CO}_2+12 \\mathrm{H}^{+}+12 \\mathrm{e}^{-}=\\mathrm{C}_2 \\mathrm{H}_4+4 \\mathrm{H}_2 \\mathrm{O}$\nD. 每转移 $1 \\mathrm{~mol}$ 电子, 阳极生成 $11.2 \\mathrm{~L}$ 气体(标准状况)",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_59_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 析氢反应为还原反应, 应在阴极发生, 即在铜电极上发生, 故 A 错误;\nB. 离子交换膜为质子交换膜, 只允许氢离子通过, $\\mathrm{Cl}^{-}$不能通过, 故 B 错误;\nC. 由分析可知, 铜电极为阴极, 酸性条件下二氧化碳在阴极得到电子发生还原反应生成乙烯、乙醇等, 电极反应式有 $2 \\mathrm{CO}_2+12 \\mathrm{H}^{+}+12 \\mathrm{e}^{-}=\\mathrm{C}_2 \\mathrm{H}_4+4 \\mathrm{H}_2 \\mathrm{O}$, 故 C 正确;\nD. 水在阳极失去电子发生氧化反应生成氧气和氢离子, 电极反应式费 $2 \\mathrm{H}_2 \\mathrm{O}-4 \\mathrm{e}^{--}=\\mathrm{O}_2 \\uparrow+4 \\mathrm{H}^{+}$, 每转移 $1 \\mathrm{~mol}$ 电子, 生成 $0.25 \\mathrm{molO}_2$, 在标况下体积为 $5.6 \\mathrm{~L}$, 故 D 错误;\n答案选 C。",
+            "index": 59,
+            "score": 6
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "3. 下列装置可以用于相应实验的是",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_60_0.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_60_1.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_60_2.png",
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_60_3.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】A. $\\mathrm{Na}_2 \\mathrm{CO}_3$ 固体比较稳定, 受热不易分解, 所以不能采用加热碳酸钠的方式制备二氧化碳, $\\mathrm{A}$ 错误;\nB. 乙醇和乙酸是互溶的, 不能采用分液的方式分离, 应采用蒸馏来分离, B 错误;\nC. 二氧化硫通入品红溶液中, 可以验证其漂白性, 不能验证酸性, C 错误;\nD. 测量氧气体积时, 装置选择量气筒, 测量时要恢复到室温, 量气筒和水准管两边液面高度相等时, 氧气排开水的体积与氧气的体积相等, 即可用如图装置测量氧气的体积, D 正确;故选 D。",
+            "index": 60,
+            "score": 6
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "6. 室温钠-硫电池被认为是一种成本低、比能量高的能源存储系统。一种室温钠-硫电池的结构如图所示。将钠箔置于聚苯并咪唑膜上作为一个电极, 表面喷涂有硫黄粉末的炭化纤维素纸作为另一电极。工作时,在硫电极发生反应: $\\frac{1}{2} \\mathrm{~S}_8+\\mathrm{e}^{-} \\rightarrow \\frac{1}{2} \\mathrm{~S}_8^{2-}, \\quad \\frac{1}{2} \\mathrm{~S}_8^{2-}+\\mathrm{e}^{-} \\rightarrow \\mathrm{S}_4^{2-}, 2 \\mathrm{Na}^{+}+\\frac{\\mathrm{X}}{4} \\mathrm{~S}_4^{2-}+2\\left(1-\\frac{\\mathrm{X}}{4}\\right) \\mathrm{e}^{-} \\rightarrow \\mathrm{Na}_2 \\mathrm{~S}_{\\mathrm{x}}$\n下列叙述错误的是\nA. 充电时 $\\mathrm{Na}^{+}$从钠电极向硫电极迁移\nB. 放电时外电路电子流动的方向是 $\\mathrm{a} \\rightarrow \\mathrm{b}$\nC. 放电时正极反应为: $2 \\mathrm{Na}^{+}+\\frac{x}{8} \\mathrm{~S}_8+2 \\mathrm{e}^{-} \\rightarrow \\mathrm{Na}_2 \\mathrm{~S}_{\\mathrm{x}}$\nD. 炭化纤维素纸的作用是增强硫电极导电性能",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_61_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】A. 充电时为电解池装置, 阳离子移向阴极, 即钠电极, 故充电时, $\\mathrm{Na}^{+}$由硫电极迁移至钠电极, $\\mathrm{A}$错误;\nB. 放电时 $\\mathrm{Na}$ 在 $\\mathrm{a}$ 电极失去电子, 失去的电子经外电路流向 $\\mathrm{b}$ 电极, 硫黄粉在 $\\mathrm{b}$ 电极上得电子与 $\\mathrm{a}$ 电极释放出的 $\\mathrm{Na}^{+}$结合得到 $\\mathrm{Na}_2 \\mathrm{~S}_{\\mathrm{x}}$, 电子在外电路的流向为 $\\mathrm{a} \\rightarrow \\mathrm{b}, \\mathrm{B}$ 正确;\nC. 由题给的的一系列方程式相加可以得到放电时正极的反应式为 $2 \\mathrm{Na}^{+}+\\frac{x}{8} \\mathrm{~S}_8+2 \\mathrm{e} \\rightarrow \\mathrm{Na}_2 \\mathrm{~S}_{\\mathrm{x}}, \\mathrm{C}$ 正确;\nD. 炭化纤维素纸中含有大量的炭, 炭具有良好的导电性, 可以增强硫电极的导电性能, D 正确;故答案选 A。",
+            "index": 61,
+            "score": 6
+        },
+        {
+            "year": "2023",
+            "category": "全国乙卷",
+            "question": "7. 一定温度下, $\\mathrm{AgCl}$ 和 $\\mathrm{Ag}_2 \\mathrm{CrO}_4$ 的沉淀溶解平衡曲线如图所示。\n下列说法正确的是\nA. a 点条件下能生成 $\\mathrm{Ag}_2 \\mathrm{CrO}_4$ 沉淀, 也能生成 $\\mathrm{AgCl}$ 沉淀\nB. b 点时 $, c\\left(\\mathrm{Cl}^{-}\\right)=c\\left(\\mathrm{CrO}_4^{2-}\\right), K_{\\mathrm{sp}}(\\mathrm{AgCl})=K_{\\mathrm{sp}}\\left(\\mathrm{Ag}_2 \\mathrm{CrO}_4\\right)$\nC. $\\mathrm{Ag}_2 \\mathrm{CrO}_4+2 \\mathrm{Cl}^{-} \\quad 2 \\mathrm{AgCl}+\\mathrm{CrO}_4^{2-}$ 的平衡常数 $K=10^{7.9}$\nD. 向 $\\mathrm{NaCl} 、 \\mathrm{Na}_2 \\mathrm{CrO}_4$ 均为 $0.1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的混合溶液中滴加 $\\mathrm{AgNO}_3$ 溶液, 先产生 $\\mathrm{Ag}_2 \\mathrm{CrO}_4$ 沉淀",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_62_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】 A. 假设 a 点坐标为 $(4,6.5)$, 此时分别计算反应的浓度熵 $Q$ 得, $Q(\\mathrm{AgCl})=10^{-10.5}, Q\\left(\\mathrm{Ag}_2 \\mathrm{CrO}_4\\right)=10^{-}$ 17, 二者的浓度熵均小于其对应的溶度积 $K_{\\mathrm{sp}}$, 二者不会生成沉淀, A 错误;\nB. $K_{\\mathrm{sp}}$ 为难溶物的溶度积, 是一种平衡常数, 平衡常数只与温度有关, 与浓度无关, 根据分析可知, 二者的溶度积不相同, B 错误;\nC. 该反应的平衡常数表达式为 $K=\\frac{c\\left(\\mathrm{CrO}_4^{2-}\\right)}{c^2\\left(\\mathrm{Cl}^{-}\\right)}$, 将表达式转化为与两种难溶物的溶度积有关的式子得 $K=$ $\\frac{c\\left(\\mathrm{CrO}_4^{2-}\\right)}{c^2\\left(\\mathrm{Cl}^{-}\\right)}=\\frac{c\\left(\\mathrm{CrO}_4^{2-}\\right) \\cdot c^2\\left(\\mathrm{Ag}^{+}\\right)}{c^2\\left(\\mathrm{Cl}^{-}\\right) \\cdot c^2\\left(\\mathrm{Ag}^{+}\\right)}=\\frac{K_{\\mathrm{sp}}\\left(\\mathrm{AgCrO}_4\\right)}{K_{\\mathrm{sp}}^2(\\mathrm{AgCl})}=\\frac{1 \\times 10^{-11.7}}{\\left(1 \\times 10^{-9.8}\\right)^2}=1 \\times 10^{7.9}, \\quad \\mathrm{C}$ 正确;\nD. 向 $\\mathrm{NaCl} 、 \\mathrm{Na}_2 \\mathrm{CrO}_4$ 均为 $0.1 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 的混合溶液中滴加 $\\mathrm{AgNO}_3$, 开始沉淀时所需要的 $c\\left(\\mathrm{Ag}^{+}\\right)$分别为 $10^{-8.8}$和 $10^{-5.35}$, 说明此时沉淀 $\\mathrm{Cl}^{-}$需要的银离子浓度更低, 在这种情况下, 先沉淀的是 $\\mathrm{AgCl}, \\mathrm{D}$ 错误;故答案选 C。",
+            "index": 62,
+            "score": 6
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "3. 一种可吸附甲醇的材料, 其化学式为 $\\left[\\mathrm{C}\\left(\\mathrm{NH}_2\\right)_3\\right]_4\\left[\\mathrm{~B}\\left(\\mathrm{OCH}_3\\right)_4\\right]_3 \\mathrm{Cl}$, 部分晶体结构如下图所示, 其中 $\\left[\\mathrm{C}\\left(\\mathrm{NH}_2\\right)_3\\right]^{+}$为平面结构。\n下列说法正确的是\nA. 该晶体中存在 $\\mathrm{N}-\\mathrm{H} \\cdots \\mathrm{O}$ 氢键\nB. 基态原子的第一电离能: $\\mathrm{C}<\\mathrm{N}<\\mathrm{O}$\nC. 基态原子未成对电子数： $\\mathrm{B}<\\mathrm{C}<\\mathrm{O}<\\mathrm{N}$\nD. 晶体中 $\\mathrm{B} 、 \\mathrm{~N}$ 和 $\\mathrm{O}$ 原子轨道的杂化类型相同",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_63_0.png"
+            ],
+            "answer": [
+                "A"
+            ],
+            "analysis": "【详解】 A. 由晶体结构图可知, $\\left[\\mathrm{C}\\left(\\mathrm{NH}_2\\right)_3\\right]^{+}$中的 $-\\mathrm{NH}_2$ 的 $\\mathrm{H}$ 与 $\\left[\\mathrm{B}\\left(\\mathrm{OCH}_3\\right)_4\\right]^{-}$中的 $\\mathrm{O}$ 形成氢键, 因此,该晶体中存在 $\\mathrm{N}-\\mathrm{H} \\cdots \\mathrm{O}$ 氢键, $\\mathrm{A}$ 说法正确;\nB. 同一周期元素原子的第一电离能呈递增趋势, 但是第IIA、VA 元素的原子结构比较稳定, 其第一电离能高于同周期的相邻元素的原子, 因此, 基态原子的第一电离能从小到大的顺序为 $\\mathrm{C}<\\mathrm{O}<\\mathrm{N}, \\mathrm{B}$ 说法不正确;\nC. B、C、O、 $\\mathrm{N}$ 的未成对电子数分别为 $1 、 2 、 2 、 3$, 因此, 基态原子未成对电子数 $\\mathrm{B}<\\mathrm{C}=\\mathrm{O}<\\mathrm{N}, \\mathrm{C}$ 说法不正确;\nD. $\\left[\\mathrm{C}\\left(\\mathrm{NH}_2\\right)_3\\right]^{+}$为平面结构, 则其中的 $\\mathrm{C}$ 和 $\\mathrm{N}$ 原子轨道杂化类型均为 $\\mathrm{sp}^2 ;\\left[\\mathrm{B}\\left(\\mathrm{OCH}_3\\right)_4\\right]^{-}$中 $\\mathrm{B}$ 与 4 个 $\\mathrm{O}$形成了 4 个 $\\sigma$ 键, $B$ 没有孤电子对, 则 $\\mathrm{B}$ 的原子轨道杂化类型为 $\\mathrm{sp}^3 ;\\left[\\mathrm{B}\\left(\\mathrm{OCH}_3\\right)_4\\right]^{-}$中 $\\mathrm{O}$ 分别与 $\\mathrm{B}$ 和 $\\mathrm{C}$形成了 2 个 $\\sigma$ 键, $\\mathrm{O}$ 原子还有 2 个孤电子对, 则 $\\mathrm{O}$ 的原子轨道的杂化类型均为 $\\mathrm{sp}^3$; 综上所述, 晶体中 $\\mathrm{B} 、 \\mathrm{O}$ 和 $\\mathrm{N}$ 原子轨道的杂化类型不相同, $\\mathrm{D}$ 说法不正确;综上所述, 本题选 $\\mathrm{A}$ 。",
+            "index": 63,
+            "score": 6
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "4. 一种以 $\\mathrm{V}_2 \\mathrm{O}_5$ 和 $\\mathrm{Zn}$ 为电极、 $\\mathrm{Zn}\\left(\\mathrm{CF}_3 \\mathrm{SO}_3\\right)_2$ 水溶液为电解质的电池, 其示意图如下所示。放电时, $\\mathrm{Zn}^{2+}$ 可插入 $\\mathrm{V}_2 \\mathrm{O}_5$ 层间形成 $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}$ 。下列说法错误的是\nA. 放电时 $\\mathrm{V}_2 \\mathrm{O}_5$ 为正极\nB. 放电时 $\\mathrm{Zn}^{2+}$ 由负极向正极迁移\nC. 充电总反应: $x Z n+V_2 O_5+n_2 \\mathrm{O}=\\mathrm{Zn}_x \\mathrm{~V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}$\nD. 充电阳极反应: $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}-2 \\mathrm{xe}^{-}=\\mathrm{xZn}^{2+}+\\mathrm{V}_2 \\mathrm{O}_5+\\mathrm{nH}_2 \\mathrm{O}$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_64_0.png"
+            ],
+            "answer": [
+                "C"
+            ],
+            "analysis": "【详解】A. 由题信息可知, 放电时, $\\mathrm{Zn}^{2+}$ 可插入 $\\mathrm{V}_2 \\mathrm{O}_5$ 层间形成 $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}, \\mathrm{V}_2 \\mathrm{O}_5$ 发生了还原反应, 则放电时 $\\mathrm{V}_2 \\mathrm{O}_5$ 为正极, $\\mathrm{A}$ 说法正确;\nB. $\\mathrm{Zn}$ 为负极, 放电时 $\\mathrm{Zn}$ 失去电子变为 $\\mathrm{Zn}^{2+}$, 阳离子向正极迁移, 则放电时 $\\mathrm{Zn}^{2+}$ 由负极向正极迁移, $\\underline{\\underline{B}}$说法正确;\nC. 电池在放电时的总反应为 $\\mathrm{xZn}+\\mathrm{V}_2 \\mathrm{O}_5+\\mathrm{nH}_2 \\mathrm{O}=\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}$, 则其在充电时的总反应为 $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{Ox}=\\mathrm{Zn}+\\mathrm{V}_2 \\mathrm{O}_5+\\mathrm{nH}_2 \\mathrm{O}, \\mathrm{C} \\text {说法不正确;}$\nD. 充电阳极上 $\\mathrm{Zn}_{\\mathrm{x}} \\mathrm{V}_2 \\mathrm{O}_5 \\cdot \\mathrm{nH}_2 \\mathrm{O}$ 被氧化为 $\\mathrm{V}_2 \\mathrm{O}_5$, 则阳极的电极反应为综上所述, 本题选 C。",
+            "index": 64,
+            "score": 6
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "6. “肼合成酶”以其中的 $\\mathrm{Fe}^{2+}$ 配合物为催化中心, 可将 $\\mathrm{NH}_2 \\mathrm{OH}$ 与 $\\mathrm{NH}_3$ 转化为肼 $\\left(\\mathrm{NH}_2 \\mathrm{NH}_2\\right)$, 其反应历程如下所示。\n下列说法错误的是\nA. $\\mathrm{NH}_2 \\mathrm{OH} 、 \\mathrm{NH}_3$ 和 $\\mathrm{H}_2 \\mathrm{O}$ 均为极性分子\nB. 反应涉及 $\\mathrm{N}-\\mathrm{H} 、 \\mathrm{~N}-\\mathrm{O}$ 键断裂和 $\\mathrm{N}-\\mathrm{N}$ 键生成\nC. 催化中心的 $\\mathrm{Fe}^{2+}$ 被氧化为 $\\mathrm{Fe}^{3+}$, 后又被还原为 $\\mathrm{Fe}^{2+}$\nD. 将 $\\mathrm{NH}_2 \\mathrm{OH}$ 替换为 $\\mathrm{ND}_2 \\mathrm{OD}$, 反应可得 $\\mathrm{ND}_2 \\mathrm{ND}_2$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_65_0.png"
+            ],
+            "answer": [
+                "D"
+            ],
+            "analysis": "【详解】 A. $\\mathrm{NH}_2 \\mathrm{OH}, \\mathrm{NH}_3, \\mathrm{H}_2 \\mathrm{O}$ 的电荷分布都不均匀, 不对称, 为极性分子, $\\mathrm{A}$ 正确;\nB. 由反应历程可知, 有 $\\mathrm{N}-\\mathrm{H}, \\mathrm{N}-\\mathrm{O}$ 键断裂, 还有 $\\mathrm{N}-\\mathrm{H}$ 键的生成, B 正确;\nC. 由反应历程可知, 反应过程中, $\\mathrm{Fe}^{2+}$ 先失去电子发生氧化反应生成 $\\mathrm{Fe}^{3+}$, 后面又得到电子生成 $\\mathrm{Fe}^{2+}, \\mathrm{C}$ 正确;\nD. 由反应历程可知, 反应过程中, 生成的 $\\mathrm{NH}_2 \\mathrm{NH}_2$ 有两个氢来源于 $\\mathrm{NH}_3$, 所以将 $\\mathrm{NH}_2 \\mathrm{OH}$ 替换为 $\\mathrm{ND}_2 \\mathrm{OD}$,不可能得到 $\\mathrm{ND}_2 \\mathrm{ND}_2$, 得到 $\\mathrm{ND}_2 \\mathrm{NH}_2$ 和 $\\mathrm{HDO}, \\mathrm{D}$ 错误;故选 D。",
+            "index": 65,
+            "score": 6
+        },
+        {
+            "year": "2023",
+            "category": "新课标卷",
+            "question": "7. 向 $\\mathrm{AgCl}$ 饱和溶液(有足量 $\\mathrm{AgCl}$ 固体)中滴加氨水, 发生反应 $\\mathrm{Ag}^{+}+\\mathrm{NH}_3 \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}$和 $\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}+\\mathrm{NH}_3 \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}, \\lg \\left[\\mathrm{c}(\\mathrm{M}) /\\left(\\mathrm{mol} \\cdot \\mathrm{L}^{-1}\\right)\\right]$ 与 $\\lg \\left[\\mathrm{c}\\left(\\mathrm{NH}_3\\right) /\\left(\\mathrm{mol} \\cdot \\mathrm{L}^{-1}\\right)\\right]$ 的关系如下图所示(其中 $\\mathrm{M}$ 代表 $\\mathrm{Ag}^{+} 、 \\mathrm{Cl}^{-} 、\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}$或 $\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}$)。\n下列说法错误的是\nA. 曲线 I 可视为 $\\mathrm{AgCl}$ 溶解度随 $\\mathrm{NH}_3$ 浓度变化曲线\nB. $\\mathrm{AgCl}$ 的溶度积常数 $\\mathrm{K}_{\\mathrm{sp}}=\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right) \\cdot \\mathrm{c}\\left(\\mathrm{Cl}^{-}\\right)=10^{-9.75}$\nC. 反应 $\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}+\\mathrm{NH}_3 \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}$平衡常数 $K$ 的值为 $10^{3.81}$\nD. $\\mathrm{c}\\left(\\mathrm{NH}_3\\right)=0.01 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 时, 溶液中 $\\mathrm{c}\\left(\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}\\right)>\\mathrm{c}\\left(\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}\\right)>\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right)$",
+            "picture": [
+                "../Data/2010-2023_Chemistry_MCQs/2010-2023_Chemistry_MCQs_66_0.png"
+            ],
+            "answer": [
+                "B"
+            ],
+            "analysis": "【详解】A. 由分析可知, 曲线 I 为二氨合银离子与氨气浓度对数变化 曲线, 可视为氯化银溶解度随 $\\mathrm{NH}_3$ 浓度变化曲线, 故 A 正确;\nB. 由分析可知, 曲线 I、II、III、IV 分别表示二氨合银离子、一氨合银离子、银离子、氯离子与氨气浓度对数变化的曲线, 由图可知, 氨分子浓度小于 $10^{-6} \\mathrm{~mol} / \\mathrm{L}$ 时, 溶液中银离子和氯离子浓度均为 $10^{-}$ ${ }^5 \\mathrm{~mol} / \\mathrm{L}$, 则氯化银的溶度积为 $10^{-5} \\times 10^{-5}=10^{-10}$, 故 B 错误;\nC. 由图可知, 氨分子浓度对数为 -1 时, 溶液中二氨合银离子和一氨合银离子的浓度分别为 $10^{-2,35} \\mathrm{~mol} / \\mathrm{L}$\n和 $10^{-5.16 \\mathrm{~mol} / \\mathrm{L}}$, 则 $\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}+\\mathrm{NH}_3 \\quad\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}$的平衡常数 $K=\\frac{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right]}{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right] \\mathrm{c}\\left(\\mathrm{NH}_3\\right)}=$\n$\\frac{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right]}{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right] \\mathrm{c}\\left(\\mathrm{NH}_3\\right)}=\\frac{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right]}{\\mathrm{c}\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)^{+}\\right] \\mathrm{c}\\left(\\mathrm{NH}_3\\right)} \\frac{10^{-2,35}}{10^{-5.16} \\times 10^{-1}}=10^{3.81}$, 故 C 正确;\nD. 由分析可知, 曲线 I、II、III、IV 分别表示二氨合银离子、一氨合银离子、银离子、氯离子与氨气浓度对数变化的曲线, 则 $\\mathrm{c}\\left(\\mathrm{NH}_3\\right)=0.01 \\mathrm{~mol} \\cdot \\mathrm{L}^{-1}$ 时, 溶液中\n$\\mathrm{c}\\left(\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)_2\\right]^{+}\\right)>\\mathrm{c}\\left(\\left[\\mathrm{Ag}\\left(\\mathrm{NH}_3\\right)\\right]^{+}\\right)>\\mathrm{c}\\left(\\mathrm{Ag}^{+}\\right)$, 故 D 正确;\n故选 B。",
+            "index": 66,
+            "score": 6
+        }
+    ]
+}

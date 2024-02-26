@@ -40,7 +40,7 @@ GAOKAO-MM comprises 8 subjects: Chinese, Mathematics, Physics, Chemistry, Biolog
 
 * **Image**
 
-<img src="/Users/yizong/Desktop/GAOKAO-MM/Images/2010-2023_History_MCQs_14_0.png" style="zoom:50%;" />
+<img src="./Images/2010-2023_History_MCQs_14_0.png" style="zoom:50%;" />
 
 * **Answer**
 

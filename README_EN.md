@@ -2,7 +2,7 @@
 
 GAOKAO-MM is a multimodal benchmark based on Chinese College Entrance Examination (GAOKAO), evaluating the abilities of large vision-language models (LVLMs) including perception, understanding, knowledge and reasoning. 
 
-[[Read In Chinese]](./README.md)[[Paper]]()
+[[Read In Chinese]](./README.md)[[Paper]](https://arxiv.org/abs/2402.15745)
 
 ## Introduction
 

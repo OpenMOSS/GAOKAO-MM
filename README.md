@@ -2,7 +2,7 @@
 
 GAOKAO-MM是一个以中国高考题目为数据集的多模态评测基准，测评多模态模型的感知、理解、知识、推理等综合能力。
 
-[[Read In English]](./README_EN.md)[[Paper]]()
+[[Read In English]](./README_EN.md)[[Paper]](https://arxiv.org/abs/2402.15745)
 
 ## 介绍
 

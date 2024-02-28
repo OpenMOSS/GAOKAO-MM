@@ -119,3 +119,12 @@ python OBJ_score_evaluation.py --obj_output_dir=../Results/gpt-4-vision-preview
 你可以将其他模型封装为API并存放在`./Models`中，封装方式可参考`./Models/openai_gpt4.py`。
 
 ## 引用
+
+> @misc{zong2024gaokaomm,
+>       title={GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation}, 
+>       author={Yi Zong and Xipeng Qiu},
+>       year={2024},
+>       eprint={2402.15745},
+>       archivePrefix={arXiv},
+>       primaryClass={cs.CL}
+> }

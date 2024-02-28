@@ -120,3 +120,11 @@ You can encapsulate other models as APIs and store them in `./Models`, with the 
 
 ## Citation
 
+> @misc{zong2024gaokaomm,
+>       title={GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation}, 
+>       author={Yi Zong and Xipeng Qiu},
+>       year={2024},
+>       eprint={2402.15745},
+>       archivePrefix={arXiv},
+>       primaryClass={cs.CL}
+> }
